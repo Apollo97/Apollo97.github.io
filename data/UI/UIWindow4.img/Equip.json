@@ -1,0 +1,2406 @@
+{
+	"backgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": -2,
+		"": "/UI/UIWindow4.img/Equip/backgrnd",
+		"__w": 232,
+		"__h": 348
+	},
+	"backgrnd2": {
+		"origin": {
+			"x": -9,
+			"y": -44
+		},
+		"z": -1,
+		"": "/UI/UIWindow4.img/Equip/backgrnd2",
+		"__w": 214,
+		"__h": 256
+	},
+	"tabbar": {
+		"origin": {
+			"x": -7,
+			"y": -41
+		},
+		"z": 0,
+		"": "/UI/UIWindow4.img/Equip/tabbar",
+		"__w": 218,
+		"__h": 4
+	},
+	"Equip": {
+		"backgrnd": {
+			"origin": {
+				"x": -55,
+				"y": -69
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Equip/backgrnd",
+			"__w": 127,
+			"__h": 209
+		},
+		"Slots": {
+			"1": {
+				"origin": {
+					"x": -96,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/1",
+				"__w": 40,
+				"__h": 39
+			},
+			"2": {
+				"origin": {
+					"x": -96,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/2",
+				"__w": 40,
+				"__h": 39
+			},
+			"3": {
+				"origin": {
+					"x": -96,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/3",
+				"__w": 40,
+				"__h": 39
+			},
+			"4": {
+				"origin": {
+					"x": -137,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/4",
+				"__w": 40,
+				"__h": 39
+			},
+			"5": {
+				"origin": {
+					"x": -96,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/5",
+				"__w": 40,
+				"__h": 39
+			},
+			"6": {
+				"origin": {
+					"x": -96,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/6",
+				"__w": 40,
+				"__h": 39
+			},
+			"7": {
+				"origin": {
+					"x": -96,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/7",
+				"__w": 40,
+				"__h": 39
+			},
+			"8": {
+				"origin": {
+					"x": -137,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/8",
+				"__w": 40,
+				"__h": 39
+			},
+			"9": {
+				"origin": {
+					"x": -178,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/9",
+				"__w": 40,
+				"__h": 39
+			},
+			"10": {
+				"origin": {
+					"x": -178,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/10",
+				"__w": 40,
+				"__h": 39
+			},
+			"11": {
+				"origin": {
+					"x": -55,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/11",
+				"__w": 40,
+				"__h": 39
+			},
+			"12": {
+				"origin": {
+					"x": -14,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"13": {
+				"origin": {
+					"x": -14,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"15": {
+				"origin": {
+					"x": -14,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"16": {
+				"origin": {
+					"x": -14,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"17": {
+				"origin": {
+					"x": -55,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/17",
+				"__w": 40,
+				"__h": 39
+			},
+			"21": {
+				"origin": {
+					"x": -178,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/21",
+				"__w": 40,
+				"__h": 39
+			},
+			"22": {
+				"origin": {
+					"x": -55,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/22",
+				"__w": 40,
+				"__h": 39
+			},
+			"23": {
+				"origin": {
+					"x": -137,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/23",
+				"__w": 40,
+				"__h": 39
+			},
+			"26": {
+				"origin": {
+					"x": -14,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/26",
+				"__w": 40,
+				"__h": 39
+			},
+			"27": {
+				"origin": {
+					"x": -137,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/27",
+				"__w": 40,
+				"__h": 39
+			},
+			"28": {
+				"origin": {
+					"x": -137,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/28",
+				"__w": 40,
+				"__h": 39
+			},
+			"29": {
+				"origin": {
+					"x": -178,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/29",
+				"__w": 40,
+				"__h": 39
+			},
+			"30": {
+				"origin": {
+					"x": -178,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/30",
+				"__w": 40,
+				"__h": 39
+			},
+			"31": {
+				"origin": {
+					"x": -14,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/31",
+				"__w": 40,
+				"__h": 39
+			},
+			"32": {
+				"origin": {
+					"x": -137,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/32",
+				"__w": 40,
+				"__h": 39
+			},
+			"33": {
+				"origin": {
+					"x": -178,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/33",
+				"__w": 40,
+				"__h": 39
+			},
+			"34": {
+				"origin": {
+					"x": -178,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/34",
+				"__w": 40,
+				"__h": 39
+			},
+			"35": {
+				"origin": {
+					"x": -178,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/35",
+				"__w": 40,
+				"__h": 39
+			},
+			"36": {
+				"origin": {
+					"x": -55,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/36",
+				"__w": 40,
+				"__h": 39
+			},
+			"30_2": {
+				"origin": {
+					"x": -178,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/30_2",
+				"__w": 40,
+				"__h": 39
+			},
+			"35_2": {
+				"origin": {
+					"x": -178,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/35",
+				"__w": 40,
+				"__h": 39
+			}
+		},
+		"BtSlot": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -173,
+						"y": -307
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSlot/normal/0",
+					"__w": 48,
+					"__h": 13
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -173,
+						"y": -307
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSlot/pressed/0",
+					"__w": 48,
+					"__h": 13
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -173,
+						"y": -307
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSlot/disabled/0",
+					"__w": 48,
+					"__h": 13
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -173,
+						"y": -307
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSlot/mouseOver/0",
+					"__w": 48,
+					"__h": 14
+				}
+			}
+		},
+		"disabled": {
+			"z": 1,
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindow4.img/Equip/Equip/disabled",
+			"__w": 40,
+			"__h": 39
+		},
+		"disabled2": {
+			"z": 1,
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindow4.img/Equip/Equip/disabled2",
+			"__w": 39,
+			"__h": 38
+		},
+		"ZeroEffect": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow4.img/Equip/Equip/ZeroEffect/0",
+				"__w": 42,
+				"__h": 42
+			},
+			"1": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow4.img/Equip/Equip/ZeroEffect/1",
+				"__w": 42,
+				"__h": 42
+			},
+			"2": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow4.img/Equip/Equip/ZeroEffect/2",
+				"__w": 42,
+				"__h": 42
+			}
+		},
+		"BtZeroWp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroWp/normal/0",
+					"__w": 49,
+					"__h": 13
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroWp/pressed/0",
+					"__w": 49,
+					"__h": 13
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroWp/disabled/0",
+					"__w": 49,
+					"__h": 13
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroWp/mouseOver/0",
+					"__w": 49,
+					"__h": 13
+				}
+			},
+			"ToolTip": "神之子專用武器欄位\\r\\n擁有多樣與武器相關的功能.\\r\\n神之子#c只能透過此欄位進行武器強化#."
+		},
+		"BtZeroCash": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -62,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroCash/normal/0",
+					"__w": 39,
+					"__h": 13
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -62,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroCash/pressed/0",
+					"__w": 39,
+					"__h": 13
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -62,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroCash/disabled/0",
+					"__w": 39,
+					"__h": 13
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -62,
+						"y": -307
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtZeroCash/mouseOver/0",
+					"__w": 39,
+					"__h": 13
+				}
+			},
+			"ToolTip": "神之子專用特殊欄位\\r\\n可以自由裝備性別不同的阿爾法與蓓塔外觀裝備\\r\\n."
+		},
+		"BtArcEqp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/normal/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/pressed/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/disabled/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/mouseOver/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"ToolTip": "確認奧術符文。",
+			"ToolTip_Disabled": "5次轉職後才可確認。"
+		},
+		"BtArcAni": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/normal/0",
+					"__w": 47,
+					"__h": 13
+				},
+				"1": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcAni/normal/1",
+					"__w": 47,
+					"__h": 13
+				},
+				"2": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcAni/normal/2",
+					"__w": 47,
+					"__h": 13
+				},
+				"3": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcAni/normal/3",
+					"__w": 47,
+					"__h": 13
+				},
+				"4": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcAni/normal/4",
+					"__w": 47,
+					"__h": 13
+				},
+				"5": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcAni/normal/5",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/pressed/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/disabled/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -174,
+						"y": -307
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtArcEqp/mouseOver/0",
+					"__w": 47,
+					"__h": 13
+				}
+			},
+			"ToolTip": "請強化奧術符文。"
+		},
+		"btToggle": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -169,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/btToggle/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -169,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/btToggle/pressed/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -169,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/btToggle/disabled/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -169,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/btToggle/mouseOver/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"ToolTip": "打開交易線情報\\r\\n擁有交易相關的多樣功能。\\r\\n交易道具#c只可透過此視窗來確認#。"
+		},
+		"DisableEffect": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/0",
+					"__w": 49,
+					"__h": 48
+				},
+				"1": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/1",
+					"__w": 49,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/2",
+					"__w": 50,
+					"__h": 48
+				},
+				"3": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/3",
+					"__w": 50,
+					"__h": 48
+				},
+				"4": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/4",
+					"__w": 50,
+					"__h": 48
+				},
+				"5": {
+					"origin": {
+						"x": 4,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/0/5",
+					"__w": 49,
+					"__h": 48
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/0",
+					"__w": 49,
+					"__h": 48
+				},
+				"1": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/1",
+					"__w": 49,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/2",
+					"__w": 50,
+					"__h": 48
+				},
+				"3": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/3",
+					"__w": 50,
+					"__h": 48
+				},
+				"4": {
+					"origin": {
+						"x": 5,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/4",
+					"__w": 50,
+					"__h": 48
+				},
+				"5": {
+					"origin": {
+						"x": 4,
+						"y": 5
+					},
+					"z": 0,
+					"": "/UI/UIWindow4.img/Equip/Equip/DisableEffect/1/5",
+					"__w": 49,
+					"__h": 48
+				}
+			}
+		},
+		"BtDisableEffect": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/pressed/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"checked": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/normal/0",
+					"__w": 51,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/checked/1",
+					"__w": 51,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/checked/2",
+					"__w": 51,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/checked/1",
+					"__w": 51,
+					"__h": 16
+				},
+				"4": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/disabled/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDisableEffect/mouseOver/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"ToolTip": "裝備特效ON/OFF功能開啟\\r\\n功能開啟後，滑鼠右鍵點擊裝備插槽時，可以把特效進行 ON/OFF"
+		},
+		"BtSalon": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -63,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSalon/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -63,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSalon/pressed/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -63,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSalon/disabled/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -63,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtSalon/mouseOver/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"ToolTip": "美容相簿-可以隨時儲存/變更髮型與整形"
+		},
+		"BtDmgSkin": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/pressed/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"checked": {
+				"0": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/normal/0",
+					"__w": 51,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/checked/1",
+					"__w": 51,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/checked/2",
+					"__w": 51,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/checked/1",
+					"__w": 51,
+					"__h": 16
+				},
+				"4": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/normal/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/disabled/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -116,
+						"y": -322
+					},
+					"z": 4,
+					"": "/UI/UIWindow4.img/Equip/Equip/BtDmgSkin/mouseOver/0",
+					"__w": 51,
+					"__h": 16
+				}
+			},
+			"ToolTip": "傷害字型相簿－可以隨時儲存/變更傷害字型效果"
+		}
+	},
+	"Cash": {
+		"backgrnd": {
+			"origin": {
+				"x": -55,
+				"y": -69
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Equip/backgrnd",
+			"__w": 127,
+			"__h": 209
+		},
+		"Slots": {
+			"101": {
+				"origin": {
+					"x": -96,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/1",
+				"__w": 40,
+				"__h": 39
+			},
+			"102": {
+				"origin": {
+					"x": -96,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Cash/Slots/102",
+				"__w": 40,
+				"__h": 39
+			},
+			"103": {
+				"origin": {
+					"x": -96,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/2",
+				"__w": 40,
+				"__h": 39
+			},
+			"104": {
+				"origin": {
+					"x": -137,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/4",
+				"__w": 40,
+				"__h": 39
+			},
+			"105": {
+				"origin": {
+					"x": -96,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/5",
+				"__w": 40,
+				"__h": 39
+			},
+			"106": {
+				"origin": {
+					"x": -96,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/6",
+				"__w": 40,
+				"__h": 39
+			},
+			"107": {
+				"origin": {
+					"x": -96,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/7",
+				"__w": 40,
+				"__h": 39
+			},
+			"108": {
+				"origin": {
+					"x": -137,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/8",
+				"__w": 40,
+				"__h": 39
+			},
+			"109": {
+				"origin": {
+					"x": -178,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/9",
+				"__w": 40,
+				"__h": 39
+			},
+			"110": {
+				"origin": {
+					"x": -178,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Cash/Slots/110",
+				"__w": 40,
+				"__h": 39
+			},
+			"111": {
+				"origin": {
+					"x": -55,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/11",
+				"__w": 40,
+				"__h": 39
+			},
+			"112": {
+				"origin": {
+					"x": -14,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"113": {
+				"origin": {
+					"x": -14,
+					"y": -132
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"115": {
+				"origin": {
+					"x": -14,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"116": {
+				"origin": {
+					"x": -14,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/12",
+				"__w": 40,
+				"__h": 39
+			},
+			"hair": {
+				"origin": {
+					"x": -55,
+					"y": -92
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Cash/Slots/hair",
+				"__w": 42,
+				"__h": 39
+			},
+			"face": {
+				"origin": {
+					"x": -55,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Cash/Slots/face",
+				"__w": 42,
+				"__h": 39
+			}
+		},
+		"BtShop": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -151,
+						"y": -49
+					},
+					"": "/UI/UIWindow4.img/Equip/Cash/BtShop/normal/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -151,
+						"y": -49
+					},
+					"": "/UI/UIWindow4.img/Equip/Cash/BtShop/pressed/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -151,
+						"y": -49
+					},
+					"": "/UI/UIWindow4.img/Equip/Cash/BtShop/disabled/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -151,
+						"y": -49
+					},
+					"": "/UI/UIWindow4.img/Equip/Cash/BtShop/mouseOver/0",
+					"__w": 68,
+					"__h": 24
+				}
+			}
+		}
+	},
+	"Pet": {
+		"backgrnd": {
+			"origin": {
+				"x": -14,
+				"y": -50
+			},
+			"z": 0,
+			"": "/UI/UIWindow4.img/Equip/Pet/backgrnd",
+			"__w": 204,
+			"__h": 209
+		},
+		"Slots": {
+			"114": {
+				"origin": {
+					"x": -71,
+					"y": -57
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/114",
+				"__w": 40,
+				"__h": 39
+			},
+			"124": {
+				"origin": {
+					"x": -71,
+					"y": -106
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/114",
+				"__w": 40,
+				"__h": 39
+			},
+			"125": {
+				"origin": {
+					"x": -71,
+					"y": -155
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/114",
+				"__w": 40,
+				"__h": 39
+			},
+			"126": {
+				"origin": {
+					"x": -71,
+					"y": -155
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/114",
+				"__w": 40,
+				"__h": 39
+			},
+			"200": {
+				"origin": {
+					"x": -170,
+					"y": -106
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/200",
+				"__w": 40,
+				"__h": 39
+			},
+			"201": {
+				"origin": {
+					"x": -170,
+					"y": -58
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/201",
+				"__w": 40,
+				"__h": 39
+			},
+			"202": {
+				"origin": {
+					"x": -170,
+					"y": -155
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/202",
+				"__w": 40,
+				"__h": 39
+			},
+			"Pet1": {
+				"origin": {
+					"x": -21,
+					"y": -57
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Pet1",
+				"__w": 40,
+				"__h": 39
+			},
+			"Pet2": {
+				"origin": {
+					"x": -21,
+					"y": -106
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Pet2",
+				"__w": 40,
+				"__h": 39
+			},
+			"Pet3": {
+				"origin": {
+					"x": -21,
+					"y": -155
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Pet3",
+				"__w": 40,
+				"__h": 39
+			},
+			"Skill1": {
+				"origin": {
+					"x": -113,
+					"y": -57
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Skill1",
+				"__w": 40,
+				"__h": 39
+			},
+			"Skill2": {
+				"origin": {
+					"x": -113,
+					"y": -106
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Skill1",
+				"__w": 40,
+				"__h": 39
+			},
+			"Skill3": {
+				"origin": {
+					"x": -113,
+					"y": -155
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Pet/Slots/Skill1",
+				"__w": 40,
+				"__h": 39
+			}
+		},
+		"BtConsumeSetting": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtConsumeSetting/normal/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtConsumeSetting/pressed/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtConsumeSetting/disabled/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtConsumeSetting/mouseOver/0",
+					"__w": 99,
+					"__h": 32
+				}
+			}
+		},
+		"BtException": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -118,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtException/normal/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -118,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtException/pressed/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -118,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtException/disabled/0",
+					"__w": 99,
+					"__h": 32
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -118,
+						"y": -262
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Pet/BtException/mouseOver/0",
+					"__w": 99,
+					"__h": 32
+				}
+			}
+		},
+		"PetFood": {
+			"0": {
+				"origin": {
+					"x": -115,
+					"y": -215
+				},
+				"z": 3,
+				"": "/UI/UIWindow4.img/Equip/Pet/PetFood/0",
+				"__w": 90,
+				"__h": 14
+			},
+			"1": {
+				"origin": {
+					"x": -115,
+					"y": -215
+				},
+				"z": 3,
+				"": "/UI/UIWindow4.img/Equip/Pet/PetFood/1",
+				"__w": 90,
+				"__h": 14
+			}
+		},
+		"ItemRoot": {
+			"0": {
+				"origin": {
+					"x": -115,
+					"y": -233
+				},
+				"z": 3,
+				"": "/UI/UIWindow4.img/Equip/Pet/ItemRoot/0",
+				"__w": 66,
+				"__h": 14
+			},
+			"1": {
+				"origin": {
+					"x": -115,
+					"y": -233
+				},
+				"z": 3,
+				"": "/UI/UIWindow4.img/Equip/Pet/ItemRoot/1",
+				"__w": 66,
+				"__h": 14
+			}
+		}
+	},
+	"Android": {
+		"backgrnd": {
+			"origin": {
+				"x": -47,
+				"y": -69
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Android/backgrnd",
+			"__w": 162,
+			"__h": 209
+		},
+		"Slots": {
+			"1200": {
+				"origin": {
+					"x": -96,
+					"y": -50
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/1",
+				"__w": 40,
+				"__h": 39
+			},
+			"1201": {
+				"origin": {
+					"x": -137,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/28",
+				"__w": 40,
+				"__h": 39
+			},
+			"1202": {
+				"origin": {
+					"x": -96,
+					"y": -91
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Android/Slots/1202",
+				"__w": 40,
+				"__h": 39
+			},
+			"1203": {
+				"origin": {
+					"x": -96,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/5",
+				"__w": 40,
+				"__h": 39
+			},
+			"1204": {
+				"origin": {
+					"x": -96,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/6",
+				"__w": 40,
+				"__h": 39
+			},
+			"1205": {
+				"origin": {
+					"x": -96,
+					"y": -255
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/7",
+				"__w": 40,
+				"__h": 39
+			},
+			"1206": {
+				"origin": {
+					"x": -55,
+					"y": -214
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/8",
+				"__w": 40,
+				"__h": 39
+			}
+		},
+		"BtShop": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -50
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Android/BtShop/normal/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -50
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Android/BtShop/pressed/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -50
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Android/BtShop/disabled/0",
+					"__w": 68,
+					"__h": 24
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -50
+					},
+					"z": 3,
+					"": "/UI/UIWindow4.img/Equip/Android/BtShop/mouseOver/0",
+					"__w": 68,
+					"__h": 24
+				}
+			}
+		}
+	},
+	"Dragon": {
+		"backgrnd": {
+			"origin": {
+				"x": -21,
+				"y": -90
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Dragon/backgrnd",
+			"__w": 195,
+			"__h": 162
+		},
+		"Slots": {
+			"1000": {
+				"origin": {
+					"x": -23,
+					"y": -114
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/1",
+				"__w": 40,
+				"__h": 39
+			},
+			"1001": {
+				"origin": {
+					"x": -61,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Dragon/Slots/1001",
+				"__w": 40,
+				"__h": 39
+			},
+			"1002": {
+				"origin": {
+					"x": -120,
+					"y": -114
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Dragon/Slots/1002",
+				"__w": 40,
+				"__h": 39
+			},
+			"1003": {
+				"origin": {
+					"x": -170,
+					"y": -149
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Dragon/Slots/1003",
+				"__w": 40,
+				"__h": 39
+			}
+		}
+	},
+	"Mechanic": {
+		"backgrnd": {
+			"origin": {
+				"x": -30,
+				"y": -65
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Mechanic/backgrnd",
+			"__w": 185,
+			"__h": 198
+		},
+		"Slots": {
+			"1100": {
+				"origin": {
+					"x": -89,
+					"y": -174
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Mechanic/Slots/1100",
+				"__w": 40,
+				"__h": 39
+			},
+			"1101": {
+				"origin": {
+					"x": -168,
+					"y": -198
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Mechanic/Slots/1101",
+				"__w": 40,
+				"__h": 39
+			},
+			"1102": {
+				"origin": {
+					"x": -100,
+					"y": -226
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Mechanic/Slots/1102",
+				"__w": 40,
+				"__h": 39
+			},
+			"1103": {
+				"origin": {
+					"x": -25,
+					"y": -122
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Mechanic/Slots/1103",
+				"__w": 40,
+				"__h": 39
+			},
+			"1104": {
+				"origin": {
+					"x": -112,
+					"y": -96
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Mechanic/Slots/1104",
+				"__w": 40,
+				"__h": 39
+			}
+		}
+	},
+	"Coordinate": {
+		"backgrnd": {
+			"origin": {
+				"x": -26,
+				"y": -69
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Coordinate/backgrnd",
+			"__w": 187,
+			"__h": 209
+		},
+		"Slots": {
+			"1000": {
+				"origin": {
+					"x": -55,
+					"y": -60
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1000",
+				"__w": 40,
+				"__h": 39
+			},
+			"1300": {
+				"origin": {
+					"x": -96,
+					"y": -60
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1300",
+				"__w": 40,
+				"__h": 39
+			},
+			"1301": {
+				"origin": {
+					"x": -137,
+					"y": -183
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1301",
+				"__w": 40,
+				"__h": 39
+			},
+			"1302": {
+				"origin": {
+					"x": -96,
+					"y": -101
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/2",
+				"__w": 40,
+				"__h": 39
+			},
+			"1303": {
+				"origin": {
+					"x": -96,
+					"y": -183
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1303",
+				"__w": 40,
+				"__h": 39
+			},
+			"1304": {
+				"origin": {
+					"x": -55,
+					"y": -224
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1304",
+				"__w": 40,
+				"__h": 39
+			},
+			"2000": {
+				"origin": {
+					"x": -96,
+					"y": -142
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/2000",
+				"__w": 40,
+				"__h": 39
+			}
+		}
+	},
+	"Tab": {
+		"enabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/0",
+				"__w": 42,
+				"__h": 19
+			},
+			"1": {
+				"origin": {
+					"x": -52,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/1",
+				"__w": 42,
+				"__h": 19
+			},
+			"2": {
+				"origin": {
+					"x": -95,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/2",
+				"__w": 42,
+				"__h": 19
+			},
+			"3": {
+				"origin": {
+					"x": -138,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/3",
+				"__w": 42,
+				"__h": 19
+			},
+			"4": {
+				"origin": {
+					"x": -181,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/4",
+				"__w": 42,
+				"__h": 19
+			},
+			"5": {
+				"origin": {
+					"x": -181,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/5",
+				"__w": 42,
+				"__h": 19
+			},
+			"6": {
+				"origin": {
+					"x": -181,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/6",
+				"__w": 42,
+				"__h": 19
+			},
+			"7": {
+				"origin": {
+					"x": -181,
+					"y": -21
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/enabled/7",
+				"__w": 42,
+				"__h": 19
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/0",
+				"__w": 42,
+				"__h": 17
+			},
+			"1": {
+				"origin": {
+					"x": -52,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/1",
+				"__w": 42,
+				"__h": 17
+			},
+			"2": {
+				"origin": {
+					"x": -95,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/2",
+				"__w": 42,
+				"__h": 17
+			},
+			"3": {
+				"origin": {
+					"x": -138,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/3",
+				"__w": 42,
+				"__h": 17
+			},
+			"4": {
+				"origin": {
+					"x": -181,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/4",
+				"__w": 42,
+				"__h": 17
+			},
+			"5": {
+				"origin": {
+					"x": -181,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/5",
+				"__w": 42,
+				"__h": 17
+			},
+			"6": {
+				"origin": {
+					"x": -181,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/6",
+				"__w": 42,
+				"__h": 17
+			},
+			"7": {
+				"origin": {
+					"x": -181,
+					"y": -23
+				},
+				"z": 0,
+				"": "/UI/UIWindow4.img/Equip/Tab/disabled/7",
+				"__w": 42,
+				"__h": 17
+			}
+		}
+	},
+	"Zero_Cash": {
+		"zeroMale": {
+			"origin": {
+				"x": -13,
+				"y": -49
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/zeroMale",
+			"__w": 184,
+			"__h": 235
+		},
+		"zeroFemale": {
+			"origin": {
+				"x": -13,
+				"y": -26
+			},
+			"z": -2,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/zeroFemale",
+			"__w": 190,
+			"__h": 235
+		},
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -1,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/backgrnd",
+			"__w": 232,
+			"__h": 307
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -9,
+				"y": -21
+			},
+			"z": -2,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/backgrnd2",
+			"__w": 214,
+			"__h": 256
+		}
+	},
+	"Angel_Cash": {
+		"change": {
+			"origin": {
+				"x": -26,
+				"y": -56
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Coordinate/backgrnd",
+			"__w": 187,
+			"__h": 209
+		},
+		"Slots": {
+			"1000": {
+				"origin": {
+					"x": -178,
+					"y": -29
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/1000",
+				"__w": 40,
+				"__h": 39
+			},
+			"1300": {
+				"origin": {
+					"x": -96,
+					"y": -29
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/1",
+				"__w": 40,
+				"__h": 39
+			},
+			"1301": {
+				"origin": {
+					"x": -178,
+					"y": -193
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/9",
+				"__w": 40,
+				"__h": 39
+			},
+			"1302": {
+				"origin": {
+					"x": -96,
+					"y": -70
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/2",
+				"__w": 40,
+				"__h": 39
+			},
+			"1303": {
+				"origin": {
+					"x": -96,
+					"y": -152
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/5",
+				"__w": 40,
+				"__h": 39
+			},
+			"1304": {
+				"origin": {
+					"x": -137,
+					"y": -193
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/8",
+				"__w": 40,
+				"__h": 39
+			},
+			"1305": {
+				"origin": {
+					"x": -96,
+					"y": -111
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/3",
+				"__w": 40,
+				"__h": 39
+			},
+			"1306": {
+				"origin": {
+					"x": -137,
+					"y": -111
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/4",
+				"__w": 40,
+				"__h": 39
+			},
+			"1307": {
+				"origin": {
+					"x": -96,
+					"y": -152
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/5",
+				"__w": 40,
+				"__h": 39
+			},
+			"1308": {
+				"origin": {
+					"x": -96,
+					"y": -193
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/6",
+				"__w": 40,
+				"__h": 39
+			},
+			"1309": {
+				"origin": {
+					"x": -96,
+					"y": -234
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/7",
+				"__w": 40,
+				"__h": 39
+			},
+			"2000": {
+				"origin": {
+					"x": -178,
+					"y": -70
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Coordinate/Slots/2000",
+				"__w": 40,
+				"__h": 39
+			}
+		},
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -1,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/backgrnd",
+			"__w": 232,
+			"__h": 307
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -9,
+				"y": -21
+			},
+			"z": -2,
+			"": "/UI/UIWindow4.img/Equip/Zero_Cash/backgrnd2",
+			"__w": 214,
+			"__h": 256
+		}
+	},
+	"Haku": {
+		"backgrnd": {
+			"origin": {
+				"x": -44,
+				"y": -74
+			},
+			"z": 3,
+			"": "/UI/UIWindow4.img/Equip/Haku/backgrnd",
+			"__w": 140,
+			"__h": 202
+		},
+		"Slots": {
+			"5200": {
+				"origin": {
+					"x": -55,
+					"y": -173
+				},
+				"z": 1,
+				"": "/UI/UIWindow4.img/Equip/Equip/Slots/11",
+				"__w": 40,
+				"__h": 39
+			}
+		}
+	},
+	"totem": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/UIWindow4.img/Equip/totem/backgrnd",
+			"__w": 141,
+			"__h": 70
+		}
+	}
+}

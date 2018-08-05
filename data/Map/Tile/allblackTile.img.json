@@ -1,0 +1,142 @@
+{
+	"info": {},
+	"bsc": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/blankTower.img/bsc/0",
+			"__w": 90,
+			"__h": 60
+		}
+	},
+	"enH0": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 25
+			},
+			"map": {},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/enH0/0",
+			"__w": 90,
+			"__h": 25
+		}
+	},
+	"enH1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/allblackTile.img/enH0/0",
+			"__w": 90,
+			"__h": 25
+		}
+	},
+	"enV0": {
+		"0": {
+			"origin": {
+				"x": 25,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/enV0/0",
+			"__w": 25,
+			"__h": 60
+		}
+	},
+	"enV1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/enV0/0",
+			"__w": 25,
+			"__h": 60
+		}
+	},
+	"edU": {
+		"0": {
+			"origin": {
+				"x": 25,
+				"y": 25
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/edU/0",
+			"__w": 50,
+			"__h": 25
+		}
+	},
+	"edD": {
+		"0": {
+			"origin": {
+				"x": 25,
+				"y": 0
+			},
+			"z": -4,
+			"": "/Map/Tile/allblackTile.img/edU/0",
+			"__w": 50,
+			"__h": 25
+		}
+	},
+	"slLU": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 85
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/slLU/0",
+			"__w": 90,
+			"__h": 85
+		}
+	},
+	"slRU": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 85
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/allblackTile.img/slLU/0",
+			"__w": 90,
+			"__h": 85
+		}
+	},
+	"slLD": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/allblackTile.img/slLU/0",
+			"__w": 90,
+			"__h": 85
+		}
+	},
+	"slRD": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/allblackTile.img/slLU/0",
+			"__w": 90,
+			"__h": 85
+		}
+	}
+}
