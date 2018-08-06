@@ -1,0 +1,2313 @@
+{
+	"editor": {
+		"sp": {
+			"origin": {
+				"x": 38,
+				"y": 100
+			},
+			"": "/Map/MapHelper/portal/editor/sp",
+			"__w": 77,
+			"__h": 100
+		},
+		"pi": {
+			"origin": {
+				"x": 50,
+				"y": 100
+			},
+			"": "/Map/MapHelper/portal/editor/pi",
+			"__w": 100,
+			"__h": 100
+		},
+		"pv": {
+			"origin": {
+				"x": 49,
+				"y": 134
+			},
+			"": "/Map/MapHelper/portal/editor/pv",
+			"__w": 101,
+			"__h": 142
+		},
+		"pc": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"": "/Map/MapHelper/portal/editor/pc",
+			"__w": 100,
+			"__h": 100
+		},
+		"pg": {
+			"origin": {
+				"x": 43,
+				"y": 173
+			},
+			"": "/Map/MapHelper/portal/editor/pg",
+			"__w": 87,
+			"__h": 182
+		},
+		"tp": {
+			"origin": {
+				"x": 44,
+				"y": 112
+			},
+			"delay": 100,
+			"": "/Map/MapHelper/portal/editor/tp",
+			"__w": 94,
+			"__h": 116
+		},
+		"ps": {
+			"origin": {
+				"x": 44,
+				"y": 112
+			},
+			"": "/Map/MapHelper/portal/editor/ps",
+			"__w": 94,
+			"__h": 116
+		},
+		"pgi": {
+			"origin": {
+				"x": 50,
+				"y": 100
+			},
+			"": "/Map/MapHelper/portal/editor/pi",
+			"__w": 100,
+			"__h": 100
+		},
+		"psi": {
+			"origin": {
+				"x": 50,
+				"y": 100
+			},
+			"": "/Map/MapHelper/portal/editor/pi",
+			"__w": 100,
+			"__h": 100
+		},
+		"pcs": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"": "/Map/MapHelper/portal/editor/pc",
+			"__w": 100,
+			"__h": 100
+		},
+		"ph": {
+			"origin": {
+				"x": 35,
+				"y": 108
+			},
+			"": "/Map/MapHelper/portal/editor/ph",
+			"__w": 72,
+			"__h": 106
+		},
+		"psh": {
+			"origin": {
+				"x": 35,
+				"y": 108
+			},
+			"": "/Map/MapHelper/portal/editor/ph",
+			"__w": 72,
+			"__h": 106
+		},
+		"pcj": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"z": 0,
+			"": "/Map/MapHelper/portal/editor/pcj",
+			"__w": 100,
+			"__h": 100
+		},
+		"pci": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"z": 0,
+			"": "/Map/MapHelper/portal/editor/pci",
+			"__w": 100,
+			"__h": 100
+		},
+		"pci2": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"z": 0,
+			"": "/Map/MapHelper/portal/editor/pci2",
+			"__w": 100,
+			"__h": 100
+		},
+		"pcig": {
+			"origin": {
+				"x": 50,
+				"y": 50
+			},
+			"z": 0,
+			"": "/Map/MapHelper/portal/editor/pcig",
+			"__w": 100,
+			"__h": 100
+		},
+		"pshg": {
+			"origin": {
+				"x": 50,
+				"y": 100
+			},
+			"z": 0,
+			"": "/Map/MapHelper/portal/editor/pshg",
+			"__w": 100,
+			"__h": 100
+		}
+	},
+	"game": {
+		"pv": {
+			"1": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 134
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/0",
+					"__w": 115,
+					"__h": 142
+				},
+				"1": {
+					"origin": {
+						"x": 56,
+						"y": 142
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/1",
+					"__w": 113,
+					"__h": 150
+				},
+				"2": {
+					"origin": {
+						"x": 59,
+						"y": 149
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/2",
+					"__w": 117,
+					"__h": 157
+				},
+				"3": {
+					"origin": {
+						"x": 60,
+						"y": 154
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/3",
+					"__w": 118,
+					"__h": 162
+				},
+				"4": {
+					"origin": {
+						"x": 58,
+						"y": 157
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/4",
+					"__w": 117,
+					"__h": 165
+				},
+				"5": {
+					"origin": {
+						"x": 56,
+						"y": 158
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/5",
+					"__w": 114,
+					"__h": 166
+				},
+				"6": {
+					"origin": {
+						"x": 56,
+						"y": 157
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/6",
+					"__w": 116,
+					"__h": 165
+				},
+				"7": {
+					"origin": {
+						"x": 56,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/1/7",
+					"__w": 116,
+					"__h": 138
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/0",
+					"__w": 120,
+					"__h": 137
+				},
+				"1": {
+					"origin": {
+						"x": 71,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/1",
+					"__w": 127,
+					"__h": 136
+				},
+				"2": {
+					"origin": {
+						"x": 72,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/2",
+					"__w": 128,
+					"__h": 137
+				},
+				"3": {
+					"origin": {
+						"x": 74,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/3",
+					"__w": 130,
+					"__h": 136
+				},
+				"4": {
+					"origin": {
+						"x": 76,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/4",
+					"__w": 132,
+					"__h": 136
+				},
+				"5": {
+					"origin": {
+						"x": 77,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/5",
+					"__w": 133,
+					"__h": 136
+				},
+				"6": {
+					"origin": {
+						"x": 64,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/6",
+					"__w": 120,
+					"__h": 137
+				},
+				"7": {
+					"origin": {
+						"x": 63,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/7",
+					"__w": 119,
+					"__h": 136
+				},
+				"8": {
+					"origin": {
+						"x": 63,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/8",
+					"__w": 120,
+					"__h": 135
+				},
+				"9": {
+					"origin": {
+						"x": 63,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/9",
+					"__w": 120,
+					"__h": 136
+				},
+				"10": {
+					"origin": {
+						"x": 63,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/10",
+					"__w": 120,
+					"__h": 135
+				},
+				"11": {
+					"origin": {
+						"x": 63,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/11",
+					"__w": 120,
+					"__h": 135
+				},
+				"12": {
+					"origin": {
+						"x": 63,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/2/12",
+					"__w": 120,
+					"__h": 136
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 167
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/0",
+					"__w": 127,
+					"__h": 178
+				},
+				"1": {
+					"origin": {
+						"x": 66,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/1",
+					"__w": 129,
+					"__h": 175
+				},
+				"2": {
+					"origin": {
+						"x": 65,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/2",
+					"__w": 128,
+					"__h": 172
+				},
+				"3": {
+					"origin": {
+						"x": 61,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/3",
+					"__w": 122,
+					"__h": 174
+				},
+				"4": {
+					"origin": {
+						"x": 60,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/4",
+					"__w": 120,
+					"__h": 170
+				},
+				"5": {
+					"origin": {
+						"x": 61,
+						"y": 164
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/5",
+					"__w": 120,
+					"__h": 172
+				},
+				"6": {
+					"origin": {
+						"x": 62,
+						"y": 166
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/6",
+					"__w": 124,
+					"__h": 174
+				},
+				"7": {
+					"origin": {
+						"x": 64,
+						"y": 167
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/7",
+					"__w": 127,
+					"__h": 178
+				},
+				"8": {
+					"origin": {
+						"x": 66,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/8",
+					"__w": 129,
+					"__h": 175
+				},
+				"9": {
+					"origin": {
+						"x": 65,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/9",
+					"__w": 128,
+					"__h": 172
+				},
+				"10": {
+					"origin": {
+						"x": 61,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/10",
+					"__w": 122,
+					"__h": 174
+				},
+				"11": {
+					"origin": {
+						"x": 60,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/11",
+					"__w": 120,
+					"__h": 170
+				},
+				"12": {
+					"origin": {
+						"x": 61,
+						"y": 164
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/12",
+					"__w": 120,
+					"__h": 172
+				},
+				"13": {
+					"origin": {
+						"x": 62,
+						"y": 166
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/3/13",
+					"__w": 124,
+					"__h": 174
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 167
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/0",
+					"__w": 127,
+					"__h": 178
+				},
+				"1": {
+					"origin": {
+						"x": 66,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/1",
+					"__w": 129,
+					"__h": 175
+				},
+				"2": {
+					"origin": {
+						"x": 65,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/2",
+					"__w": 128,
+					"__h": 172
+				},
+				"3": {
+					"origin": {
+						"x": 61,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/3",
+					"__w": 122,
+					"__h": 174
+				},
+				"4": {
+					"origin": {
+						"x": 60,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/4",
+					"__w": 120,
+					"__h": 170
+				},
+				"5": {
+					"origin": {
+						"x": 61,
+						"y": 164
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/5",
+					"__w": 120,
+					"__h": 172
+				},
+				"6": {
+					"origin": {
+						"x": 62,
+						"y": 166
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/6",
+					"__w": 124,
+					"__h": 174
+				},
+				"7": {
+					"origin": {
+						"x": 64,
+						"y": 167
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/7",
+					"__w": 127,
+					"__h": 178
+				},
+				"8": {
+					"origin": {
+						"x": 66,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/8",
+					"__w": 129,
+					"__h": 175
+				},
+				"9": {
+					"origin": {
+						"x": 65,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/9",
+					"__w": 128,
+					"__h": 172
+				},
+				"10": {
+					"origin": {
+						"x": 61,
+						"y": 165
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/10",
+					"__w": 122,
+					"__h": 174
+				},
+				"11": {
+					"origin": {
+						"x": 60,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/11",
+					"__w": 120,
+					"__h": 170
+				},
+				"12": {
+					"origin": {
+						"x": 61,
+						"y": 164
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/12",
+					"__w": 120,
+					"__h": 172
+				},
+				"13": {
+					"origin": {
+						"x": 62,
+						"y": 166
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/MapHelper/portal/game/pv/4/13",
+					"__w": 124,
+					"__h": 174
+				}
+			},
+			"default": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 134
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/editor/pv",
+					"__w": 101,
+					"__h": 142
+				},
+				"1": {
+					"origin": {
+						"x": 48,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/1",
+					"__w": 99,
+					"__h": 138
+				},
+				"2": {
+					"origin": {
+						"x": 50,
+						"y": 123
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/2",
+					"__w": 103,
+					"__h": 131
+				},
+				"3": {
+					"origin": {
+						"x": 50,
+						"y": 125
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/3",
+					"__w": 103,
+					"__h": 133
+				},
+				"4": {
+					"origin": {
+						"x": 50,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/4",
+					"__w": 103,
+					"__h": 138
+				},
+				"5": {
+					"origin": {
+						"x": 51,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/5",
+					"__w": 104,
+					"__h": 138
+				},
+				"6": {
+					"origin": {
+						"x": 49,
+						"y": 126
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/6",
+					"__w": 101,
+					"__h": 134
+				},
+				"7": {
+					"origin": {
+						"x": 49,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/MapHelper/portal/game/pv/default/7",
+					"__w": 102,
+					"__h": 138
+				}
+			}
+		},
+		"ph": {
+			"default": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 45,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/0",
+						"__w": 92,
+						"__h": 119
+					},
+					"1": {
+						"origin": {
+							"x": 47,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/1",
+						"__w": 94,
+						"__h": 118
+					},
+					"2": {
+						"origin": {
+							"x": 47,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/2",
+						"__w": 95,
+						"__h": 118
+					},
+					"3": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/3",
+						"__w": 92,
+						"__h": 118
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 44,
+							"y": 115
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/0",
+						"__w": 104,
+						"__h": 118
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/1",
+						"__w": 109,
+						"__h": 120
+					},
+					"2": {
+						"origin": {
+							"x": 61,
+							"y": 118
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/2",
+						"__w": 127,
+						"__h": 121
+					},
+					"3": {
+						"origin": {
+							"x": 62,
+							"y": 119
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/3",
+						"__w": 127,
+						"__h": 122
+					},
+					"4": {
+						"origin": {
+							"x": 61,
+							"y": 118
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/4",
+						"__w": 123,
+						"__h": 121
+					},
+					"5": {
+						"origin": {
+							"x": 55,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/5",
+						"__w": 112,
+						"__h": 120
+					},
+					"6": {
+						"origin": {
+							"x": 50,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/6",
+						"__w": 100,
+						"__h": 120
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 44,
+							"y": 115
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/0",
+						"__w": 89,
+						"__h": 117
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/1",
+						"__w": 89,
+						"__h": 118
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/2",
+						"__w": 91,
+						"__h": 118
+					}
+				}
+			}
+		},
+		"psh": {
+			"1": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 38,
+							"y": 120
+						},
+						"z": 0,
+						"a0": 0,
+						"a1": 200,
+						"delay": 1500,
+						"": "/Map/MapHelper/portal/game/psh/1/portalStart/0",
+						"__w": 77,
+						"__h": 120
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 38,
+							"y": 120
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/1/portalStart/0",
+						"__w": 77,
+						"__h": 120
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 38,
+							"y": 120
+						},
+						"z": 0,
+						"a0": 255,
+						"a1": 0,
+						"delay": 1500,
+						"": "/Map/MapHelper/portal/game/psh/1/portalStart/0",
+						"__w": 77,
+						"__h": 120
+					}
+				}
+			},
+			"2": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 36,
+							"y": 92
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/0",
+						"__w": 74,
+						"__h": 86
+					},
+					"1": {
+						"origin": {
+							"x": 39,
+							"y": 97
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/1",
+						"__w": 79,
+						"__h": 94
+					},
+					"2": {
+						"origin": {
+							"x": 40,
+							"y": 100
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/2",
+						"__w": 80,
+						"__h": 97
+					},
+					"3": {
+						"origin": {
+							"x": 43,
+							"y": 101
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/3",
+						"__w": 83,
+						"__h": 98
+					},
+					"4": {
+						"origin": {
+							"x": 42,
+							"y": 104
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/4",
+						"__w": 82,
+						"__h": 101
+					},
+					"5": {
+						"origin": {
+							"x": 42,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalStart/5",
+						"__w": 85,
+						"__h": 104
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 43,
+							"y": 109
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/0",
+						"__w": 87,
+						"__h": 106
+					},
+					"1": {
+						"origin": {
+							"x": 45,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/1",
+						"__w": 89,
+						"__h": 105
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/2",
+						"__w": 88,
+						"__h": 105
+					},
+					"3": {
+						"origin": {
+							"x": 41,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/3",
+						"__w": 83,
+						"__h": 105
+					},
+					"4": {
+						"origin": {
+							"x": 41,
+							"y": 110
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/4",
+						"__w": 83,
+						"__h": 107
+					},
+					"5": {
+						"origin": {
+							"x": 41,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/5",
+						"__w": 83,
+						"__h": 104
+					},
+					"6": {
+						"origin": {
+							"x": 42,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/6",
+						"__w": 85,
+						"__h": 105
+					},
+					"7": {
+						"origin": {
+							"x": 43,
+							"y": 109
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/7",
+						"__w": 88,
+						"__h": 106
+					},
+					"8": {
+						"origin": {
+							"x": 45,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/8",
+						"__w": 90,
+						"__h": 104
+					},
+					"9": {
+						"origin": {
+							"x": 44,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/9",
+						"__w": 88,
+						"__h": 104
+					},
+					"10": {
+						"origin": {
+							"x": 42,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/10",
+						"__w": 87,
+						"__h": 104
+					},
+					"11": {
+						"origin": {
+							"x": 44,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/11",
+						"__w": 88,
+						"__h": 102
+					},
+					"12": {
+						"origin": {
+							"x": 43,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/12",
+						"__w": 84,
+						"__h": 104
+					},
+					"13": {
+						"origin": {
+							"x": 42,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalContinue/13",
+						"__w": 85,
+						"__h": 105
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 43,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/0",
+						"__w": 87,
+						"__h": 105
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/1",
+						"__w": 87,
+						"__h": 101
+					},
+					"2": {
+						"origin": {
+							"x": 42,
+							"y": 104
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/2",
+						"__w": 84,
+						"__h": 100
+					},
+					"3": {
+						"origin": {
+							"x": 39,
+							"y": 102
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/3",
+						"__w": 79,
+						"__h": 98
+					},
+					"4": {
+						"origin": {
+							"x": 36,
+							"y": 101
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/4",
+						"__w": 73,
+						"__h": 96
+					},
+					"5": {
+						"origin": {
+							"x": 33,
+							"y": 93
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/2/portalExit/5",
+						"__w": 69,
+						"__h": 87
+					}
+				}
+			},
+			"3": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 35,
+							"y": 90
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/0",
+						"__w": 74,
+						"__h": 86
+					},
+					"1": {
+						"origin": {
+							"x": 38,
+							"y": 95
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/1",
+						"__w": 79,
+						"__h": 94
+					},
+					"2": {
+						"origin": {
+							"x": 39,
+							"y": 98
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/2",
+						"__w": 80,
+						"__h": 97
+					},
+					"3": {
+						"origin": {
+							"x": 42,
+							"y": 99
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/3",
+						"__w": 83,
+						"__h": 98
+					},
+					"4": {
+						"origin": {
+							"x": 41,
+							"y": 102
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/4",
+						"__w": 82,
+						"__h": 101
+					},
+					"5": {
+						"origin": {
+							"x": 41,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalStart/5",
+						"__w": 85,
+						"__h": 104
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 42,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/0",
+						"__w": 87,
+						"__h": 106
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/1",
+						"__w": 89,
+						"__h": 105
+					},
+					"2": {
+						"origin": {
+							"x": 43,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/2",
+						"__w": 88,
+						"__h": 105
+					},
+					"3": {
+						"origin": {
+							"x": 40,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/3",
+						"__w": 83,
+						"__h": 105
+					},
+					"4": {
+						"origin": {
+							"x": 40,
+							"y": 108
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/4",
+						"__w": 83,
+						"__h": 107
+					},
+					"5": {
+						"origin": {
+							"x": 40,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/5",
+						"__w": 83,
+						"__h": 104
+					},
+					"6": {
+						"origin": {
+							"x": 41,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/6",
+						"__w": 85,
+						"__h": 105
+					},
+					"7": {
+						"origin": {
+							"x": 42,
+							"y": 107
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/7",
+						"__w": 88,
+						"__h": 106
+					},
+					"8": {
+						"origin": {
+							"x": 44,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/8",
+						"__w": 90,
+						"__h": 104
+					},
+					"9": {
+						"origin": {
+							"x": 43,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/9",
+						"__w": 88,
+						"__h": 104
+					},
+					"10": {
+						"origin": {
+							"x": 41,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/10",
+						"__w": 87,
+						"__h": 104
+					},
+					"11": {
+						"origin": {
+							"x": 43,
+							"y": 103
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/11",
+						"__w": 88,
+						"__h": 102
+					},
+					"12": {
+						"origin": {
+							"x": 42,
+							"y": 105
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/12",
+						"__w": 84,
+						"__h": 104
+					},
+					"13": {
+						"origin": {
+							"x": 41,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalContinue/13",
+						"__w": 85,
+						"__h": 105
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 42,
+							"y": 106
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/0",
+						"__w": 87,
+						"__h": 105
+					},
+					"1": {
+						"origin": {
+							"x": 43,
+							"y": 103
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/1",
+						"__w": 87,
+						"__h": 101
+					},
+					"2": {
+						"origin": {
+							"x": 41,
+							"y": 102
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/2",
+						"__w": 84,
+						"__h": 100
+					},
+					"3": {
+						"origin": {
+							"x": 38,
+							"y": 100
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/3",
+						"__w": 79,
+						"__h": 98
+					},
+					"4": {
+						"origin": {
+							"x": 35,
+							"y": 99
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/4",
+						"__w": 73,
+						"__h": 96
+					},
+					"5": {
+						"origin": {
+							"x": 32,
+							"y": 91
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/3/portalExit/5",
+						"__w": 69,
+						"__h": 87
+					}
+				}
+			},
+			"4": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 84,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/0",
+						"__w": 167,
+						"__h": 166
+					},
+					"1": {
+						"origin": {
+							"x": 81,
+							"y": 165
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/1",
+						"__w": 161,
+						"__h": 165
+					},
+					"2": {
+						"origin": {
+							"x": 77,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/2",
+						"__w": 152,
+						"__h": 167
+					},
+					"3": {
+						"origin": {
+							"x": 74,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/3",
+						"__w": 151,
+						"__h": 168
+					},
+					"4": {
+						"origin": {
+							"x": 71,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/4",
+						"__w": 165,
+						"__h": 168
+					},
+					"5": {
+						"origin": {
+							"x": 67,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/5",
+						"__w": 163,
+						"__h": 168
+					},
+					"6": {
+						"origin": {
+							"x": 88,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/6",
+						"__w": 181,
+						"__h": 167
+					},
+					"7": {
+						"origin": {
+							"x": 88,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/7",
+						"__w": 178,
+						"__h": 166
+					},
+					"8": {
+						"origin": {
+							"x": 86,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/8",
+						"__w": 174,
+						"__h": 167
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 84,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/0",
+						"__w": 167,
+						"__h": 166
+					},
+					"1": {
+						"origin": {
+							"x": 81,
+							"y": 165
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/1",
+						"__w": 161,
+						"__h": 165
+					},
+					"2": {
+						"origin": {
+							"x": 77,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/2",
+						"__w": 152,
+						"__h": 167
+					},
+					"3": {
+						"origin": {
+							"x": 74,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/3",
+						"__w": 151,
+						"__h": 168
+					},
+					"4": {
+						"origin": {
+							"x": 71,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/4",
+						"__w": 165,
+						"__h": 168
+					},
+					"5": {
+						"origin": {
+							"x": 67,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/5",
+						"__w": 163,
+						"__h": 168
+					},
+					"6": {
+						"origin": {
+							"x": 88,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/6",
+						"__w": 181,
+						"__h": 167
+					},
+					"7": {
+						"origin": {
+							"x": 88,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/7",
+						"__w": 178,
+						"__h": 166
+					},
+					"8": {
+						"origin": {
+							"x": 86,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/8",
+						"__w": 174,
+						"__h": 167
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 84,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/0",
+						"__w": 167,
+						"__h": 166
+					},
+					"1": {
+						"origin": {
+							"x": 81,
+							"y": 165
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/1",
+						"__w": 161,
+						"__h": 165
+					},
+					"2": {
+						"origin": {
+							"x": 77,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/2",
+						"__w": 152,
+						"__h": 167
+					},
+					"3": {
+						"origin": {
+							"x": 74,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/3",
+						"__w": 151,
+						"__h": 168
+					},
+					"4": {
+						"origin": {
+							"x": 71,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/4",
+						"__w": 165,
+						"__h": 168
+					},
+					"5": {
+						"origin": {
+							"x": 67,
+							"y": 168
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/5",
+						"__w": 163,
+						"__h": 168
+					},
+					"6": {
+						"origin": {
+							"x": 88,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/6",
+						"__w": 181,
+						"__h": 167
+					},
+					"7": {
+						"origin": {
+							"x": 88,
+							"y": 166
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/7",
+						"__w": 178,
+						"__h": 166
+					},
+					"8": {
+						"origin": {
+							"x": 86,
+							"y": 167
+						},
+						"z": 0,
+						"delay": 150,
+						"": "/Map/MapHelper/portal/game/psh/4/portalStart/8",
+						"__w": 174,
+						"__h": 167
+					}
+				}
+			},
+			"5": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 39,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/0",
+						"__w": 91,
+						"__h": 101
+					},
+					"1": {
+						"origin": {
+							"x": 37,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/1",
+						"__w": 89,
+						"__h": 101
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/2",
+						"__w": 96,
+						"__h": 101
+					},
+					"3": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/3",
+						"__w": 98,
+						"__h": 101
+					},
+					"4": {
+						"origin": {
+							"x": 44,
+							"y": 56
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/4",
+						"__w": 98,
+						"__h": 76
+					},
+					"5": {
+						"origin": {
+							"x": 43,
+							"y": 65
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/5",
+						"__w": 97,
+						"__h": 85
+					},
+					"6": {
+						"origin": {
+							"x": 43,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/6",
+						"__w": 97,
+						"__h": 92
+					},
+					"7": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/7",
+						"__w": 97,
+						"__h": 101
+					},
+					"8": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/8",
+						"__w": 96,
+						"__h": 101
+					},
+					"9": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/9",
+						"__w": 91,
+						"__h": 101
+					},
+					"10": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/10",
+						"__w": 91,
+						"__h": 101
+					},
+					"11": {
+						"origin": {
+							"x": 40,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/11",
+						"__w": 86,
+						"__h": 91
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 39,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/0",
+						"__w": 91,
+						"__h": 101
+					},
+					"1": {
+						"origin": {
+							"x": 37,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/1",
+						"__w": 89,
+						"__h": 101
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/2",
+						"__w": 96,
+						"__h": 101
+					},
+					"3": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/3",
+						"__w": 98,
+						"__h": 101
+					},
+					"4": {
+						"origin": {
+							"x": 44,
+							"y": 56
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/4",
+						"__w": 98,
+						"__h": 76
+					},
+					"5": {
+						"origin": {
+							"x": 43,
+							"y": 65
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/5",
+						"__w": 97,
+						"__h": 85
+					},
+					"6": {
+						"origin": {
+							"x": 43,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/6",
+						"__w": 97,
+						"__h": 92
+					},
+					"7": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/7",
+						"__w": 97,
+						"__h": 101
+					},
+					"8": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/8",
+						"__w": 96,
+						"__h": 101
+					},
+					"9": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/9",
+						"__w": 91,
+						"__h": 101
+					},
+					"10": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/10",
+						"__w": 91,
+						"__h": 101
+					},
+					"11": {
+						"origin": {
+							"x": 40,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/11",
+						"__w": 86,
+						"__h": 91
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 39,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/0",
+						"__w": 91,
+						"__h": 101
+					},
+					"1": {
+						"origin": {
+							"x": 37,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/1",
+						"__w": 89,
+						"__h": 101
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/2",
+						"__w": 96,
+						"__h": 101
+					},
+					"3": {
+						"origin": {
+							"x": 44,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/3",
+						"__w": 98,
+						"__h": 101
+					},
+					"4": {
+						"origin": {
+							"x": 44,
+							"y": 56
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/4",
+						"__w": 98,
+						"__h": 76
+					},
+					"5": {
+						"origin": {
+							"x": 43,
+							"y": 65
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/5",
+						"__w": 97,
+						"__h": 85
+					},
+					"6": {
+						"origin": {
+							"x": 43,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/6",
+						"__w": 97,
+						"__h": 92
+					},
+					"7": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/7",
+						"__w": 97,
+						"__h": 101
+					},
+					"8": {
+						"origin": {
+							"x": 43,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/8",
+						"__w": 96,
+						"__h": 101
+					},
+					"9": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/9",
+						"__w": 91,
+						"__h": 101
+					},
+					"10": {
+						"origin": {
+							"x": 41,
+							"y": 81
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/10",
+						"__w": 91,
+						"__h": 101
+					},
+					"11": {
+						"origin": {
+							"x": 40,
+							"y": 72
+						},
+						"z": 0,
+						"": "/Map/MapHelper/portal/game/psh/5/portalStart/11",
+						"__w": 86,
+						"__h": 91
+					}
+				}
+			},
+			"default": {
+				"portalStart": {
+					"0": {
+						"origin": {
+							"x": 45,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/0",
+						"__w": 92,
+						"__h": 119
+					},
+					"1": {
+						"origin": {
+							"x": 47,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/1",
+						"__w": 94,
+						"__h": 118
+					},
+					"2": {
+						"origin": {
+							"x": 47,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/2",
+						"__w": 95,
+						"__h": 118
+					},
+					"3": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalStart/3",
+						"__w": 92,
+						"__h": 118
+					}
+				},
+				"portalContinue": {
+					"0": {
+						"origin": {
+							"x": 44,
+							"y": 115
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/0",
+						"__w": 104,
+						"__h": 118
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/1",
+						"__w": 109,
+						"__h": 120
+					},
+					"2": {
+						"origin": {
+							"x": 61,
+							"y": 118
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/2",
+						"__w": 127,
+						"__h": 121
+					},
+					"3": {
+						"origin": {
+							"x": 62,
+							"y": 119
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/3",
+						"__w": 127,
+						"__h": 122
+					},
+					"4": {
+						"origin": {
+							"x": 61,
+							"y": 118
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/4",
+						"__w": 123,
+						"__h": 121
+					},
+					"5": {
+						"origin": {
+							"x": 55,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/5",
+						"__w": 112,
+						"__h": 120
+					},
+					"6": {
+						"origin": {
+							"x": 50,
+							"y": 117
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalContinue/6",
+						"__w": 100,
+						"__h": 120
+					}
+				},
+				"portalExit": {
+					"0": {
+						"origin": {
+							"x": 44,
+							"y": 115
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/0",
+						"__w": 89,
+						"__h": 117
+					},
+					"1": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/1",
+						"__w": 89,
+						"__h": 118
+					},
+					"2": {
+						"origin": {
+							"x": 44,
+							"y": 116
+						},
+						"": "/Map/MapHelper/portal/game/ph/default/portalExit/2",
+						"__w": 91,
+						"__h": 118
+					}
+				}
+			}
+		}
+	}
+}

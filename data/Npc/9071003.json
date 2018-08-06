@@ -1,0 +1,24 @@
+{
+	"info": {
+		"script": {
+			"0": {
+				"script": "mParkShuttle"
+			}
+		},
+		"dcLeft": -62,
+		"dcTop": -86,
+		"dcRight": 71,
+		"dcBottom": 0
+	},
+	"stand": {
+		"0": {
+			"origin": {
+				"x": 62,
+				"y": 101
+			},
+			"": "/Npc/9071003/stand/0",
+			"__w": 133,
+			"__h": 101
+		}
+	}
+}

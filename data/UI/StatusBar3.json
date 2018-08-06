@@ -1,0 +1,9480 @@
+{
+	"mainBar": {
+		"status": {
+			"backgrnd": {
+				"origin": {
+					"x": -2,
+					"y": -24
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/mainBar/status/backgrnd",
+				"__w": 198,
+				"__h": 37
+			},
+			"backgrndAngelicBuster": {
+				"origin": {
+					"x": -2,
+					"y": -24
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/mainBar/status/backgrndAngelicBuster",
+				"__w": 198,
+				"__h": 21
+			},
+			"layer:cover": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253Acover",
+				"__w": 204,
+				"__h": 70
+			},
+			"layer:coverZero": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253AcoverZero",
+				"__w": 204,
+				"__h": 70
+			},
+			"layer:coverDemon": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253AcoverDemon",
+				"__w": 204,
+				"__h": 70
+			},
+			"layer:coverKinesis": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253AcoverKinesis",
+				"__w": 204,
+				"__h": 70
+			},
+			"layer:coverAngelicBuster": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253AcoverAngelicBuster",
+				"__w": 204,
+				"__h": 54
+			},
+			"layer:Lv": {
+				"origin": {
+					"x": -24,
+					"y": -8
+				},
+				"z": 4,
+				"": "/UI/StatusBar3/mainBar/status/layer%253ALv",
+				"__w": 15,
+				"__h": 10
+			},
+			"lvNumber": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/0",
+					"__w": 7,
+					"__h": 10
+				},
+				"1": {
+					"origin": {
+						"x": -1,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/1",
+					"__w": 5,
+					"__h": 10
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/2",
+					"__w": 7,
+					"__h": 10
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/3",
+					"__w": 7,
+					"__h": 10
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/4",
+					"__w": 7,
+					"__h": 10
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/5",
+					"__w": 7,
+					"__h": 10
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/6",
+					"__w": 7,
+					"__h": 10
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/7",
+					"__w": 7,
+					"__h": 10
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/8",
+					"__w": 7,
+					"__h": 10
+				},
+				"9": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/9",
+					"__w": 7,
+					"__h": 10
+				}
+			},
+			"gauge": {
+				"number": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/0",
+						"__w": 7,
+						"__h": 9
+					},
+					"1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/1",
+						"__w": 4,
+						"__h": 9
+					},
+					"2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/2",
+						"__w": 7,
+						"__h": 9
+					},
+					"3": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/3",
+						"__w": 7,
+						"__h": 9
+					},
+					"4": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/4",
+						"__w": 7,
+						"__h": 9
+					},
+					"5": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/5",
+						"__w": 7,
+						"__h": 9
+					},
+					"6": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/6",
+						"__w": 7,
+						"__h": 9
+					},
+					"7": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/7",
+						"__w": 7,
+						"__h": 9
+					},
+					"8": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/8",
+						"__w": 7,
+						"__h": 9
+					},
+					"9": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/9",
+						"__w": 7,
+						"__h": 9
+					},
+					"\\": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/%255C",
+						"__w": 7,
+						"__h": 7
+					}
+				},
+				"hp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/hp/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:barrier": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 1,
+						"": "/UI/StatusBar3/mainBar/status/gauge/hp/layer%253Abarrier",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:subHP": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/hp/layer%253AsubHP",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/hp/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"mp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/mp/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/mp/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"df": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:1": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253A1",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:2": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253A2",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:3": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253A3",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:effect0": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253Aeffect0",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect1": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 5,
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253Aeffect1",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect2": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253Aeffect2",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect3": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/df/layer%253Aeffect3",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"tf": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/tf/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/tf/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"pp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/pp/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:1": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/pp/layer%253A1",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:2": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/pp/layer%253A2",
+						"__w": 171,
+						"__h": 13
+					},
+					"ani": {
+						"0": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/0",
+							"__w": 16,
+							"__h": 11
+						},
+						"1": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/1",
+							"__w": 16,
+							"__h": 11
+						},
+						"2": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/2",
+							"__w": 16,
+							"__h": 11
+						},
+						"3": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/3",
+							"__w": 16,
+							"__h": 11
+						},
+						"4": {
+							"delay": 60,
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/4",
+							"__w": 1,
+							"__h": 1
+						},
+						"5": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/0",
+							"__w": 16,
+							"__h": 11
+						},
+						"6": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/1",
+							"__w": 16,
+							"__h": 11
+						},
+						"7": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/2",
+							"__w": 16,
+							"__h": 11
+						},
+						"8": {
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/3",
+							"__w": 16,
+							"__h": 11
+						},
+						"9": {
+							"delay": 60,
+							"origin": {
+								"x": -24,
+								"y": -45
+							},
+							"z": 0,
+							"": "/UI/StatusBar3/mainBar/status/gauge/pp/ani/4",
+							"__w": 1,
+							"__h": 1
+						}
+					}
+				},
+				"mana": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status/gauge/mana/layer%253A0",
+						"__w": 171,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status/gauge/mana/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"number2": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/0",
+						"__w": 6,
+						"__h": 7
+					},
+					"1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/1",
+						"__w": 4,
+						"__h": 7
+					},
+					"2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/2",
+						"__w": 6,
+						"__h": 7
+					},
+					"3": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/3",
+						"__w": 6,
+						"__h": 7
+					},
+					"4": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/4",
+						"__w": 6,
+						"__h": 7
+					},
+					"5": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/5",
+						"__w": 6,
+						"__h": 7
+					},
+					"6": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/6",
+						"__w": 6,
+						"__h": 7
+					},
+					"7": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/7",
+						"__w": 6,
+						"__h": 7
+					},
+					"8": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/8",
+						"__w": 6,
+						"__h": 7
+					},
+					"9": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/9",
+						"__w": 6,
+						"__h": 7
+					},
+					"+": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/%252B",
+						"__w": 5,
+						"__h": 5
+					}
+				}
+			},
+			"aniHPGauge": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/0",
+					"__w": 169,
+					"__h": 11
+				},
+				"1": {
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/1",
+					"__w": 169,
+					"__h": 11
+				},
+				"2": {
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/2",
+					"__w": 169,
+					"__h": 11
+				},
+				"3": {
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/3",
+					"__w": 169,
+					"__h": 11
+				},
+				"4": {
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/4",
+					"__w": 169,
+					"__h": 11
+				},
+				"5": {
+					"z": 4,
+					"delay": 60,
+					"origin": {
+						"x": -25,
+						"y": -29
+					},
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/5",
+					"__w": 169,
+					"__h": 11
+				}
+			},
+			"aniMPGauge": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/0",
+					"__w": 169,
+					"__h": 11
+				},
+				"1": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/1",
+					"__w": 169,
+					"__h": 11
+				},
+				"2": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/2",
+					"__w": 169,
+					"__h": 11
+				},
+				"3": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/3",
+					"__w": 169,
+					"__h": 11
+				},
+				"4": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/4",
+					"__w": 169,
+					"__h": 11
+				},
+				"5": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/5",
+					"__w": 169,
+					"__h": 11
+				}
+			},
+			"layer:coverKanna": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status/layer%253AcoverKanna",
+				"__w": 202,
+				"__h": 69
+			},
+			"aniMANAGauge": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/0",
+					"__w": 169,
+					"__h": 11
+				},
+				"1": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/1",
+					"__w": 169,
+					"__h": 11
+				},
+				"2": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/2",
+					"__w": 169,
+					"__h": 11
+				},
+				"3": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/3",
+					"__w": 169,
+					"__h": 11
+				},
+				"4": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/4",
+					"__w": 169,
+					"__h": 11
+				},
+				"5": {
+					"origin": {
+						"x": -25,
+						"y": -45
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status/aniHPGauge/5",
+					"__w": 169,
+					"__h": 11
+				}
+			}
+		},
+		"status800": {
+			"backgrnd": {
+				"origin": {
+					"x": -20,
+					"y": -27
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/mainBar/status800/backgrnd",
+				"__w": 148,
+				"__h": 32
+			},
+			"backgrndAngelicBuster": {
+				"z": 0,
+				"origin": {
+					"x": -1,
+					"y": -22
+				},
+				"": "/UI/StatusBar3/mainBar/status800/backgrndAngelicBuster",
+				"__w": 170,
+				"__h": 24
+			},
+			"layer:cover": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253Acover",
+				"__w": 174,
+				"__h": 70
+			},
+			"layer:coverZero": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253AcoverZero",
+				"__w": 174,
+				"__h": 70
+			},
+			"layer:coverDemon": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253AcoverDemon",
+				"__w": 174,
+				"__h": 70
+			},
+			"layer:coverKinesis": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253AcoverKinesis",
+				"__w": 174,
+				"__h": 70
+			},
+			"layer:coverAngelicBuster": {
+				"origin": {
+					"x": 1,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253AcoverAngelicBuster",
+				"__w": 174,
+				"__h": 54
+			},
+			"layer:Lv": {
+				"origin": {
+					"x": -25,
+					"y": -8
+				},
+				"z": 4,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253ALv",
+				"__w": 15,
+				"__h": 10
+			},
+			"lvNumber": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/0",
+					"__w": 7,
+					"__h": 10
+				},
+				"1": {
+					"origin": {
+						"x": -1,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/1",
+					"__w": 5,
+					"__h": 10
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/2",
+					"__w": 7,
+					"__h": 10
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/3",
+					"__w": 7,
+					"__h": 10
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/4",
+					"__w": 7,
+					"__h": 10
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/5",
+					"__w": 7,
+					"__h": 10
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/6",
+					"__w": 7,
+					"__h": 10
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/7",
+					"__w": 7,
+					"__h": 10
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/8",
+					"__w": 7,
+					"__h": 10
+				},
+				"9": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/status/lvNumber/9",
+					"__w": 7,
+					"__h": 10
+				}
+			},
+			"gauge": {
+				"number": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/0",
+						"__w": 7,
+						"__h": 9
+					},
+					"1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/number/1",
+						"__w": 4,
+						"__h": 9
+					},
+					"2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/2",
+						"__w": 7,
+						"__h": 9
+					},
+					"3": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/3",
+						"__w": 7,
+						"__h": 9
+					},
+					"4": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/4",
+						"__w": 7,
+						"__h": 9
+					},
+					"5": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/5",
+						"__w": 7,
+						"__h": 9
+					},
+					"6": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/6",
+						"__w": 7,
+						"__h": 9
+					},
+					"7": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/7",
+						"__w": 7,
+						"__h": 9
+					},
+					"8": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/8",
+						"__w": 7,
+						"__h": 9
+					},
+					"9": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number/9",
+						"__w": 7,
+						"__h": 9
+					},
+					"\\": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/number/%255C",
+						"__w": 6,
+						"__h": 10
+					}
+				},
+				"hp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/hp/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:barrier": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 1,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/hp/layer%253Abarrier",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:subHP": {
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/hp/layer%253AsubHP",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -28
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/hp/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"mp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/mp/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/mp/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"df": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:1": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253A1",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:2": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253A2",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:3": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253A3",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:effect0": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253Aeffect0",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect1": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253Aeffect1",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect2": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253Aeffect2",
+						"__w": 1,
+						"__h": 1
+					},
+					"layer:effect3": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/df/layer%253Aeffect3",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"tf": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/tf/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/tf/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"pp": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/pp/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:1": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/pp/layer%253A1",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:2": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/pp/layer%253A2",
+						"__w": 141,
+						"__h": 13
+					},
+					"ani": {
+						"0": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/0",
+							"__w": 14,
+							"__h": 13
+						},
+						"1": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/1",
+							"__w": 14,
+							"__h": 13
+						},
+						"2": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/2",
+							"__w": 14,
+							"__h": 13
+						},
+						"3": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/3",
+							"__w": 14,
+							"__h": 13
+						},
+						"4": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/3",
+							"__w": 14,
+							"__h": 13
+						},
+						"5": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/0",
+							"__w": 14,
+							"__h": 13
+						},
+						"6": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/0",
+							"__w": 14,
+							"__h": 13
+						},
+						"7": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/1",
+							"__w": 14,
+							"__h": 13
+						},
+						"8": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/2",
+							"__w": 14,
+							"__h": 13
+						},
+						"9": {
+							"origin": {
+								"x": -24,
+								"y": -44
+							},
+							"z": 0,
+							"delay": 60,
+							"": "/UI/StatusBar3/mainBar/status800/gauge/pp/ani/3",
+							"__w": 14,
+							"__h": 13
+						}
+					}
+				},
+				"mana": {
+					"layer:0": {
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/mana/layer%253A0",
+						"__w": 141,
+						"__h": 13
+					},
+					"layer:effect": {
+						"z": 5,
+						"origin": {
+							"x": -24,
+							"y": -44
+						},
+						"": "/UI/StatusBar3/mainBar/status800/gauge/mana/layer%253Aeffect",
+						"__w": 1,
+						"__h": 1
+					}
+				},
+				"number2": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/0",
+						"__w": 6,
+						"__h": 7
+					},
+					"1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/number2/1",
+						"__w": 4,
+						"__h": 7
+					},
+					"2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/2",
+						"__w": 6,
+						"__h": 7
+					},
+					"3": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/3",
+						"__w": 6,
+						"__h": 7
+					},
+					"4": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/4",
+						"__w": 6,
+						"__h": 7
+					},
+					"5": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/5",
+						"__w": 6,
+						"__h": 7
+					},
+					"6": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/6",
+						"__w": 6,
+						"__h": 7
+					},
+					"7": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/7",
+						"__w": 6,
+						"__h": 7
+					},
+					"8": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/8",
+						"__w": 6,
+						"__h": 7
+					},
+					"9": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status/gauge/number2/9",
+						"__w": 6,
+						"__h": 7
+					},
+					"+": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/status800/gauge/number2/%252B",
+						"__w": 5,
+						"__h": 5
+					}
+				}
+			},
+			"aniHPGauge": {
+				"0": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/0",
+					"__w": 141,
+					"__h": 13
+				},
+				"1": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/1",
+					"__w": 141,
+					"__h": 13
+				},
+				"2": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/2",
+					"__w": 141,
+					"__h": 13
+				},
+				"3": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/3",
+					"__w": 141,
+					"__h": 13
+				},
+				"4": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				},
+				"5": {
+					"origin": {
+						"x": -24,
+						"y": -28
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				}
+			},
+			"aniMPGauge": {
+				"0": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/0",
+					"__w": 141,
+					"__h": 13
+				},
+				"1": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/1",
+					"__w": 141,
+					"__h": 13
+				},
+				"2": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/2",
+					"__w": 141,
+					"__h": 13
+				},
+				"3": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/3",
+					"__w": 141,
+					"__h": 13
+				},
+				"4": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				},
+				"5": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				}
+			},
+			"aniMANAGauge": {
+				"0": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/0",
+					"__w": 141,
+					"__h": 13
+				},
+				"1": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/1",
+					"__w": 141,
+					"__h": 13
+				},
+				"2": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/2",
+					"__w": 141,
+					"__h": 13
+				},
+				"3": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/3",
+					"__w": 141,
+					"__h": 13
+				},
+				"4": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				},
+				"5": {
+					"origin": {
+						"x": -24,
+						"y": -44
+					},
+					"z": 4,
+					"delay": 60,
+					"": "/UI/StatusBar3/mainBar/status800/aniHPGauge/4",
+					"__w": 141,
+					"__h": 13
+				}
+			},
+			"layer:coverKanna": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/status800/layer%253AcoverKanna",
+				"__w": 172,
+				"__h": 69
+			}
+		},
+		"EXPBar": {
+			"800": {
+				"layer:back": {
+					"origin": {
+						"x": 0,
+						"y": -23
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/800/layer%253Aback",
+					"__w": 800,
+					"__h": 10
+				},
+				"layer:cover": {
+					"origin": {
+						"x": -97,
+						"y": -25
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/mainBar/EXPBar/800/layer%253Acover",
+					"__w": 626,
+					"__h": 7
+				},
+				"layer:gauge": {
+					"origin": {
+						"x": -15,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/800/layer%253Agauge",
+					"__w": 784,
+					"__h": 7
+				},
+				"layer:relaxExp": {
+					"origin": {
+						"x": -15,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/800/layer%253ArelaxExp",
+					"__w": 784,
+					"__h": 7
+				},
+				"lvUpEffect": {
+					"0": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/800/lvUpEffect/0",
+						"__w": 799,
+						"__h": 13
+					},
+					"1": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/800/lvUpEffect/1",
+						"__w": 799,
+						"__h": 13
+					},
+					"2": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/800/lvUpEffect/2",
+						"__w": 799,
+						"__h": 13
+					},
+					"3": {
+						"origin": {
+							"x": -9,
+							"y": -17
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/800/lvUpEffect/3",
+						"__w": 797,
+						"__h": 13
+					}
+				}
+			},
+			"1024": {
+				"layer:back": {
+					"origin": {
+						"x": 0,
+						"y": -23
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1024/layer%253Aback",
+					"__w": 1024,
+					"__h": 10
+				},
+				"layer:cover": {
+					"origin": {
+						"x": -116,
+						"y": -25
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1024/layer%253Acover",
+					"__w": 810,
+					"__h": 7
+				},
+				"layer:gauge": {
+					"origin": {
+						"x": -15,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1024/layer%253Agauge",
+					"__w": 1008,
+					"__h": 7
+				},
+				"layer:relaxExp": {
+					"origin": {
+						"x": -15,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1024/layer%253ArelaxExp",
+					"__w": 1008,
+					"__h": 7
+				},
+				"lvUpEffect": {
+					"0": {
+						"origin": {
+							"x": -9,
+							"y": -20
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1024/lvUpEffect/0",
+						"__w": 1023,
+						"__h": 13
+					},
+					"1": {
+						"origin": {
+							"x": -9,
+							"y": -20
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1024/lvUpEffect/1",
+						"__w": 1023,
+						"__h": 13
+					},
+					"2": {
+						"origin": {
+							"x": -9,
+							"y": -20
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1024/lvUpEffect/2",
+						"__w": 1023,
+						"__h": 13
+					},
+					"3": {
+						"origin": {
+							"x": -9,
+							"y": -18
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1024/lvUpEffect/3",
+						"__w": 1021,
+						"__h": 13
+					}
+				}
+			},
+			"1366": {
+				"layer:back": {
+					"origin": {
+						"x": 0,
+						"y": -23
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1366/layer%253Aback",
+					"__w": 1366,
+					"__h": 10
+				},
+				"layer:cover": {
+					"origin": {
+						"x": -150,
+						"y": -25
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1366/layer%253Acover",
+					"__w": 1082,
+					"__h": 7
+				},
+				"layer:relaxExp": {
+					"origin": {
+						"x": -16,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1366/layer%253ArelaxExp",
+					"__w": 1350,
+					"__h": 7
+				},
+				"layer:gauge": {
+					"origin": {
+						"x": -15,
+						"y": -25
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/mainBar/EXPBar/1366/layer%253Agauge",
+					"__w": 1350,
+					"__h": 7
+				},
+				"lvUpEffect": {
+					"0": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1366/lvUpEffect/0",
+						"__w": 1365,
+						"__h": 13
+					},
+					"1": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1366/lvUpEffect/1",
+						"__w": 1365,
+						"__h": 13
+					},
+					"2": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1366/lvUpEffect/2",
+						"__w": 1365,
+						"__h": 13
+					},
+					"3": {
+						"origin": {
+							"x": -9,
+							"y": -19
+						},
+						"z": 4,
+						"delay": 90,
+						"": "/UI/StatusBar3/mainBar/EXPBar/1366/lvUpEffect/3",
+						"__w": 1363,
+						"__h": 13
+					}
+				}
+			},
+			"backgrnd": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/mainBar/EXPBar/backgrnd",
+				"__w": 1,
+				"__h": 24
+			},
+			"layer:effect": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/StatusBar3/mainBar/EXPBar/layer%253Aeffect",
+				"__w": 13,
+				"__h": 17
+			},
+			"number": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/0",
+					"__w": 7,
+					"__h": 9
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/1",
+					"__w": 4,
+					"__h": 9
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/2",
+					"__w": 7,
+					"__h": 9
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/3",
+					"__w": 7,
+					"__h": 9
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/4",
+					"__w": 7,
+					"__h": 9
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/5",
+					"__w": 7,
+					"__h": 9
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/6",
+					"__w": 7,
+					"__h": 9
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/7",
+					"__w": 7,
+					"__h": 9
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/8",
+					"__w": 7,
+					"__h": 9
+				},
+				"9": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/9",
+					"__w": 7,
+					"__h": 9
+				},
+				"[": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/%255B",
+					"__w": 7,
+					"__h": 9
+				},
+				"]": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/%255D",
+					"__w": 4,
+					"__h": 9
+				},
+				"\\": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/%255C",
+					"__w": 7,
+					"__h": 7
+				},
+				"%": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/%2525",
+					"__w": 9,
+					"__h": 9
+				},
+				".": {
+					"origin": {
+						"x": 0,
+						"y": -6
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/EXPBar/number/.",
+					"__w": 3,
+					"__h": 3
+				}
+			}
+		},
+		"menu": {
+			"button:CashShop": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACashShop/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACashShop/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACashShop/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACashShop/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 1
+			},
+			"button:Event": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -34,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AEvent/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -34,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AEvent/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -34,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AEvent/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -34,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AEvent/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 2
+			},
+			"button:Character": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -69,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACharacter/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -69,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACharacter/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -69,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACharacter/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -69,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACharacter/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 3
+			},
+			"button:Community": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -104,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACommunity/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -104,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACommunity/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -104,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACommunity/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -104,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ACommunity/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 4
+			},
+			"button:Setting": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -139,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ASetting/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -139,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ASetting/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -139,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ASetting/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -139,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253ASetting/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 5
+			},
+			"button:Menu": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -174,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AMenu/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -174,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AMenu/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -174,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AMenu/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -174,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AMenu/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 6
+			},
+			"button:ExitDungeon": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AExitDungeon/normal/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AExitDungeon/pressed/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AExitDungeon/disabled/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 1,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/mainBar/menu/button%253AExitDungeon/mouseOver/0",
+						"__w": 34,
+						"__h": 37
+					}
+				},
+				"id": 7
+			},
+			"Notify": {
+				"0": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/0",
+					"__w": 19,
+					"__h": 22
+				},
+				"1": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/1",
+					"__w": 19,
+					"__h": 22
+				},
+				"2": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/2",
+					"__w": 19,
+					"__h": 22
+				},
+				"3": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/3",
+					"__w": 19,
+					"__h": 22
+				},
+				"4": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/4",
+					"__w": 19,
+					"__h": 22
+				},
+				"5": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/5",
+					"__w": 19,
+					"__h": 22
+				},
+				"6": {
+					"origin": {
+						"x": -86,
+						"y": 3
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/menu/Notify/5",
+					"__w": 19,
+					"__h": 22
+				}
+			},
+			"BtRoomChange": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/menu/BtRoomChange/normal/0",
+						"__w": 172,
+						"__h": 49
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/menu/BtRoomChange/pressed/0",
+						"__w": 172,
+						"__h": 49
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/menu/BtRoomChange/disabled/0",
+						"__w": 172,
+						"__h": 49
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/mainBar/menu/BtRoomChange/mouseOver/0",
+						"__w": 172,
+						"__h": 49
+					}
+				}
+			}
+		},
+		"submenu": {
+			"backgrnd": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/submenu/backgrnd/0",
+					"__w": 121,
+					"__h": 29
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/submenu/backgrnd/1",
+					"__w": 121,
+					"__h": 1
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/submenu/backgrnd/2",
+					"__w": 121,
+					"__h": 44
+				}
+			},
+			"title": {
+				"event": {
+					"origin": {
+						"x": -17,
+						"y": -7
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/mainBar/submenu/title/event",
+					"__w": 87,
+					"__h": 16
+				},
+				"character": {
+					"origin": {
+						"x": -17,
+						"y": -7
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/mainBar/submenu/title/character",
+					"__w": 87,
+					"__h": 16
+				},
+				"community": {
+					"origin": {
+						"x": -17,
+						"y": -7
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/mainBar/submenu/title/community",
+					"__w": 87,
+					"__h": 16
+				},
+				"menu": {
+					"origin": {
+						"x": -17,
+						"y": -7
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/mainBar/submenu/title/menu",
+					"__w": 87,
+					"__h": 16
+				},
+				"setting": {
+					"origin": {
+						"x": -17,
+						"y": -7
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/mainBar/submenu/title/setting",
+					"__w": 87,
+					"__h": 16
+				}
+			},
+			"event": {
+				"button:schedule": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -33
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/event/button%253Aschedule/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -33
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/event/button%253Aschedule/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -33
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/event/button%253Aschedule/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -33
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/event/button%253Aschedule/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 1
+				}
+			},
+			"character": {
+				"button:character": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acharacter/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -37
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acharacter/pressed/0",
+							"__w": 59,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acharacter/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -37
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acharacter/mouseOver/0",
+							"__w": 59,
+							"__h": 16
+						}
+					},
+					"id": 1
+				},
+				"button:Stat": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -42,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AStat/normal/0",
+							"__w": 39,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -39,
+								"y": -64
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AStat/pressed/0",
+							"__w": 45,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -42,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AStat/disabled/0",
+							"__w": 39,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -39,
+								"y": -64
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AStat/mouseOver/0",
+							"__w": 45,
+							"__h": 16
+						}
+					},
+					"id": 2
+				},
+				"button:Skill": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253ASkill/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -45,
+								"y": -93
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253ASkill/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253ASkill/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -45,
+								"y": -93
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253ASkill/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 3
+				},
+				"button:Equip": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -41,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AEquip/normal/0",
+							"__w": 38,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -38,
+								"y": -121
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AEquip/pressed/0",
+							"__w": 44,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -41,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AEquip/disabled/0",
+							"__w": 38,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -38,
+								"y": -121
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AEquip/mouseOver/0",
+							"__w": 44,
+							"__h": 16
+						}
+					},
+					"id": 4
+				},
+				"button:Item": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -40,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AItem/normal/0",
+							"__w": 40,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -38,
+								"y": -149
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AItem/pressed/0",
+							"__w": 44,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -40,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AItem/disabled/0",
+							"__w": 40,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -38,
+								"y": -149
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253AItem/mouseOver/0",
+							"__w": 44,
+							"__h": 16
+						}
+					},
+					"id": 5
+				},
+				"button:cabinet": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -173
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acabinet/normal/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -173
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acabinet/pressed/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -173
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acabinet/disabled/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -173
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/character/button%253Acabinet/mouseOver/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"id": 6
+				}
+			},
+			"menu": {
+				"button:quest": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aquest/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aquest/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aquest/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aquest/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 1
+				},
+				"button:medal": {
+					"normal": {
+						"0": {
+							"z": 1,
+							"origin": {
+								"x": -48,
+								"y": -67
+							},
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Amedal/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Amedal/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"z": 1,
+							"origin": {
+								"x": -48,
+								"y": -67
+							},
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Amedal/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Amedal/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 2
+				},
+				"button:union": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -19,
+								"y": -95
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aunion/normal/0",
+							"__w": 84,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": -94
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aunion/pressed/0",
+							"__w": 96,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -19,
+								"y": -95
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aunion/disabled/0",
+							"__w": 84,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": -94
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aunion/mouseOver/0",
+							"__w": 96,
+							"__h": 16
+						}
+					},
+					"id": 3
+				},
+				"button:monsterCollection": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -28,
+								"y": -123
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AmonsterCollection/normal/0",
+							"__w": 66,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AmonsterCollection/pressed/0",
+							"__w": 76,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -28,
+								"y": -123
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AmonsterCollection/disabled/0",
+							"__w": 66,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AmonsterCollection/mouseOver/0",
+							"__w": 76,
+							"__h": 16
+						}
+					},
+					"id": 4
+				},
+				"button:auction": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aauction/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aauction/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aauction/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aauction/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 5
+				},
+				"button:battleStats": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -179
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AbattleStats/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -178
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AbattleStats/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -179
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AbattleStats/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -178
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AbattleStats/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 7
+				},
+				"button:achievement": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -201
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aachievement/normal/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -201
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aachievement/pressed/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -201
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aachievement/disabled/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -201
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253Aachievement/mouseOver/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"id": 8
+				},
+				"button:Help": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -263
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AHelp/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -262
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AHelp/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -35,
+								"y": -263
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AHelp/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -262
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AHelp/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 9
+				},
+				"button:Claim": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -291
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AClaim/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -290
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AClaim/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -291
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AClaim/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -290
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AClaim/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 10
+				},
+				"button:Fishing": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -230
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AFishing/normal/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -230
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AFishing/pressed/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -230
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AFishing/disabled/0",
+							"__w": 1,
+							"__h": 1
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -230
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/menu/button%253AFishing/mouseOver/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"id": 100
+				}
+			},
+			"community": {
+				"button:friends": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Afriends/normal/0",
+							"__w": 72,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -18,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Afriends/pressed/0",
+							"__w": 82,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Afriends/disabled/0",
+							"__w": 72,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -18,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Afriends/mouseOver/0",
+							"__w": 82,
+							"__h": 16
+						}
+					},
+					"id": 1
+				},
+				"button:bossParty": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -17,
+								"y": -67
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AbossParty/normal/0",
+							"__w": 85,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -12,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AbossParty/pressed/0",
+							"__w": 95,
+							"__h": 15
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -17,
+								"y": -67
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AbossParty/disabled/0",
+							"__w": 85,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -12,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AbossParty/mouseOver/0",
+							"__w": 95,
+							"__h": 15
+						}
+					},
+					"id": 2
+				},
+				"button:guild": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -95
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Aguild/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -44,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Aguild/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -95
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Aguild/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -44,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253Aguild/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 3
+				},
+				"button:Notice": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -123
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253ANotice/normal/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -44,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253ANotice/pressed/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -123
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253ANotice/disabled/0",
+							"__w": 26,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -44,
+								"y": -122
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253ANotice/mouseOver/0",
+							"__w": 30,
+							"__h": 16
+						}
+					},
+					"id": 4
+				},
+				"button:mapleChat": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -33,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AmapleChat/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -30,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AmapleChat/pressed/0",
+							"__w": 58,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -33,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AmapleChat/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -30,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/community/button%253AmapleChat/mouseOver/0",
+							"__w": 58,
+							"__h": 16
+						}
+					},
+					"id": 5
+				}
+			},
+			"setting": {
+				"button:channel": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Achannel/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -30,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Achannel/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -39
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Achannel/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -30,
+								"y": -38
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Achannel/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 1
+				},
+				"button:option": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -67
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Aoption/normal/0",
+							"__w": 27,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Aoption/pressed/0",
+							"__w": 30,
+							"__h": 15
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -48,
+								"y": -67
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Aoption/disabled/0",
+							"__w": 27,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -46,
+								"y": -66
+							},
+							"z": 1,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253Aoption/mouseOver/0",
+							"__w": 30,
+							"__h": 15
+						}
+					},
+					"id": 2
+				},
+				"button:keySetting": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -28,
+								"y": -95
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AkeySetting/normal/0",
+							"__w": 65,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AkeySetting/pressed/0",
+							"__w": 75,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -28,
+								"y": -95
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AkeySetting/disabled/0",
+							"__w": 65,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -23,
+								"y": -94
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AkeySetting/mouseOver/0",
+							"__w": 75,
+							"__h": 16
+						}
+					},
+					"id": 3
+				},
+				"button:JoyPad": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -117
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AJoyPad/normal/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -117
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AJoyPad/pressed/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -117
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AJoyPad/disabled/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -6,
+								"y": -117
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AJoyPad/mouseOver/0",
+							"__w": 109,
+							"__h": 26
+						}
+					},
+					"id": 4
+				},
+				"button:GameQuit": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AGameQuit/normal/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AGameQuit/pressed/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -34,
+								"y": -151
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AGameQuit/disabled/0",
+							"__w": 52,
+							"__h": 14
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -31,
+								"y": -150
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/mainBar/submenu/setting/button%253AGameQuit/mouseOver/0",
+							"__w": 60,
+							"__h": 16
+						}
+					},
+					"id": 5
+				}
+			},
+			"Notify": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/0",
+					"__w": 12,
+					"__h": 14
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/1",
+					"__w": 12,
+					"__h": 14
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/2",
+					"__w": 12,
+					"__h": 14
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/3",
+					"__w": 12,
+					"__h": 14
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/4",
+					"__w": 12,
+					"__h": 14
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/5",
+					"__w": 12,
+					"__h": 14
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 10,
+					"delay": 120,
+					"": "/UI/StatusBar3/mainBar/submenu/Notify/5",
+					"__w": 12,
+					"__h": 14
+				}
+			}
+		},
+		"quickSlot": {
+			"backgrnd": {
+				"origin": {
+					"x": -12,
+					"y": -3
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/mainBar/quickSlot/backgrnd",
+				"__w": 557,
+				"__h": 67
+			},
+			"layer:cover": {
+				"origin": {
+					"x": -10,
+					"y": 0
+				},
+				"z": 2,
+				"": "/UI/StatusBar3/mainBar/quickSlot/layer%253Acover",
+				"__w": 562,
+				"__h": 73
+			},
+			"button:Extend": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -2,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend/normal/0",
+						"__w": 13,
+						"__h": 71
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -2,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend/pressed/0",
+						"__w": 13,
+						"__h": 71
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -2,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend/disabled/0",
+						"__w": 13,
+						"__h": 71
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend/mouseOver/0",
+						"__w": 14,
+						"__h": 71
+					}
+				},
+				"id": 1
+			},
+			"button:Fold": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -3,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold/normal/0",
+						"__w": 12,
+						"__h": 71
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -3,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold/pressed/0",
+						"__w": 12,
+						"__h": 71
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -3,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold/disabled/0",
+						"__w": 12,
+						"__h": 71
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -2,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold/mouseOver/0",
+						"__w": 13,
+						"__h": 71
+					}
+				},
+				"id": 2
+			},
+			"button:Extend800": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend800/normal/0",
+						"__w": 9,
+						"__h": 71
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend800/pressed/0",
+						"__w": 9,
+						"__h": 71
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -1,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend800/disabled/0",
+						"__w": 9,
+						"__h": 71
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AExtend800/mouseOver/0",
+						"__w": 10,
+						"__h": 71
+					}
+				},
+				"id": 3
+			},
+			"button:Fold800": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -5,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold800/normal/0",
+						"__w": 10,
+						"__h": 71
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -5,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold800/pressed/0",
+						"__w": 10,
+						"__h": 71
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -5,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold800/disabled/0",
+						"__w": 10,
+						"__h": 71
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -4,
+							"y": -1
+						},
+						"z": -1,
+						"": "/UI/StatusBar3/mainBar/quickSlot/button%253AFold800/mouseOver/0",
+						"__w": 11,
+						"__h": 71
+					}
+				},
+				"id": 4
+			},
+			"setting": {
+				"backgrnd": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 4,
+					"": "/UI/StatusBar3/mainBar/quickSlot/setting/backgrnd",
+					"__w": 346,
+					"__h": 120
+				},
+				"button:Complete": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -85,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253AComplete/normal/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -85,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253AComplete/pressed/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -85,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253AComplete/disabled/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -85,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253AComplete/mouseOver/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"id": 1
+				},
+				"button:Cancel": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -175,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253ACancel/normal/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -175,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253ACancel/pressed/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -175,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253ACancel/disabled/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -175,
+								"y": -60
+							},
+							"z": 5,
+							"": "/UI/StatusBar3/mainBar/quickSlot/setting/button%253ACancel/mouseOver/0",
+							"__w": 83,
+							"__h": 26
+						}
+					},
+					"id": 2
+				}
+			},
+			"selected": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 4
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/mainBar/quickSlot/selected/0",
+					"__w": 40,
+					"__h": 40
+				}
+			}
+		}
+	},
+	"chat": {
+		"common": {
+			"chatTarget": {
+				"base": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/base/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/base/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/base/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/base/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"all": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/all/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/all/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/all/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/all/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"friend": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/friend/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/friend/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/friend/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/friend/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"party": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/party/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/party/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/party/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/party/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"guild": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/guild/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/guild/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/guild/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/guild/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"association": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/association/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/association/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/association/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/association/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"afctv": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/afctv/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/afctv/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/afctv/normal/0",
+							"__w": 48,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/common/chatTarget/afctv/pressed/0",
+							"__w": 48,
+							"__h": 18
+						}
+					}
+				},
+				"backgrnd": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 2
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/chatTarget/backgrnd/0",
+						"__w": 46,
+						"__h": 2
+					},
+					"1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/chatTarget/backgrnd/1",
+						"__w": 46,
+						"__h": 1
+					},
+					"2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/chatTarget/backgrnd/2",
+						"__w": 46,
+						"__h": 2
+					}
+				},
+				"mouseOver": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/chat/common/chatTarget/mouseOver",
+					"__w": 44,
+					"__h": 14
+				}
+			},
+			"scroll": {
+				"enabled": {
+					"prev0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/prev0",
+						"__w": 11,
+						"__h": 9
+					},
+					"prev1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/prev1",
+						"__w": 11,
+						"__h": 9
+					},
+					"prev2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/prev2",
+						"__w": 11,
+						"__h": 9
+					},
+					"next0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/next0",
+						"__w": 11,
+						"__h": 9
+					},
+					"next1": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/next1",
+						"__w": 11,
+						"__h": 9
+					},
+					"next2": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/next2",
+						"__w": 11,
+						"__h": 9
+					},
+					"base_t": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/base_t",
+						"__w": 11,
+						"__h": 3
+					},
+					"base_c": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/base_c",
+						"__w": 11,
+						"__h": 1
+					},
+					"base_b": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/base_b",
+						"__w": 11,
+						"__h": 3
+					},
+					"thumb0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/thumb0",
+						"__w": 11,
+						"__h": 20
+					},
+					"thumb1": {
+						"origin": {
+							"x": 0,
+							"y": 1
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/thumb1",
+						"__w": 11,
+						"__h": 22
+					},
+					"thumb2": {
+						"origin": {
+							"x": 0,
+							"y": 1
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/enabled/thumb1",
+						"__w": 11,
+						"__h": 22
+					}
+				},
+				"disabled": {
+					"prev": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/disabled/prev",
+						"__w": 11,
+						"__h": 9
+					},
+					"next": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/disabled/next",
+						"__w": 11,
+						"__h": 9
+					},
+					"base_t": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/disabled/base_t",
+						"__w": 11,
+						"__h": 3
+					},
+					"base_c": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/disabled/base_c",
+						"__w": 11,
+						"__h": 1
+					},
+					"base_b": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/common/scroll/disabled/base_b",
+						"__w": 11,
+						"__h": 3
+					}
+				}
+			},
+			"Tap_outside": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/Tap_outside/normal/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/Tap_outside/pressed/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/Tap_outside/normal/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/Tap_outside/pressed/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"checked": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/Tap_outside/pressed/0",
+						"__w": 50,
+						"__h": 22
+					}
+				}
+			},
+			"BtAddTap_outside": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtAddTap_outside/normal/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtAddTap_outside/pressed/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"disabled": {
+					"0": {
+						"z": 2,
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/common/BtAddTap_outside/disabled/0",
+						"__w": 50,
+						"__h": 22
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtAddTap_outside/mouseOver/0",
+						"__w": 50,
+						"__h": 22
+					}
+				}
+			},
+			"BtChat_outside": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtChat_outside/normal/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtChat_outside/pressed/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtChat_outside/disabled/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtChat_outside/mouseOver/0",
+						"__w": 18,
+						"__h": 18
+					}
+				}
+			},
+			"BtHelp_outside": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtHelp_outside/normal/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtHelp_outside/pressed/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtHelp_outside/disabled/0",
+						"__w": 18,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 2,
+						"": "/UI/StatusBar3/chat/common/BtHelp_outside/mouseOver/0",
+						"__w": 18,
+						"__h": 18
+					}
+				}
+			}
+		},
+		"outside": {
+			"top": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/chat/outside/top",
+				"__w": 410,
+				"__h": 276
+			},
+			"center": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/chat/outside/center",
+				"__w": 410,
+				"__h": 1
+			},
+			"bottom": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/chat/outside/bottom",
+				"__w": 410,
+				"__h": 39
+			},
+			"backgrnd": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/StatusBar3/chat/outside/backgrnd",
+				"__w": 410,
+				"__h": 806
+			},
+			"title": {
+				"origin": {
+					"x": -4,
+					"y": -3
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/chat/outside/title",
+				"__w": 114,
+				"__h": 18
+			},
+			"filter": {
+				"backgrnd_outside": {
+					"origin": {
+						"x": 34,
+						"y": 75
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/chat/outside/filter/backgrnd_outside",
+					"__w": 68,
+					"__h": 151
+				},
+				"BtEdit": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": 78
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtEdit/normal/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": 78
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtEdit/pressed/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": 78
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtEdit/disabled/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -13,
+								"y": 78
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtEdit/mouseOver/0",
+							"__w": 15,
+							"__h": 15
+						}
+					}
+				},
+				"BtDelete": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 27,
+								"y": -62
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtDelete/normal/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 27,
+								"y": -62
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtDelete/pressed/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 27,
+								"y": -62
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtDelete/disabled/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 27,
+								"y": -62
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtDelete/mouseOver/0",
+							"__w": 56,
+							"__h": 13
+						}
+					}
+				},
+				"BtSubMenu": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -21,
+								"y": 39
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtSubMenu/normal/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -21,
+								"y": 39
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtSubMenu/pressed/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -21,
+								"y": 39
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtSubMenu/disabled/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -21,
+								"y": 39
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/outside/filter/BtSubMenu/mouseOver/0",
+							"__w": 9,
+							"__h": 12
+						}
+					}
+				},
+				"subMenu": {
+					"nw": {
+						"origin": {
+							"x": 10,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/nw",
+						"__w": 10,
+						"__h": 10
+					},
+					"n": {
+						"origin": {
+							"x": 0,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/n",
+						"__w": 1,
+						"__h": 10
+					},
+					"ne": {
+						"origin": {
+							"x": 0,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/ne",
+						"__w": 10,
+						"__h": 10
+					},
+					"w": {
+						"origin": {
+							"x": 10,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/w",
+						"__w": 10,
+						"__h": 1
+					},
+					"c": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/c",
+						"__w": 1,
+						"__h": 1
+					},
+					"e": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/e",
+						"__w": 10,
+						"__h": 1
+					},
+					"sw": {
+						"origin": {
+							"x": 10,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/sw",
+						"__w": 10,
+						"__h": 10
+					},
+					"s": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/s",
+						"__w": 1,
+						"__h": 10
+					},
+					"se": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/se",
+						"__w": 10,
+						"__h": 10
+					}
+				}
+			}
+		},
+		"ingame": {
+			"view": {
+				"drag": {
+					"origin": {
+						"x": -7,
+						"y": -6
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/chat/ingame/view/drag",
+					"__w": 349,
+					"__h": 6
+				},
+				"min": {
+					"top": {
+						"origin": {
+							"x": 0,
+							"y": 15
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/min/top",
+						"__w": 409,
+						"__h": 15
+					},
+					"center": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/min/center",
+						"__w": 409,
+						"__h": 1
+					},
+					"bottom": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/min/bottom",
+						"__w": 409,
+						"__h": 15
+					}
+				},
+				"max": {
+					"top": {
+						"origin": {
+							"x": 0,
+							"y": 15
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/max/top",
+						"__w": 574,
+						"__h": 15
+					},
+					"center": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/max/center",
+						"__w": 574,
+						"__h": 1
+					},
+					"bottom": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"z": 0,
+						"": "/UI/StatusBar3/chat/ingame/view/max/bottom",
+						"__w": 574,
+						"__h": 15
+					}
+				},
+				"tab": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/tab/normal/0",
+							"__w": 52,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/tab/normal/0",
+							"__w": 52,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/tab/disabled/0",
+							"__w": 52,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/tab/mouseOver/0",
+							"__w": 52,
+							"__h": 18
+						}
+					},
+					"checked": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/tab/normal/0",
+							"__w": 52,
+							"__h": 18
+						}
+					}
+				},
+				"btAddTab": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btAddTab/normal/0",
+							"__w": 20,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btAddTab/pressed/0",
+							"__w": 20,
+							"__h": 17
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btAddTab/disabled/0",
+							"__w": 20,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btAddTab/mouseOver/0",
+							"__w": 20,
+							"__h": 18
+						}
+					}
+				},
+				"btMin": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMin/normal/0",
+							"__w": 18,
+							"__h": 10
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMin/pressed/0",
+							"__w": 18,
+							"__h": 10
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMin/disabled/0",
+							"__w": 18,
+							"__h": 10
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMin/mouseOver/0",
+							"__w": 18,
+							"__h": 10
+						}
+					}
+				},
+				"btMax": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMax/normal/0",
+							"__w": 13,
+							"__h": 13
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMax/pressed/0",
+							"__w": 13,
+							"__h": 13
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMax/disabled/0",
+							"__w": 13,
+							"__h": 13
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/view/btMax/mouseOver/0",
+							"__w": 13,
+							"__h": 13
+						}
+					}
+				}
+			},
+			"input": {
+				"layer:backgrnd": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/chat/ingame/input/layer%253Abackgrnd",
+					"__w": 574,
+					"__h": 28
+				},
+				"layer:chatEnter": {
+					"origin": {
+						"x": -56,
+						"y": -4
+					},
+					"z": 1,
+					"": "/UI/StatusBar3/chat/ingame/input/layer%253AchatEnter",
+					"__w": 471,
+					"__h": 20
+				},
+				"button:chat": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Achat/normal/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Achat/pressed/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Achat/disabled/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Achat/mouseOver/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"id": 2
+				},
+				"button:help": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Ahelp/normal/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Ahelp/pressed/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Ahelp/disabled/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": 0,
+								"y": 0
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/input/button%253Ahelp/mouseOver/0",
+							"__w": 18,
+							"__h": 18
+						}
+					},
+					"id": 3
+				}
+			},
+			"filter": {
+				"backgrnd": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/StatusBar3/chat/ingame/filter/backgrnd",
+					"__w": 68,
+					"__h": 168
+				},
+				"button:edit": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -6
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Aedit/normal/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -6
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Aedit/pressed/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -6
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Aedit/disabled/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -47,
+								"y": -6
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Aedit/mouseOver/0",
+							"__w": 15,
+							"__h": 15
+						}
+					},
+					"id": 1
+				},
+				"button:delete": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -146
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Adelete/normal/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -146
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Adelete/pressed/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -146
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Adelete/disabled/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -7,
+								"y": -146
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253Adelete/mouseOver/0",
+							"__w": 56,
+							"__h": 13
+						}
+					},
+					"id": 2
+				},
+				"button:subMenu": {
+					"normal": {
+						"0": {
+							"origin": {
+								"x": -55,
+								"y": -45
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253AsubMenu/normal/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"pressed": {
+						"0": {
+							"origin": {
+								"x": -55,
+								"y": -45
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253AsubMenu/pressed/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"disabled": {
+						"0": {
+							"origin": {
+								"x": -55,
+								"y": -45
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253AsubMenu/disabled/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"mouseOver": {
+						"0": {
+							"origin": {
+								"x": -55,
+								"y": -45
+							},
+							"z": 2,
+							"": "/UI/StatusBar3/chat/ingame/filter/button%253AsubMenu/mouseOver/0",
+							"__w": 9,
+							"__h": 12
+						}
+					},
+					"id": 3
+				},
+				"subMenu": {
+					"nw": {
+						"origin": {
+							"x": 10,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/nw",
+						"__w": 10,
+						"__h": 10
+					},
+					"n": {
+						"origin": {
+							"x": 0,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/ingame/filter/subMenu/n",
+						"__w": 1,
+						"__h": 10
+					},
+					"ne": {
+						"origin": {
+							"x": 0,
+							"y": 10
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/ne",
+						"__w": 10,
+						"__h": 10
+					},
+					"w": {
+						"origin": {
+							"x": 10,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/ingame/filter/subMenu/w",
+						"__w": 10,
+						"__h": 1
+					},
+					"c": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/ingame/filter/subMenu/c",
+						"__w": 1,
+						"__h": 1
+					},
+					"e": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/ingame/filter/subMenu/e",
+						"__w": 10,
+						"__h": 1
+					},
+					"sw": {
+						"origin": {
+							"x": 10,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/sw",
+						"__w": 10,
+						"__h": 10
+					},
+					"s": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/ingame/filter/subMenu/s",
+						"__w": 1,
+						"__h": 10
+					},
+					"se": {
+						"origin": {
+							"x": 0,
+							"y": 0
+						},
+						"": "/UI/StatusBar3/chat/outside/filter/subMenu/se",
+						"__w": 10,
+						"__h": 10
+					}
+				}
+			}
+		}
+	},
+	"OptionMenu": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/OptionMenu/backgrnd",
+			"__w": 460,
+			"__h": 602
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -10,
+				"y": -22
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/OptionMenu/backgrnd2",
+			"__w": 440,
+			"__h": 560
+		},
+		"button:OK": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -144,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AOK/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -144,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AOK/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -144,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AOK/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -144,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AOK/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 1
+		},
+		"tab": {
+			"enabled": {
+				"0": {
+					"origin": {
+						"x": -21,
+						"y": -73
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/0",
+					"__w": 118,
+					"__h": 37
+				},
+				"1": {
+					"origin": {
+						"x": -21,
+						"y": -113
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/1",
+					"__w": 118,
+					"__h": 37
+				},
+				"2": {
+					"origin": {
+						"x": -21,
+						"y": -153
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/2",
+					"__w": 118,
+					"__h": 37
+				},
+				"3": {
+					"origin": {
+						"x": -21,
+						"y": -193
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/3",
+					"__w": 118,
+					"__h": 37
+				},
+				"4": {
+					"origin": {
+						"x": -21,
+						"y": -233
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/4",
+					"__w": 118,
+					"__h": 37
+				},
+				"5": {
+					"origin": {
+						"x": -21,
+						"y": -273
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/enabled/5",
+					"__w": 118,
+					"__h": 37
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -21,
+						"y": -73
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/0",
+					"__w": 118,
+					"__h": 37
+				},
+				"1": {
+					"origin": {
+						"x": -21,
+						"y": -113
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/1",
+					"__w": 118,
+					"__h": 37
+				},
+				"2": {
+					"origin": {
+						"x": -21,
+						"y": -153
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/2",
+					"__w": 118,
+					"__h": 37
+				},
+				"3": {
+					"origin": {
+						"x": -21,
+						"y": -193
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/3",
+					"__w": 118,
+					"__h": 37
+				},
+				"4": {
+					"origin": {
+						"x": -21,
+						"y": -233
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/4",
+					"__w": 118,
+					"__h": 37
+				},
+				"5": {
+					"origin": {
+						"x": -21,
+						"y": -273
+					},
+					"z": 2,
+					"": "/UI/StatusBar3/OptionMenu/tab/disabled/5",
+					"__w": 118,
+					"__h": 37
+				}
+			}
+		},
+		"button:Cancel": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -233,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253ACancel/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -233,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253ACancel/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -233,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253ACancel/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -233,
+						"y": -544
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253ACancel/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 2
+		},
+		"graphic": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/graphic/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"combo:resolution": {
+				"lt": {
+					"x": 225,
+					"y": 101
+				},
+				"rb": {
+					"x": 425,
+					"y": 126
+				},
+				"id": 2001,
+				"textLeft": 8,
+				"textTop": 8,
+				"backColor": -12303292,
+				"backFocusedColor": -14540254,
+				"boxPosX": 1,
+				"boxPosY": 2,
+				"boxWidth": 165,
+				"boxTestLeftOffset": 3,
+				"fType": 38,
+				"fTypeSelect": 42,
+				"sButtonUOL": "UI/Basic.img/ComboBox7"
+			},
+			"combo:damage": {
+				"lt": {
+					"x": 225,
+					"y": 412
+				},
+				"rb": {
+					"x": 425,
+					"y": 437
+				},
+				"id": 2002,
+				"contents": {
+					"damage": {
+						"0": {
+							"string": "基本效果"
+						},
+						"1": {
+							"string": "火山效果"
+						},
+						"2": {
+							"string": "刀刃效果"
+						},
+						"3": {
+							"string": "迷你基本效果"
+						},
+						"4": {
+							"string": "迷你火山效果"
+						},
+						"5": {
+							"string": "迷你刀刃效果"
+						}
+					}
+				},
+				"textLeft": 8,
+				"textTop": 8,
+				"backColor": -12303292,
+				"backFocusedColor": -14540254,
+				"boxPosX": 1,
+				"boxPosY": 2,
+				"boxWidth": 165,
+				"boxTestLeftOffset": 3,
+				"fType": 38,
+				"fTypeSelect": 42,
+				"sButtonUOL": "UI/Basic.img/ComboBox7"
+			},
+			"check:windowed": {
+				"lt": {
+					"x": 223,
+					"y": 134
+				},
+				"rb": {
+					"x": 234,
+					"y": 145
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:tremble": {
+				"lt": {
+					"x": 223,
+					"y": 446
+				},
+				"rb": {
+					"x": 234,
+					"y": 457
+				},
+				"id": 3002,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"slider:qualityBG": {
+				"lt": {
+					"x": 213,
+					"y": 188
+				},
+				"id": 4001,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"slider:qualityEffect": {
+				"lt": {
+					"x": 213,
+					"y": 230
+				},
+				"id": 4002,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"slider:alphaMine": {
+				"lt": {
+					"x": 220,
+					"y": 326
+				},
+				"id": 4003,
+				"acceptFocus": 1,
+				"width": 205,
+				"type": 3
+			},
+			"slider:alphaOther": {
+				"lt": {
+					"x": 220,
+					"y": 372
+				},
+				"id": 4004,
+				"acceptFocus": 1,
+				"width": 205,
+				"type": 3
+			}
+		},
+		"sound": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/sound/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"check:muteBG": {
+				"lt": {
+					"x": 223,
+					"y": 154
+				},
+				"rb": {
+					"x": 234,
+					"y": 165
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:muteSE": {
+				"lt": {
+					"x": 223,
+					"y": 237
+				},
+				"rb": {
+					"x": 234,
+					"y": 248
+				},
+				"id": 3002,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:muteSV": {
+				"lt": {
+					"x": 223,
+					"y": 320
+				},
+				"rb": {
+					"x": 234,
+					"y": 331
+				},
+				"id": 3003,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"slider:volBG": {
+				"lt": {
+					"x": 213,
+					"y": 116
+				},
+				"id": 4001,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"slider:volSE": {
+				"lt": {
+					"x": 213,
+					"y": 199
+				},
+				"id": 4002,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"slider:volSV": {
+				"lt": {
+					"x": 213,
+					"y": 282
+				},
+				"id": 4003,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			}
+		},
+		"game": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/game/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"button:keySetting": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -225,
+							"y": -484
+						},
+						"z": 4,
+						"": "/UI/StatusBar3/OptionMenu/game/button%253AkeySetting/normal/0",
+						"__w": 195,
+						"__h": 36
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -225,
+							"y": -484
+						},
+						"z": 4,
+						"": "/UI/StatusBar3/OptionMenu/game/button%253AkeySetting/pressed/0",
+						"__w": 195,
+						"__h": 36
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -225,
+							"y": -484
+						},
+						"z": 4,
+						"": "/UI/StatusBar3/OptionMenu/game/button%253AkeySetting/disabled/0",
+						"__w": 195,
+						"__h": 36
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -225,
+							"y": -484
+						},
+						"z": 4,
+						"": "/UI/StatusBar3/OptionMenu/game/button%253AkeySetting/mouseOver/0",
+						"__w": 195,
+						"__h": 36
+					}
+				},
+				"id": 3
+			},
+			"combo:monster": {
+				"lt": {
+					"x": 225,
+					"y": 225
+				},
+				"rb": {
+					"x": 425,
+					"y": 250
+				},
+				"contents": {
+					"monster": {
+						"0": {
+							"string": "不標示"
+						},
+						"1": {
+							"string": "只標示名字"
+						},
+						"2": {
+							"string": "只標示HP"
+						},
+						"3": {
+							"string": "名字和 HP都標示"
+						}
+					}
+				},
+				"id": 2001,
+				"textLeft": 8,
+				"textTop": 8,
+				"backColor": -12303292,
+				"backFocusedColor": -14540254,
+				"boxPosX": 1,
+				"boxPosY": 2,
+				"boxWidth": 165,
+				"boxTestLeftOffset": 3,
+				"fType": 38,
+				"fTypeSelect": 42,
+				"sButtonUOL": "UI/Basic.img/ComboBox7"
+			},
+			"check:tooltip": {
+				"lt": {
+					"x": 223,
+					"y": 269
+				},
+				"rb": {
+					"x": 234,
+					"y": 280
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:trade": {
+				"lt": {
+					"x": 223,
+					"y": 390
+				},
+				"rb": {
+					"x": 234,
+					"y": 401
+				},
+				"id": 3003,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:combatMessage": {
+				"lt": {
+					"x": 223,
+					"y": 294
+				},
+				"rb": {
+					"x": 234,
+					"y": 305
+				},
+				"id": 3011,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"slider:flashHP": {
+				"lt": {
+					"x": 213,
+					"y": 106
+				},
+				"id": 4001,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"slider:flashMP": {
+				"lt": {
+					"x": 213,
+					"y": 148
+				},
+				"id": 4002,
+				"acceptFocus": 1,
+				"width": 220,
+				"type": 3
+			},
+			"check:chatOutside": {
+				"lt": {
+					"x": 223,
+					"y": 459
+				},
+				"rb": {
+					"x": 234,
+					"y": 470
+				},
+				"id": 3012,
+				"acceptFocus": 1,
+				"type": 5
+			}
+		},
+		"invite": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/invite/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"check:whisper": {
+				"lt": {
+					"x": 223,
+					"y": 108
+				},
+				"rb": {
+					"x": 234,
+					"y": 119
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:inviteTalk": {
+				"lt": {
+					"x": 223,
+					"y": 133
+				},
+				"rb": {
+					"x": 234,
+					"y": 144
+				},
+				"id": 3002,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:talkFriend": {
+				"lt": {
+					"x": 223,
+					"y": 158
+				},
+				"rb": {
+					"x": 234,
+					"y": 169
+				},
+				"id": 3003,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:talkGuild": {
+				"lt": {
+					"x": 382,
+					"y": 108
+				},
+				"rb": {
+					"x": 393,
+					"y": 119
+				},
+				"id": 3004,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:talkAlliance": {
+				"lt": {
+					"x": 382,
+					"y": 133
+				},
+				"rb": {
+					"x": 393,
+					"y": 144
+				},
+				"id": 3005,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:ramdomParty": {
+				"lt": {
+					"x": 223,
+					"y": 235
+				},
+				"rb": {
+					"x": 234,
+					"y": 246
+				},
+				"id": 3006,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:Follow": {
+				"lt": {
+					"x": 223,
+					"y": 260
+				},
+				"rb": {
+					"x": 234,
+					"y": 271
+				},
+				"id": 3007,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:inviteParty": {
+				"lt": {
+					"x": 223,
+					"y": 285
+				},
+				"rb": {
+					"x": 234,
+					"y": 296
+				},
+				"id": 3008,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:inviteGuild": {
+				"lt": {
+					"x": 382,
+					"y": 235
+				},
+				"rb": {
+					"x": 393,
+					"y": 246
+				},
+				"id": 3009,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:inviteAlliance": {
+				"lt": {
+					"x": 382,
+					"y": 260
+				},
+				"rb": {
+					"x": 393,
+					"y": 271
+				},
+				"id": 3010,
+				"acceptFocus": 1,
+				"type": 5
+			},
+			"check:teleportItem": {
+				"lt": {
+					"x": 382,
+					"y": 285
+				},
+				"rb": {
+					"x": 393,
+					"y": 298
+				},
+				"id": 3013,
+				"acceptFocus": 1,
+				"type": 5
+			}
+		},
+		"etc": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/etc/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"check:performance": {
+				"lt": {
+					"x": 273,
+					"y": 108
+				},
+				"rb": {
+					"x": 284,
+					"y": 119
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5
+			}
+		},
+		"button:UIReset": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -322,
+						"y": -30
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AUIReset/normal/0",
+					"__w": 120,
+					"__h": 30
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -322,
+						"y": -30
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AUIReset/pressed/0",
+					"__w": 120,
+					"__h": 30
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -322,
+						"y": -30
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AUIReset/disabled/0",
+					"__w": 120,
+					"__h": 30
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -322,
+						"y": -30
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/OptionMenu/button%253AUIReset/mouseOver/0",
+					"__w": 120,
+					"__h": 30
+				}
+			},
+			"id": 900
+		},
+		"screenshot": {
+			"layer:backgrnd": {
+				"origin": {
+					"x": -139,
+					"y": -67
+				},
+				"z": 1,
+				"": "/UI/StatusBar3/OptionMenu/screenshot/layer%253Abackgrnd",
+				"__w": 301,
+				"__h": 467
+			},
+			"combo:filetype": {
+				"lt": {
+					"x": 225,
+					"y": 101
+				},
+				"rb": {
+					"x": 425,
+					"y": 128
+				},
+				"contents": {
+					"filetype": {
+						"0": {
+							"string": "JPEG"
+						},
+						"1": {
+							"string": "PNG"
+						}
+					}
+				},
+				"id": 2001,
+				"textLeft": 8,
+				"textTop": 8,
+				"backColor": -12303292,
+				"backFocusedColor": -14540254,
+				"boxPosX": 1,
+				"boxPosY": 0,
+				"boxWidth": 165,
+				"boxTestLeftOffset": 3,
+				"fType": 38,
+				"fTypeSelect": 42,
+				"sButtonUOL": "UI/Basic.img/ComboBox7"
+			},
+			"combo:loc": {
+				"lt": {
+					"x": 225,
+					"y": 136
+				},
+				"rb": {
+					"x": 425,
+					"y": 163
+				},
+				"contents": {
+					"loc": {
+						"0": {
+							"string": "楓之谷資料夾"
+						},
+						"1": {
+							"string": "桌面"
+						},
+						"2": {
+							"string": "C:\\\\"
+						}
+					}
+				},
+				"id": 2002,
+				"textLeft": 8,
+				"textTop": 8,
+				"backColor": -12303292,
+				"backFocusedColor": -14540254,
+				"boxPosX": 1,
+				"boxPosY": 0,
+				"boxWidth": 165,
+				"boxTestLeftOffset": 3,
+				"fType": 38,
+				"fTypeSelect": 42,
+				"sButtonUOL": "UI/Basic.img/ComboBox7"
+			},
+			"check:inarow": {
+				"lt": {
+					"x": 223,
+					"y": 217
+				},
+				"rb": {
+					"x": 234,
+					"y": 228
+				},
+				"id": 3001,
+				"acceptFocus": 1,
+				"type": 5,
+				"ToolTip": "依據所輸入的數字拍攝截圖。"
+			},
+			"edit:inarow": {
+				"origin": {
+					"x": -347,
+					"y": -219
+				},
+				"z": 0,
+				"id": "3003",
+				"maxlen": 2,
+				"number": 1,
+				"color": "ffffffff",
+				"": "/UI/UIAuction/tab_search/filter/armor/edit:MinLev",
+				"__w": 19,
+				"__h": 10
+			},
+			"button:up": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -214
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Aup/normal/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -214
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Aup/pressed/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -214
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Aup/disabled/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -214
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Aup/mouseOver/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"id": 1011,
+				"ToolTip": "最多可以連續拍攝10張。"
+			},
+			"button:down": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -224
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Adown/normal/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -224
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Adown/pressed/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -224
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Adown/disabled/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -370,
+							"y": -224
+						},
+						"": "/UI/StatusBar3/OptionMenu/screenshot/button%253Adown/mouseOver/0",
+						"__w": 9,
+						"__h": 9
+					}
+				},
+				"id": 1012,
+				"ToolTip": "最低可以從2張開始連續拍攝。"
+			},
+			"check:auto": {
+				"lt": {
+					"x": 223,
+					"y": 242
+				},
+				"rb": {
+					"x": 234,
+					"y": 253
+				},
+				"id": 3002,
+				"acceptFocus": 1,
+				"type": 5,
+				"ToolTip": "留下記憶的瞬間自動拍攝。"
+			}
+		}
+	},
+	"FadeYesNo": {
+		"backgrnd1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd1",
+			"__w": 207,
+			"__h": 59
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd2",
+			"__w": 208,
+			"__h": 59
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd3",
+			"__w": 207,
+			"__h": 51
+		},
+		"backgrnd4": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd4",
+			"__w": 207,
+			"__h": 51
+		},
+		"backgrnd5": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd5",
+			"__w": 207,
+			"__h": 51
+		},
+		"backgrnd6": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd6",
+			"__w": 207,
+			"__h": 51
+		},
+		"backgrnd7": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd7",
+			"__w": 209,
+			"__h": 52
+		},
+		"backgrnd8": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd8",
+			"__w": 174,
+			"__h": 58
+		},
+		"backgrnd9": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd9",
+			"__w": 174,
+			"__h": 58
+		},
+		"backgrnd10": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd10",
+			"__w": 172,
+			"__h": 51
+		},
+		"backgrnd11": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd11",
+			"__w": 174,
+			"__h": 52
+		},
+		"backgrnd12": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd12",
+			"__w": 174,
+			"__h": 52
+		},
+		"backgrnd13": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd13",
+			"__w": 174,
+			"__h": 52
+		},
+		"backgrnd14": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd14",
+			"__w": 174,
+			"__h": 52
+		},
+		"backgrnd15": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd15",
+			"__w": 207,
+			"__h": 51
+		},
+		"backgrnd16": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd16",
+			"__w": 172,
+			"__h": 51
+		},
+		"backgrnd17": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd17",
+			"__w": 172,
+			"__h": 51
+		},
+		"backgrnd18": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd18",
+			"__w": 209,
+			"__h": 61
+		},
+		"backgrnd19": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd19",
+			"__w": 209,
+			"__h": 61
+		},
+		"icon0": {
+			"origin": {
+				"x": -15,
+				"y": -15
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/FadeYesNo/icon0",
+			"__w": 20,
+			"__h": 28
+		},
+		"icon1": {
+			"origin": {
+				"x": -13,
+				"y": -14
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/FadeYesNo/icon1",
+			"__w": 23,
+			"__h": 29
+		},
+		"icon2": {
+			"origin": {
+				"x": -12,
+				"y": -16
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/FadeYesNo/icon2",
+			"__w": 23,
+			"__h": 27
+		},
+		"icon3": {
+			"origin": {
+				"x": -11,
+				"y": -17
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/FadeYesNo/icon3",
+			"__w": 24,
+			"__h": 26
+		},
+		"icon4": {
+			"origin": {
+				"x": -12,
+				"y": -15
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/FadeYesNo/icon4",
+			"__w": 23,
+			"__h": 27
+		},
+		"icon5": {
+			"origin": {
+				"x": -14,
+				"y": -14
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon5",
+			"__w": 27,
+			"__h": 22
+		},
+		"icon6": {
+			"origin": {
+				"x": -12,
+				"y": -13
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon6",
+			"__w": 29,
+			"__h": 23
+		},
+		"icon7": {
+			"origin": {
+				"x": -11,
+				"y": -14
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon7",
+			"__w": 30,
+			"__h": 23
+		},
+		"icon8": {
+			"origin": {
+				"x": -15,
+				"y": -14
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon8",
+			"__w": 20,
+			"__h": 21
+		},
+		"icon9": {
+			"origin": {
+				"x": -15,
+				"y": -13
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon9",
+			"__w": 20,
+			"__h": 21
+		},
+		"BtOK": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtOK/normal/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtOK/pressed/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtOK/disabled/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtOK/mouseOver/0",
+					"__w": 16,
+					"__h": 16
+				}
+			}
+		},
+		"BtCancel": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtCancel/normal/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtCancel/pressed/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtCancel/disabled/0",
+					"__w": 16,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/UI/StatusBar3/FadeYesNo/BtCancel/mouseOver/0",
+					"__w": 16,
+					"__h": 16
+				}
+			}
+		},
+		"backgrnd20": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd20",
+			"__w": 209,
+			"__h": 52
+		},
+		"backgrnd21": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd21",
+			"__w": 209,
+			"__h": 52
+		},
+		"backgrnd22": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd22",
+			"__w": 209,
+			"__h": 52
+		},
+		"backgrnd23": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/StatusBar3/FadeYesNo/backgrnd23",
+			"__w": 209,
+			"__h": 52
+		},
+		"icon10": {
+			"origin": {
+				"x": -11,
+				"y": -9
+			},
+			"": "/UI/StatusBar3/FadeYesNo/icon10",
+			"__w": 32,
+			"__h": 34
+		}
+	},
+	"KeyConfig": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/StatusBar3/KeyConfig/backgrnd",
+			"__w": 660,
+			"__h": 511
+		},
+		"key": {
+			"1": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/1",
+				"__w": 24,
+				"__h": 9
+			},
+			"2": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/2",
+				"__w": 7,
+				"__h": 9
+			},
+			"3": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/3",
+				"__w": 10,
+				"__h": 9
+			},
+			"4": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/4",
+				"__w": 10,
+				"__h": 9
+			},
+			"5": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/5",
+				"__w": 10,
+				"__h": 9
+			},
+			"6": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/6",
+				"__w": 10,
+				"__h": 9
+			},
+			"7": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/7",
+				"__w": 10,
+				"__h": 9
+			},
+			"8": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/8",
+				"__w": 9,
+				"__h": 9
+			},
+			"9": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/9",
+				"__w": 10,
+				"__h": 9
+			},
+			"10": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/10",
+				"__w": 10,
+				"__h": 9
+			},
+			"11": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/11",
+				"__w": 10,
+				"__h": 9
+			},
+			"12": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/12",
+				"__w": 7,
+				"__h": 5
+			},
+			"13": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/13",
+				"__w": 10,
+				"__h": 7
+			},
+			"16": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/16",
+				"__w": 10,
+				"__h": 10
+			},
+			"17": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/17",
+				"__w": 12,
+				"__h": 9
+			},
+			"18": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/18",
+				"__w": 10,
+				"__h": 9
+			},
+			"19": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/19",
+				"__w": 10,
+				"__h": 9
+			},
+			"20": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/20",
+				"__w": 10,
+				"__h": 9
+			},
+			"21": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/21",
+				"__w": 10,
+				"__h": 9
+			},
+			"22": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/22",
+				"__w": 10,
+				"__h": 9
+			},
+			"23": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/23",
+				"__w": 6,
+				"__h": 9
+			},
+			"24": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/11",
+				"__w": 10,
+				"__h": 9
+			},
+			"25": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/25",
+				"__w": 10,
+				"__h": 9
+			},
+			"26": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/26",
+				"__w": 7,
+				"__h": 11
+			},
+			"27": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/27",
+				"__w": 7,
+				"__h": 11
+			},
+			"29": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/29",
+				"__w": 23,
+				"__h": 9
+			},
+			"30": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/30",
+				"__w": 10,
+				"__h": 9
+			},
+			"31": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/31",
+				"__w": 10,
+				"__h": 9
+			},
+			"32": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/32",
+				"__w": 10,
+				"__h": 9
+			},
+			"33": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/33",
+				"__w": 10,
+				"__h": 9
+			},
+			"34": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/34",
+				"__w": 10,
+				"__h": 9
+			},
+			"35": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/35",
+				"__w": 10,
+				"__h": 9
+			},
+			"36": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/36",
+				"__w": 9,
+				"__h": 9
+			},
+			"37": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/37",
+				"__w": 10,
+				"__h": 9
+			},
+			"38": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/38",
+				"__w": 9,
+				"__h": 9
+			},
+			"39": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/39",
+				"__w": 7,
+				"__h": 10
+			},
+			"40": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/40",
+				"__w": 6,
+				"__h": 6
+			},
+			"41": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/41",
+				"__w": 7,
+				"__h": 6
+			},
+			"42": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/42",
+				"__w": 28,
+				"__h": 9
+			},
+			"43": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/43",
+				"__w": 14,
+				"__h": 11
+			},
+			"44": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/44",
+				"__w": 10,
+				"__h": 9
+			},
+			"45": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/45",
+				"__w": 10,
+				"__h": 9
+			},
+			"46": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/46",
+				"__w": 10,
+				"__h": 9
+			},
+			"47": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/47",
+				"__w": 10,
+				"__h": 9
+			},
+			"48": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/48",
+				"__w": 10,
+				"__h": 9
+			},
+			"49": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/49",
+				"__w": 10,
+				"__h": 9
+			},
+			"50": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/50",
+				"__w": 10,
+				"__h": 9
+			},
+			"51": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/51",
+				"__w": 7,
+				"__h": 7
+			},
+			"52": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/52",
+				"__w": 6,
+				"__h": 5
+			},
+			"56": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/56",
+				"__w": 18,
+				"__h": 9
+			},
+			"57": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/57",
+				"__w": 34,
+				"__h": 11
+			},
+			"59": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/59",
+				"__w": 14,
+				"__h": 9
+			},
+			"60": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/60",
+				"__w": 17,
+				"__h": 9
+			},
+			"61": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/61",
+				"__w": 17,
+				"__h": 9
+			},
+			"62": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/62",
+				"__w": 17,
+				"__h": 9
+			},
+			"63": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/63",
+				"__w": 17,
+				"__h": 9
+			},
+			"64": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/64",
+				"__w": 17,
+				"__h": 9
+			},
+			"65": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/65",
+				"__w": 16,
+				"__h": 9
+			},
+			"66": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/66",
+				"__w": 17,
+				"__h": 9
+			},
+			"67": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/67",
+				"__w": 17,
+				"__h": 9
+			},
+			"68": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/68",
+				"__w": 21,
+				"__h": 9
+			},
+			"70": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/70",
+				"__w": 19,
+				"__h": 9
+			},
+			"71": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/71",
+				"__w": 19,
+				"__h": 9
+			},
+			"73": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/73",
+				"__w": 22,
+				"__h": 11
+			},
+			"79": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/79",
+				"__w": 22,
+				"__h": 9
+			},
+			"81": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/81",
+				"__w": 22,
+				"__h": 9
+			},
+			"82": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/82",
+				"__w": 18,
+				"__h": 9
+			},
+			"83": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/83",
+				"__w": 19,
+				"__h": 9
+			},
+			"87": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/87",
+				"__w": 18,
+				"__h": 9
+			},
+			"88": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/StatusBar3/KeyConfig/key/88",
+				"__w": 21,
+				"__h": 9
+			}
+		},
+		"button:OK": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -470,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AOK/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -470,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AOK/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -470,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AOK/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -470,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AOK/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 1
+		},
+		"button:Cancel": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -559,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ACancel/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -559,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ACancel/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -559,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ACancel/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -559,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ACancel/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 2
+		},
+		"button:Default": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -18,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADefault/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -18,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADefault/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -18,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADefault/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -18,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADefault/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 3
+		},
+		"button:Delete": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -107,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADelete/normal/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -107,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADelete/pressed/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -107,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADelete/disabled/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -107,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253ADelete/mouseOver/0",
+					"__w": 83,
+					"__h": 26
+				}
+			},
+			"id": 4
+		},
+		"button:keySetting": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -196,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AkeySetting/normal/0",
+					"__w": 104,
+					"__h": 26
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -196,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AkeySetting/pressed/0",
+					"__w": 104,
+					"__h": 26
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -196,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AkeySetting/disabled/0",
+					"__w": 104,
+					"__h": 26
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -196,
+						"y": -464
+					},
+					"z": 3,
+					"": "/UI/StatusBar3/KeyConfig/button%253AkeySetting/mouseOver/0",
+					"__w": 104,
+					"__h": 26
+				}
+			},
+			"id": 5
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -10,
+				"y": -22
+			},
+			"z": 1,
+			"": "/UI/StatusBar3/KeyConfig/backgrnd2",
+			"__w": 640,
+			"__h": 479
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -20,
+				"y": -67
+			},
+			"z": 2,
+			"": "/UI/StatusBar3/KeyConfig/backgrnd3",
+			"__w": 620,
+			"__h": 231
+		},
+		"icon": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 6,
+				"": "/UI/StatusBar3/KeyConfig/icon/0",
+				"__w": 32,
+				"__h": 32
+			},
+			"1": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 7,
+				"": "/UI/StatusBar3/KeyConfig/icon/1",
+				"__w": 32,
+				"__h": 32
+			},
+			"2": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 23,
+				"": "/UI/StatusBar3/KeyConfig/icon/2",
+				"__w": 32,
+				"__h": 32
+			},
+			"3": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 24,
+				"": "/UI/StatusBar3/KeyConfig/icon/3",
+				"__w": 32,
+				"__h": 32
+			},
+			"4": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 30,
+				"": "/UI/StatusBar3/KeyConfig/icon/4",
+				"__w": 32,
+				"__h": 32
+			},
+			"5": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 31,
+				"": "/UI/StatusBar3/KeyConfig/icon/5",
+				"__w": 32,
+				"__h": 32
+			},
+			"6": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 0,
+				"": "/UI/StatusBar3/KeyConfig/icon/6",
+				"__w": 32,
+				"__h": 32
+			},
+			"7": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 32,
+				"": "/UI/StatusBar3/KeyConfig/icon/7",
+				"__w": 32,
+				"__h": 32
+			},
+			"8": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 25,
+				"": "/UI/StatusBar3/KeyConfig/icon/8",
+				"__w": 32,
+				"__h": 32
+			},
+			"9": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 33,
+				"": "/UI/StatusBar3/KeyConfig/icon/9",
+				"__w": 32,
+				"__h": 32
+			},
+			"10": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 17,
+				"": "/UI/StatusBar3/KeyConfig/icon/10",
+				"__w": 32,
+				"__h": 32
+			},
+			"11": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 2,
+				"": "/UI/StatusBar3/KeyConfig/icon/11",
+				"__w": 32,
+				"__h": 32
+			},
+			"12": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 18,
+				"": "/UI/StatusBar3/KeyConfig/icon/12",
+				"__w": 32,
+				"__h": 32
+			},
+			"13": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 19,
+				"": "/UI/StatusBar3/KeyConfig/icon/13",
+				"__w": 32,
+				"__h": 32
+			},
+			"14": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 9,
+				"": "/UI/StatusBar3/KeyConfig/icon/14",
+				"__w": 32,
+				"__h": 32
+			},
+			"15": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 10,
+				"": "/UI/StatusBar3/KeyConfig/icon/15",
+				"__w": 32,
+				"__h": 32
+			},
+			"16": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 1,
+				"": "/UI/StatusBar3/KeyConfig/icon/16",
+				"__w": 32,
+				"__h": 32
+			},
+			"17": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 27,
+				"": "/UI/StatusBar3/KeyConfig/icon/17",
+				"__w": 32,
+				"__h": 32
+			},
+			"18": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 34,
+				"": "/UI/StatusBar3/KeyConfig/icon/18",
+				"__w": 32,
+				"__h": 32
+			},
+			"19": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 28,
+				"": "/UI/StatusBar3/KeyConfig/icon/19",
+				"__w": 32,
+				"__h": 32
+			},
+			"20": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 29,
+				"": "/UI/StatusBar3/KeyConfig/icon/20",
+				"__w": 32,
+				"__h": 32
+			},
+			"21": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 42,
+				"": "/UI/StatusBar3/KeyConfig/icon/21",
+				"__w": 32,
+				"__h": 32
+			},
+			"22": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 43,
+				"": "/UI/StatusBar3/KeyConfig/icon/22",
+				"__w": 32,
+				"__h": 32
+			},
+			"23": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 35,
+				"": "/UI/StatusBar3/KeyConfig/icon/23",
+				"__w": 32,
+				"__h": 32
+			},
+			"25": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"z": 0,
+				"pid": 40,
+				"": "/UI/StatusBar3/KeyConfig/icon/25",
+				"__w": 32,
+				"__h": 32
+			},
+			"26": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 3,
+				"": "/UI/StatusBar3/KeyConfig/icon/26",
+				"__w": 32,
+				"__h": 32
+			},
+			"27": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 4,
+				"": "/UI/StatusBar3/KeyConfig/icon/27",
+				"__w": 32,
+				"__h": 32
+			},
+			"29": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 5,
+				"": "/UI/StatusBar3/KeyConfig/icon/29",
+				"__w": 32,
+				"__h": 32
+			},
+			"30": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 20,
+				"": "/UI/StatusBar3/KeyConfig/icon/30",
+				"__w": 32,
+				"__h": 32
+			},
+			"31": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 21,
+				"": "/UI/StatusBar3/KeyConfig/icon/31",
+				"__w": 32,
+				"__h": 32
+			},
+			"33": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 22,
+				"": "/UI/StatusBar3/KeyConfig/icon/33",
+				"__w": 32,
+				"__h": 32
+			},
+			"34": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"": "/UI/StatusBar3/KeyConfig/icon/34",
+				"__w": 32,
+				"__h": 32
+			},
+			"35": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 36,
+				"": "/UI/StatusBar3/KeyConfig/icon/35",
+				"__w": 32,
+				"__h": 32
+			},
+			"39": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 37,
+				"": "/UI/StatusBar3/KeyConfig/icon/39",
+				"__w": 32,
+				"__h": 32
+			},
+			"41": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 38,
+				"": "/UI/StatusBar3/KeyConfig/icon/41",
+				"__w": 32,
+				"__h": 32
+			},
+			"42": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 39,
+				"": "/UI/StatusBar3/KeyConfig/icon/42",
+				"__w": 32,
+				"__h": 32
+			},
+			"44": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 8,
+				"": "/UI/StatusBar3/KeyConfig/icon/44",
+				"__w": 32,
+				"__h": 32
+			},
+			"45": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 26,
+				"": "/UI/StatusBar3/KeyConfig/icon/45",
+				"__w": 32,
+				"__h": 32
+			},
+			"46": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 44,
+				"": "/UI/StatusBar3/KeyConfig/icon/46",
+				"__w": 32,
+				"__h": 32
+			},
+			"47": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 45,
+				"": "/UI/StatusBar3/KeyConfig/icon/47",
+				"__w": 32,
+				"__h": 32
+			},
+			"48": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 46,
+				"": "/UI/StatusBar3/KeyConfig/icon/48",
+				"__w": 32,
+				"__h": 32
+			},
+			"49": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 58,
+				"": "/UI/StatusBar3/KeyConfig/icon/49",
+				"__w": 32,
+				"__h": 32
+			},
+			"50": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 11,
+				"": "/UI/StatusBar3/KeyConfig/icon/50",
+				"__w": 32,
+				"__h": 32
+			},
+			"51": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 12,
+				"": "/UI/StatusBar3/KeyConfig/icon/51",
+				"__w": 32,
+				"__h": 32
+			},
+			"52": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 13,
+				"": "/UI/StatusBar3/KeyConfig/icon/52",
+				"__w": 32,
+				"__h": 32
+			},
+			"53": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 14,
+				"": "/UI/StatusBar3/KeyConfig/icon/53",
+				"__w": 32,
+				"__h": 32
+			},
+			"54": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 15,
+				"": "/UI/StatusBar3/KeyConfig/icon/54",
+				"__w": 32,
+				"__h": 32
+			},
+			"100": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 51,
+				"": "/UI/StatusBar3/KeyConfig/icon/100",
+				"__w": 32,
+				"__h": 32
+			},
+			"101": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 52,
+				"": "/UI/StatusBar3/KeyConfig/icon/101",
+				"__w": 32,
+				"__h": 32
+			},
+			"102": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 53,
+				"": "/UI/StatusBar3/KeyConfig/icon/102",
+				"__w": 32,
+				"__h": 32
+			},
+			"103": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 54,
+				"": "/UI/StatusBar3/KeyConfig/icon/103",
+				"__w": 32,
+				"__h": 32
+			},
+			"104": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 55,
+				"": "/UI/StatusBar3/KeyConfig/icon/104",
+				"__w": 32,
+				"__h": 32
+			},
+			"105": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 56,
+				"": "/UI/StatusBar3/KeyConfig/icon/105",
+				"__w": 32,
+				"__h": 32
+			},
+			"106": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 57,
+				"": "/UI/StatusBar3/KeyConfig/icon/106",
+				"__w": 32,
+				"__h": 32
+			},
+			"200": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 41,
+				"": "/UI/StatusBar3/KeyConfig/icon/200",
+				"__w": 32,
+				"__h": 32
+			},
+			"201": {
+				"origin": {
+					"x": 0,
+					"y": 32
+				},
+				"pid": 47,
+				"": "/UI/StatusBar3/KeyConfig/icon/201",
+				"__w": 32,
+				"__h": 32
+			}
+		}
+	}
+}

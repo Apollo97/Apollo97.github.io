@@ -1,0 +1,2127 @@
+{
+	"backgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": 0,
+		"": "/UI/UIWindow2/Item/backgrnd",
+		"__w": 172,
+		"__h": 335
+	},
+	"backgrnd2": {
+		"origin": {
+			"x": -6,
+			"y": -23
+		},
+		"z": 1,
+		"": "/UI/UIWindow2/Item/backgrnd2",
+		"__w": 160,
+		"__h": 306
+	},
+	"backgrnd3": {
+		"origin": {
+			"x": -7,
+			"y": -45
+		},
+		"z": 2,
+		"": "/UI/UIWindow2/Item/backgrnd3",
+		"__w": 158,
+		"__h": 255
+	},
+	"productionBackgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": 0,
+		"": "/UI/UIWindow2/Item/backgrnd",
+		"__w": 172,
+		"__h": 335
+	},
+	"productionBackgrnd2": {
+		"origin": {
+			"x": -6,
+			"y": -23
+		},
+		"z": 1,
+		"": "/UI/UIWindow2/Item/productionBackgrnd2",
+		"__w": 160,
+		"__h": 306
+	},
+	"productionBackgrnd3": {
+		"origin": {
+			"x": -7,
+			"y": -45
+		},
+		"z": 2,
+		"": "/UI/UIWindow2/Item/backgrnd3",
+		"__w": 158,
+		"__h": 255
+	},
+	"FullBackgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": -1,
+		"": "/UI/UIWindow2/Item/FullBackgrnd",
+		"__w": 594,
+		"__h": 383
+	},
+	"FullBackgrnd2": {
+		"origin": {
+			"x": -6,
+			"y": -23
+		},
+		"z": 1,
+		"": "/UI/UIWindow2/Item/FullBackgrnd2",
+		"__w": 582,
+		"__h": 352
+	},
+	"FullBackgrnd3": {
+		"origin": {
+			"x": -7,
+			"y": -45
+		},
+		"z": 2,
+		"": "/UI/UIWindow2/Item/FullBackgrnd3",
+		"__w": 580,
+		"__h": 326
+	},
+	"activeIcon": {
+		"origin": {
+			"x": 2,
+			"y": 2
+		},
+		"": "/UI/UIWindow/Item/activeIcon",
+		"__w": 36,
+		"__h": 36
+	},
+	"activeIcon2": {
+		"origin": {
+			"x": 2,
+			"y": 2
+		},
+		"": "/UI/UIWindow2/Item/activeIcon2",
+		"__w": 36,
+		"__h": 36
+	},
+	"shadow": {
+		"origin": {
+			"x": -3,
+			"y": 6
+		},
+		"z": 0,
+		"": "/UI/UIWindow/Item/shadow",
+		"__w": 26,
+		"__h": 6
+	},
+	"disabled": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": 0,
+		"": "/UI/UIWindow2/Item/disabled",
+		"__w": 33,
+		"__h": 33
+	},
+	"disabled2": {
+		"z": 0,
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIWindow2/Item/disabled2",
+		"__w": 32,
+		"__h": 32
+	},
+	"BtCoin3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindowString/Zero_Weapon/Bt_Meso/normal/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin3/pressed/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin3/disabled/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin3/mouseOver/0",
+				"__w": 40,
+				"__h": 16
+			}
+		}
+	},
+	"BtCoin4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin4/normal/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin4/pressed/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin4/disabled/0",
+				"__w": 40,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtCoin4/mouseOver/0",
+				"__w": 40,
+				"__h": 16
+			}
+		}
+	},
+	"BtPoint0": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -285
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/normal/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -285
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/pressed/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -285
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/disabled/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -285
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/mouseOver/0",
+				"__w": 82,
+				"__h": 16
+			}
+		}
+	},
+	"BtPoint1": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -190,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint1/normal/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -190,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/pressed/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -190,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/disabled/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -190,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPoint0/mouseOver/0",
+				"__w": 82,
+				"__h": 16
+			}
+		}
+	},
+	"Tab": {
+		"enabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -26
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/enabled/0",
+				"__w": 30,
+				"__h": 22
+			},
+			"1": {
+				"origin": {
+					"x": -40,
+					"y": -26
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/enabled/1",
+				"__w": 30,
+				"__h": 22
+			},
+			"2": {
+				"origin": {
+					"x": -71,
+					"y": -26
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/enabled/2",
+				"__w": 30,
+				"__h": 22
+			},
+			"3": {
+				"origin": {
+					"x": -102,
+					"y": -26
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/enabled/3",
+				"__w": 30,
+				"__h": 22
+			},
+			"4": {
+				"origin": {
+					"x": -133,
+					"y": -26
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/enabled/4",
+				"__w": 30,
+				"__h": 22
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -28
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/disabled/0",
+				"__w": 30,
+				"__h": 20
+			},
+			"1": {
+				"origin": {
+					"x": -40,
+					"y": -28
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/disabled/1",
+				"__w": 30,
+				"__h": 20
+			},
+			"2": {
+				"origin": {
+					"x": -71,
+					"y": -28
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/disabled/2",
+				"__w": 30,
+				"__h": 20
+			},
+			"3": {
+				"origin": {
+					"x": -102,
+					"y": -28
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/disabled/3",
+				"__w": 30,
+				"__h": 20
+			},
+			"4": {
+				"origin": {
+					"x": -133,
+					"y": -28
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/Tab/disabled/4",
+				"__w": 30,
+				"__h": 20
+			}
+		}
+	},
+	"BtGather3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtGather4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtGather3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtSort3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -130,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtSort4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -135,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSort3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtFull3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtFull4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtFull3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtSmall3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -147,
+					"y": -267
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtSmall4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -153,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtSmall3/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtCashshop": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -502,
+					"y": -337
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/BtCashshop/normal/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -502,
+					"y": -337
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/BtCashshop/pressed/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -502,
+					"y": -337
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/BtCashshop/disabled/0",
+				"__w": 82,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -502,
+					"y": -337
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/BtCashshop/mouseOver/0",
+				"__w": 82,
+				"__h": 16
+			}
+		}
+	},
+	"Quality": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Item/Quality/0/0",
+				"__w": 5,
+				"__h": 5
+			}
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Item/Quality/1/0",
+				"__w": 5,
+				"__h": 5
+			}
+		},
+		"2": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Item/Quality/2/0",
+				"__w": 5,
+				"__h": 5
+			}
+		},
+		"3": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/Quality/3/0",
+				"__w": 5,
+				"__h": 5
+			}
+		},
+		"4": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/Quality/4/0",
+				"__w": 5,
+				"__h": 5
+			}
+		},
+		"5": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Item/Quality/5/0",
+				"__w": 5,
+				"__h": 5
+			}
+		}
+	},
+	"New": {
+		"inventory": {
+			"0": {
+				"origin": {
+					"x": 2,
+					"y": 2
+				},
+				"": "/UI/UIWindow/Item/New/inventory/0",
+				"__w": 36,
+				"__h": 36
+			},
+			"1": {
+				"origin": {
+					"x": 2,
+					"y": 2
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/New/inventory/1",
+				"__w": 36,
+				"__h": 36
+			},
+			"2": {
+				"origin": {
+					"x": 2,
+					"y": 2
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/New/inventory/2",
+				"__w": 36,
+				"__h": 36
+			},
+			"3": {
+				"origin": {
+					"x": 2,
+					"y": 2
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/New/inventory/3",
+				"__w": 36,
+				"__h": 36
+			}
+		},
+		"Tab0": {
+			"0": {
+				"z": 3,
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Item/New/Tab0/0",
+				"__w": 28,
+				"__h": 16
+			},
+			"1": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/New/Tab0/1",
+				"__w": 28,
+				"__h": 16
+			},
+			"2": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/New/Tab0/2",
+				"__w": 28,
+				"__h": 16
+			}
+		},
+		"Tab1": {
+			"0": {
+				"z": 3,
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Item/New/Tab1/0",
+				"__w": 28,
+				"__h": 18
+			},
+			"1": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/New/Tab1/1",
+				"__w": 28,
+				"__h": 18
+			},
+			"2": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"z": 3,
+				"": "/UI/UIWindow2/Item/New/Tab1/2",
+				"__w": 28,
+				"__h": 18
+			}
+		}
+	},
+	"Barrier": {
+		"0": {
+			"origin": {
+				"x": 9,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/Barrier/0",
+			"__w": 9,
+			"__h": 9
+		}
+	},
+	"timeLimit": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 32
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/timeLimit/0",
+			"__w": 11,
+			"__h": 11
+		}
+	},
+	"LukUp": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 9
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/LukUp/0",
+			"__w": 9,
+			"__h": 9
+		}
+	},
+	"monsterCollection": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/monsterCollection/0",
+			"__w": 32,
+			"__h": 32
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 1
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/monsterCollection/1",
+			"__w": 33,
+			"__h": 33
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 1
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/monsterCollection/2",
+			"__w": 33,
+			"__h": 33
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 1
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/monsterCollection/1",
+			"__w": 33,
+			"__h": 33
+		}
+	},
+	"itemCollection": {
+		"0": {
+			"": "/UI/UIWindow2/Item/itemCollection/0",
+			"__w": 1,
+			"__h": 1
+		}
+	},
+	"releaseKey": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 9
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/releaseKey/0",
+			"__w": 9,
+			"__h": 9
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 9
+			},
+			"z": 0,
+			"": "/UI/UIWindow2/Item/releaseKey/1",
+			"__w": 9,
+			"__h": 9
+		}
+	},
+	"Magnifier": {
+		"Success": {
+			"0": {
+				"origin": {
+					"x": -1,
+					"y": 0
+				},
+				"": "/UI/UIWindow/Item/Magnifier/Success/0",
+				"__w": 16,
+				"__h": 15
+			},
+			"1": {
+				"origin": {
+					"x": 12,
+					"y": 10
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/Magnifier/Success/1",
+				"__w": 49,
+				"__h": 48
+			},
+			"2": {
+				"origin": {
+					"x": 11,
+					"y": 8
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/Magnifier/Success/2",
+				"__w": 50,
+				"__h": 48
+			},
+			"3": {
+				"origin": {
+					"x": 10,
+					"y": 8
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/Magnifier/Success/3",
+				"__w": 51,
+				"__h": 50
+			},
+			"4": {
+				"origin": {
+					"x": 6,
+					"y": 5
+				},
+				"z": 0,
+				"": "/UI/UIWindow/Item/Magnifier/Success/4",
+				"__w": 44,
+				"__h": 43
+			}
+		}
+	},
+	"BtDisassemble3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -9,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtDisassemble4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -412,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -412,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -412,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -412,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtDisassemble4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtExtract3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -35,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -35,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -35,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -35,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtExtract4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -430,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -430,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -430,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -430,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtExtract4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtAppraise3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -61,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -61,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -61,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -61,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtAppraise4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -448,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -448,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -448,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -448,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtAppraise4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtBits3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtBits4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -267
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtBits4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtPot3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -87,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -87,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -87,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -87,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtPot4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -466,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -466,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -466,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -466,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtPot4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtUpgrade3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -139,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -139,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -139,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -139,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtUpgrade4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -392,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -392,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -392,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -392,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtUpgrade4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	},
+	"BtToad3": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad3/normal/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad3/pressed/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad3/disabled/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad3/mouseOver/0",
+				"__w": 24,
+				"__h": 24
+			}
+		},
+		"ani": {
+			"0": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/normal/0",
+				"__w": 24,
+				"__h": 24
+			},
+			"1": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/1",
+				"__w": 24,
+				"__h": 24
+			},
+			"2": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/2",
+				"__w": 24,
+				"__h": 24
+			},
+			"3": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/3",
+				"__w": 24,
+				"__h": 24
+			},
+			"4": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/4",
+				"__w": 24,
+				"__h": 24
+			},
+			"5": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/5",
+				"__w": 24,
+				"__h": 24
+			},
+			"6": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/6",
+				"__w": 24,
+				"__h": 24
+			},
+			"7": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/7",
+				"__w": 24,
+				"__h": 24
+			},
+			"8": {
+				"origin": {
+					"x": -113,
+					"y": -303
+				},
+				"z": 2,
+				"delay": 120,
+				"": "/UI/UIWindow2/Item/BtToad3/ani/8",
+				"__w": 24,
+				"__h": 24
+			}
+		}
+	},
+	"BtToad4": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/normal/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/pressed/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/disabled/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/mouseOver/0",
+				"__w": 16,
+				"__h": 16
+			}
+		},
+		"ani": {
+			"0": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/normal/0",
+				"__w": 16,
+				"__h": 16
+			},
+			"1": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/1",
+				"__w": 16,
+				"__h": 16
+			},
+			"2": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/2",
+				"__w": 16,
+				"__h": 16
+			},
+			"3": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/3",
+				"__w": 16,
+				"__h": 16
+			},
+			"4": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/4",
+				"__w": 16,
+				"__h": 16
+			},
+			"5": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/5",
+				"__w": 16,
+				"__h": 16
+			},
+			"6": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/6",
+				"__w": 16,
+				"__h": 16
+			},
+			"7": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/7",
+				"__w": 16,
+				"__h": 16
+			},
+			"8": {
+				"origin": {
+					"x": -484,
+					"y": -337
+				},
+				"z": 2,
+				"": "/UI/UIWindow2/Item/BtToad4/ani/8",
+				"__w": 16,
+				"__h": 16
+			}
+		}
+	}
+}

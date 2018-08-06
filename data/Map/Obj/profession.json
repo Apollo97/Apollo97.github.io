@@ -1,0 +1,2954 @@
+{
+	"main": {
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 165
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/0/0",
+					"__w": 181,
+					"__h": 167
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 137
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/0",
+					"__w": 92,
+					"__h": 133
+				},
+				"1": {
+					"origin": {
+						"x": 50,
+						"y": 137
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/1",
+					"__w": 92,
+					"__h": 132
+				},
+				"2": {
+					"origin": {
+						"x": 50,
+						"y": 135
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/2",
+					"__w": 94,
+					"__h": 130
+				},
+				"3": {
+					"origin": {
+						"x": 47,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/3",
+					"__w": 90,
+					"__h": 128
+				},
+				"4": {
+					"origin": {
+						"x": 46,
+						"y": 134
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/4",
+					"__w": 88,
+					"__h": 129
+				},
+				"5": {
+					"origin": {
+						"x": 47,
+						"y": 136
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/5",
+					"__w": 88,
+					"__h": 130
+				},
+				"6": {
+					"origin": {
+						"x": 48,
+						"y": 136
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/6",
+					"__w": 91,
+					"__h": 131
+				},
+				"7": {
+					"origin": {
+						"x": 49,
+						"y": 137
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/7",
+					"__w": 92,
+					"__h": 133
+				},
+				"8": {
+					"origin": {
+						"x": 50,
+						"y": 137
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/8",
+					"__w": 92,
+					"__h": 132
+				},
+				"9": {
+					"origin": {
+						"x": 50,
+						"y": 135
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/9",
+					"__w": 94,
+					"__h": 130
+				},
+				"10": {
+					"origin": {
+						"x": 47,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/10",
+					"__w": 90,
+					"__h": 128
+				},
+				"11": {
+					"origin": {
+						"x": 46,
+						"y": 134
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/11",
+					"__w": 88,
+					"__h": 129
+				},
+				"12": {
+					"origin": {
+						"x": 47,
+						"y": 136
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/12",
+					"__w": 88,
+					"__h": 130
+				},
+				"13": {
+					"origin": {
+						"x": 48,
+						"y": 136
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/1/13",
+					"__w": 91,
+					"__h": 131
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/0",
+					"__w": 134,
+					"__h": 82
+				},
+				"1": {
+					"origin": {
+						"x": 68,
+						"y": 244
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/1",
+					"__w": 134,
+					"__h": 84
+				},
+				"2": {
+					"origin": {
+						"x": 68,
+						"y": 247
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/2",
+					"__w": 134,
+					"__h": 87
+				},
+				"3": {
+					"origin": {
+						"x": 68,
+						"y": 256
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/3",
+					"__w": 134,
+					"__h": 96
+				},
+				"4": {
+					"origin": {
+						"x": 68,
+						"y": 263
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/4",
+					"__w": 134,
+					"__h": 103
+				},
+				"5": {
+					"origin": {
+						"x": 68,
+						"y": 272
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/5",
+					"__w": 134,
+					"__h": 112
+				},
+				"6": {
+					"origin": {
+						"x": 68,
+						"y": 246
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/6",
+					"__w": 134,
+					"__h": 86
+				},
+				"7": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/7",
+					"__w": 134,
+					"__h": 82
+				},
+				"8": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/8",
+					"__w": 134,
+					"__h": 82
+				},
+				"9": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/9",
+					"__w": 134,
+					"__h": 82
+				},
+				"10": {
+					"origin": {
+						"x": 68,
+						"y": 244
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/10",
+					"__w": 134,
+					"__h": 84
+				},
+				"11": {
+					"origin": {
+						"x": 68,
+						"y": 247
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/11",
+					"__w": 134,
+					"__h": 87
+				},
+				"12": {
+					"origin": {
+						"x": 68,
+						"y": 256
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/12",
+					"__w": 134,
+					"__h": 96
+				},
+				"13": {
+					"origin": {
+						"x": 68,
+						"y": 263
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/13",
+					"__w": 134,
+					"__h": 103
+				},
+				"14": {
+					"origin": {
+						"x": 68,
+						"y": 272
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/14",
+					"__w": 134,
+					"__h": 112
+				},
+				"15": {
+					"origin": {
+						"x": 68,
+						"y": 246
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/15",
+					"__w": 134,
+					"__h": 86
+				},
+				"16": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/16",
+					"__w": 134,
+					"__h": 82
+				},
+				"17": {
+					"origin": {
+						"x": 68,
+						"y": 242
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/2/17",
+					"__w": 134,
+					"__h": 82
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 27
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/0",
+					"__w": 44,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 25
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/1",
+					"__w": 44,
+					"__h": 51
+				},
+				"2": {
+					"origin": {
+						"x": 22,
+						"y": 21
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/2",
+					"__w": 44,
+					"__h": 42
+				},
+				"3": {
+					"origin": {
+						"x": 24,
+						"y": 20
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/3",
+					"__w": 48,
+					"__h": 40
+				},
+				"4": {
+					"origin": {
+						"x": 20,
+						"y": 31
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/4",
+					"__w": 40,
+					"__h": 62
+				},
+				"5": {
+					"origin": {
+						"x": 22,
+						"y": 27
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/5",
+					"__w": 44,
+					"__h": 55
+				},
+				"6": {
+					"origin": {
+						"x": 24,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/6",
+					"__w": 48,
+					"__h": 45
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 101,
+						"y": 187
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/4/0",
+					"__w": 373,
+					"__h": 258
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 237,
+						"y": 368
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/5/0",
+					"__w": 357,
+					"__h": 372
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 181,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/6/0",
+					"__w": 179,
+					"__h": 240
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 234,
+						"y": 170
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/0",
+					"__w": 285,
+					"__h": 41
+				},
+				"1": {
+					"origin": {
+						"x": 241,
+						"y": 171
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/1",
+					"__w": 299,
+					"__h": 43
+				},
+				"2": {
+					"origin": {
+						"x": 246,
+						"y": 172
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/2",
+					"__w": 309,
+					"__h": 43
+				},
+				"3": {
+					"origin": {
+						"x": 250,
+						"y": 178
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/3",
+					"__w": 317,
+					"__h": 46
+				},
+				"4": {
+					"origin": {
+						"x": 252,
+						"y": 187
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/4",
+					"__w": 322,
+					"__h": 61
+				},
+				"5": {
+					"origin": {
+						"x": 253,
+						"y": 195
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/5",
+					"__w": 323,
+					"__h": 72
+				},
+				"6": {
+					"origin": {
+						"x": 253,
+						"y": 202
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/6",
+					"__w": 323,
+					"__h": 83
+				},
+				"7": {
+					"origin": {
+						"x": 253,
+						"y": 196
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/7",
+					"__w": 323,
+					"__h": 72
+				},
+				"8": {
+					"origin": {
+						"x": 253,
+						"y": 187
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/8",
+					"__w": 322,
+					"__h": 61
+				},
+				"9": {
+					"origin": {
+						"x": 250,
+						"y": 178
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/9",
+					"__w": 316,
+					"__h": 46
+				},
+				"10": {
+					"origin": {
+						"x": 246,
+						"y": 172
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/10",
+					"__w": 309,
+					"__h": 42
+				},
+				"11": {
+					"origin": {
+						"x": 241,
+						"y": 171
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/7/11",
+					"__w": 299,
+					"__h": 43
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 148,
+						"y": 326
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/0",
+					"__w": 111,
+					"__h": 158
+				},
+				"1": {
+					"origin": {
+						"x": 158,
+						"y": 325
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/1",
+					"__w": 131,
+					"__h": 157
+				},
+				"2": {
+					"origin": {
+						"x": 105,
+						"y": 320
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/2",
+					"__w": 18,
+					"__h": 35
+				},
+				"3": {
+					"origin": {
+						"x": 105,
+						"y": 320
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/3",
+					"__w": 18,
+					"__h": 53
+				},
+				"4": {
+					"origin": {
+						"x": 108,
+						"y": 322
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/4",
+					"__w": 21,
+					"__h": 111
+				},
+				"5": {
+					"origin": {
+						"x": 121,
+						"y": 323
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/5",
+					"__w": 59,
+					"__h": 152
+				},
+				"6": {
+					"origin": {
+						"x": 128,
+						"y": 325
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/6",
+					"__w": 73,
+					"__h": 154
+				},
+				"7": {
+					"origin": {
+						"x": 139,
+						"y": 325
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/8/7",
+					"__w": 93,
+					"__h": 156
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": -30,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/0",
+					"__w": 171,
+					"__h": 105
+				},
+				"1": {
+					"origin": {
+						"x": -31,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/1",
+					"__w": 170,
+					"__h": 105
+				},
+				"2": {
+					"origin": {
+						"x": -31,
+						"y": 160
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/2",
+					"__w": 169,
+					"__h": 104
+				},
+				"3": {
+					"origin": {
+						"x": -31,
+						"y": 159
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/3",
+					"__w": 169,
+					"__h": 104
+				},
+				"4": {
+					"origin": {
+						"x": -31,
+						"y": 160
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/2",
+					"__w": 169,
+					"__h": 104
+				},
+				"5": {
+					"origin": {
+						"x": -31,
+						"y": 162
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/profession/main/acc/9/1",
+					"__w": 170,
+					"__h": 105
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 215,
+						"y": 293
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/10/0",
+					"__w": 471,
+					"__h": 293
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/11/0",
+					"__w": 178,
+					"__h": 89
+				},
+				"1": {
+					"origin": {
+						"x": 91,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/11/1",
+					"__w": 178,
+					"__h": 89
+				},
+				"2": {
+					"origin": {
+						"x": 91,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/11/2",
+					"__w": 178,
+					"__h": 89
+				},
+				"3": {
+					"origin": {
+						"x": 91,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/11/3",
+					"__w": 178,
+					"__h": 89
+				},
+				"4": {
+					"origin": {
+						"x": 91,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/11/4",
+					"__w": 178,
+					"__h": 89
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 236,
+						"y": 277
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/12/0",
+					"__w": 463,
+					"__h": 277
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 137,
+						"y": 217
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/0",
+					"__w": 165,
+					"__h": 122
+				},
+				"1": {
+					"origin": {
+						"x": 136,
+						"y": 218
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/1",
+					"__w": 163,
+					"__h": 121
+				},
+				"2": {
+					"origin": {
+						"x": 136,
+						"y": 219
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/2",
+					"__w": 163,
+					"__h": 120
+				},
+				"3": {
+					"origin": {
+						"x": 136,
+						"y": 219
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/3",
+					"__w": 163,
+					"__h": 120
+				},
+				"4": {
+					"origin": {
+						"x": 136,
+						"y": 218
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/4",
+					"__w": 163,
+					"__h": 120
+				},
+				"5": {
+					"origin": {
+						"x": 135,
+						"y": 215
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/5",
+					"__w": 161,
+					"__h": 119
+				},
+				"6": {
+					"origin": {
+						"x": 136,
+						"y": 214
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/6",
+					"__w": 163,
+					"__h": 120
+				},
+				"7": {
+					"origin": {
+						"x": 136,
+						"y": 213
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/7",
+					"__w": 163,
+					"__h": 120
+				},
+				"8": {
+					"origin": {
+						"x": 136,
+						"y": 213
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/8",
+					"__w": 163,
+					"__h": 120
+				},
+				"9": {
+					"origin": {
+						"x": 136,
+						"y": 214
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/13/9",
+					"__w": 163,
+					"__h": 121
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 262,
+						"y": 7
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/14/0",
+					"__w": 525,
+					"__h": 14
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 65,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/15/0",
+					"__w": 131,
+					"__h": 117
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/0",
+					"__w": 204,
+					"__h": 173
+				},
+				"1": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/1",
+					"__w": 204,
+					"__h": 173
+				},
+				"2": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/2",
+					"__w": 204,
+					"__h": 173
+				},
+				"3": {
+					"origin": {
+						"x": 119,
+						"y": 170
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/3",
+					"__w": 193,
+					"__h": 170
+				},
+				"4": {
+					"origin": {
+						"x": 117,
+						"y": 103
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/4",
+					"__w": 191,
+					"__h": 103
+				},
+				"5": {
+					"origin": {
+						"x": 117,
+						"y": 102
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/5",
+					"__w": 191,
+					"__h": 102
+				},
+				"6": {
+					"origin": {
+						"x": 117,
+						"y": 128
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/6",
+					"__w": 191,
+					"__h": 128
+				},
+				"7": {
+					"origin": {
+						"x": 117,
+						"y": 157
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/7",
+					"__w": 191,
+					"__h": 157
+				},
+				"8": {
+					"origin": {
+						"x": 119,
+						"y": 170
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/8",
+					"__w": 193,
+					"__h": 170
+				},
+				"9": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/9",
+					"__w": 204,
+					"__h": 173
+				},
+				"10": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/10",
+					"__w": 204,
+					"__h": 173
+				},
+				"11": {
+					"origin": {
+						"x": 130,
+						"y": 173
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/profession/main/acc/16/11",
+					"__w": 204,
+					"__h": 173
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 39
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/17/0",
+					"__w": 121,
+					"__h": 38
+				},
+				"1": {
+					"origin": {
+						"x": 64,
+						"y": 38
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/17/1",
+					"__w": 121,
+					"__h": 37
+				},
+				"2": {
+					"origin": {
+						"x": 64,
+						"y": 38
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/17/2",
+					"__w": 121,
+					"__h": 37
+				},
+				"3": {
+					"origin": {
+						"x": 64,
+						"y": 39
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/17/3",
+					"__w": 121,
+					"__h": 38
+				},
+				"4": {
+					"origin": {
+						"x": 64,
+						"y": 38
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/17/4",
+					"__w": 121,
+					"__h": 37
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": -74,
+						"y": 160
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/0",
+					"__w": 100,
+					"__h": 49
+				},
+				"1": {
+					"origin": {
+						"x": -80,
+						"y": 157
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/1",
+					"__w": 99,
+					"__h": 44
+				},
+				"2": {
+					"origin": {
+						"x": -94,
+						"y": 155
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/2",
+					"__w": 87,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": -113,
+						"y": 153
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/3",
+					"__w": 61,
+					"__h": 44
+				},
+				"4": {
+					"origin": {
+						"x": -106,
+						"y": 149
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/4",
+					"__w": 53,
+					"__h": 44
+				},
+				"5": {
+					"origin": {
+						"x": -88,
+						"y": 149
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/5",
+					"__w": 71,
+					"__h": 45
+				},
+				"6": {
+					"origin": {
+						"x": -74,
+						"y": 151
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/6",
+					"__w": 73,
+					"__h": 48
+				},
+				"7": {
+					"origin": {
+						"x": -71,
+						"y": 152
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/7",
+					"__w": 54,
+					"__h": 48
+				},
+				"8": {
+					"origin": {
+						"x": -75,
+						"y": 154
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/8",
+					"__w": 46,
+					"__h": 49
+				},
+				"9": {
+					"origin": {
+						"x": -70,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/18/9",
+					"__w": 68,
+					"__h": 53
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 147,
+						"y": 565
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/19/0",
+					"__w": 349,
+					"__h": 565
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/0",
+					"__w": 275,
+					"__h": 222
+				},
+				"1": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/1",
+					"__w": 274,
+					"__h": 221
+				},
+				"2": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/2",
+					"__w": 274,
+					"__h": 220
+				},
+				"3": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/3",
+					"__w": 273,
+					"__h": 221
+				},
+				"4": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/4",
+					"__w": 272,
+					"__h": 221
+				},
+				"5": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/5",
+					"__w": 266,
+					"__h": 218
+				},
+				"6": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/6",
+					"__w": 267,
+					"__h": 218
+				},
+				"7": {
+					"origin": {
+						"x": 18,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/7",
+					"__w": 266,
+					"__h": 219
+				},
+				"8": {
+					"origin": {
+						"x": 18,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/8",
+					"__w": 268,
+					"__h": 225
+				},
+				"9": {
+					"origin": {
+						"x": 18,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/20/9",
+					"__w": 270,
+					"__h": 220
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": -9,
+						"y": 479
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/0",
+					"__w": 128,
+					"__h": 111
+				},
+				"1": {
+					"origin": {
+						"x": -2,
+						"y": 483
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/1",
+					"__w": 136,
+					"__h": 115
+				},
+				"2": {
+					"origin": {
+						"x": -2,
+						"y": 483
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/2",
+					"__w": 136,
+					"__h": 115
+				},
+				"3": {
+					"origin": {
+						"x": -3,
+						"y": 483
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/3",
+					"__w": 136,
+					"__h": 115
+				},
+				"4": {
+					"origin": {
+						"x": -4,
+						"y": 482
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/4",
+					"__w": 127,
+					"__h": 115
+				},
+				"5": {
+					"origin": {
+						"x": -5,
+						"y": 482
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/5",
+					"__w": 127,
+					"__h": 115
+				},
+				"6": {
+					"origin": {
+						"x": -5,
+						"y": 481
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/6",
+					"__w": 128,
+					"__h": 114
+				},
+				"7": {
+					"origin": {
+						"x": -6,
+						"y": 481
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/7",
+					"__w": 128,
+					"__h": 114
+				},
+				"8": {
+					"origin": {
+						"x": -7,
+						"y": 480
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/8",
+					"__w": 128,
+					"__h": 113
+				},
+				"9": {
+					"origin": {
+						"x": -8,
+						"y": 479
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/21/9",
+					"__w": 128,
+					"__h": 110
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 297,
+						"y": 565
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/22/0",
+					"__w": 479,
+					"__h": 565
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 222,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/0",
+					"__w": 275,
+					"__h": 222
+				},
+				"1": {
+					"origin": {
+						"x": 221,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/1",
+					"__w": 274,
+					"__h": 221
+				},
+				"2": {
+					"origin": {
+						"x": 221,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/2",
+					"__w": 274,
+					"__h": 220
+				},
+				"3": {
+					"origin": {
+						"x": 220,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/3",
+					"__w": 273,
+					"__h": 221
+				},
+				"4": {
+					"origin": {
+						"x": 219,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/4",
+					"__w": 272,
+					"__h": 221
+				},
+				"5": {
+					"origin": {
+						"x": 213,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/5",
+					"__w": 266,
+					"__h": 218
+				},
+				"6": {
+					"origin": {
+						"x": 214,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/6",
+					"__w": 267,
+					"__h": 218
+				},
+				"7": {
+					"origin": {
+						"x": 213,
+						"y": 500
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/7",
+					"__w": 266,
+					"__h": 219
+				},
+				"8": {
+					"origin": {
+						"x": 215,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/8",
+					"__w": 268,
+					"__h": 225
+				},
+				"9": {
+					"origin": {
+						"x": 217,
+						"y": 501
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/23/9",
+					"__w": 270,
+					"__h": 220
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 487
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/profession/main/acc/24/0",
+					"__w": 127,
+					"__h": 110
+				},
+				"1": {
+					"origin": {
+						"x": 91,
+						"y": 491
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/1",
+					"__w": 136,
+					"__h": 114
+				},
+				"2": {
+					"origin": {
+						"x": 92,
+						"y": 491
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/2",
+					"__w": 137,
+					"__h": 115
+				},
+				"3": {
+					"origin": {
+						"x": 92,
+						"y": 491
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/3",
+					"__w": 136,
+					"__h": 115
+				},
+				"4": {
+					"origin": {
+						"x": 84,
+						"y": 490
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/4",
+					"__w": 127,
+					"__h": 114
+				},
+				"5": {
+					"origin": {
+						"x": 85,
+						"y": 490
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/5",
+					"__w": 127,
+					"__h": 115
+				},
+				"6": {
+					"origin": {
+						"x": 86,
+						"y": 489
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/6",
+					"__w": 127,
+					"__h": 114
+				},
+				"7": {
+					"origin": {
+						"x": 87,
+						"y": 489
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/7",
+					"__w": 127,
+					"__h": 114
+				},
+				"8": {
+					"origin": {
+						"x": 88,
+						"y": 488
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/8",
+					"__w": 127,
+					"__h": 112
+				},
+				"9": {
+					"origin": {
+						"x": 89,
+						"y": 488
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/24/9",
+					"__w": 127,
+					"__h": 111
+				}
+			},
+			"25": {
+				"0": {
+					"origin": {
+						"x": 111,
+						"y": 194
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/profession/main/acc/25/0",
+					"__w": 227,
+					"__h": 194
+				}
+			},
+			"26": {
+				"0": {
+					"origin": {
+						"x": 465,
+						"y": 278
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/26/0",
+					"__w": 931,
+					"__h": 556
+				}
+			},
+			"27": {
+				"0": {
+					"origin": {
+						"x": 395,
+						"y": 278
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/27/0",
+					"__w": 790,
+					"__h": 557
+				}
+			},
+			"28": {
+				"0": {
+					"origin": {
+						"x": 292,
+						"y": 420
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}",
+						"11": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/28/0",
+					"__w": 584,
+					"__h": 840
+				}
+			},
+			"29": {
+				"0": {
+					"origin": {
+						"x": 306,
+						"y": 303
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/29/0",
+					"__w": 698,
+					"__h": 604
+				}
+			},
+			"30": {
+				"0": {
+					"origin": {
+						"x": 267,
+						"y": 294
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}",
+						"11": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/30/0",
+					"__w": 619,
+					"__h": 593
+				}
+			},
+			"31": {
+				"0": {
+					"origin": {
+						"x": 301,
+						"y": 380
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/31/0",
+					"__w": 602,
+					"__h": 863
+				}
+			},
+			"32": {
+				"0": {
+					"origin": {
+						"x": 102,
+						"y": 293
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/0",
+					"__w": 220,
+					"__h": 307
+				},
+				"1": {
+					"origin": {
+						"x": 102,
+						"y": 290
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/1",
+					"__w": 220,
+					"__h": 304
+				},
+				"2": {
+					"origin": {
+						"x": 102,
+						"y": 293
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/2",
+					"__w": 220,
+					"__h": 307
+				},
+				"3": {
+					"origin": {
+						"x": 102,
+						"y": 293
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/3",
+					"__w": 220,
+					"__h": 307
+				},
+				"4": {
+					"origin": {
+						"x": 102,
+						"y": 290
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/4",
+					"__w": 220,
+					"__h": 304
+				},
+				"5": {
+					"origin": {
+						"x": 102,
+						"y": 293
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/32/5",
+					"__w": 220,
+					"__h": 307
+				}
+			},
+			"33": {
+				"0": {
+					"origin": {
+						"x": -208,
+						"y": -48
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/0",
+					"__w": 10,
+					"__h": 13
+				},
+				"1": {
+					"origin": {
+						"x": -141,
+						"y": 195
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/1",
+					"__w": 79,
+					"__h": 243
+				},
+				"2": {
+					"origin": {
+						"x": -141,
+						"y": 202
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/2",
+					"__w": 101,
+					"__h": 265
+				},
+				"3": {
+					"origin": {
+						"x": -141,
+						"y": 223
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/3",
+					"__w": 103,
+					"__h": 273
+				},
+				"4": {
+					"origin": {
+						"x": -143,
+						"y": 230
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/4",
+					"__w": 101,
+					"__h": 271
+				},
+				"5": {
+					"origin": {
+						"x": -237,
+						"y": 1
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/33/5",
+					"__w": 7,
+					"__h": 24
+				}
+			},
+			"34": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 41
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/0",
+					"__w": 63,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": 25,
+						"y": 70
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/1",
+					"__w": 69,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 28,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/2",
+					"__w": 87,
+					"__h": 67
+				},
+				"3": {
+					"origin": {
+						"x": 30,
+						"y": 109
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/3",
+					"__w": 100,
+					"__h": 87
+				},
+				"4": {
+					"origin": {
+						"x": 36,
+						"y": 134
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/4",
+					"__w": 109,
+					"__h": 112
+				},
+				"5": {
+					"origin": {
+						"x": 40,
+						"y": 166
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/profession/main/acc/34/5",
+					"__w": 118,
+					"__h": 144
+				}
+			},
+			"35": {
+				"0": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/0",
+					"__w": 241,
+					"__h": 241
+				},
+				"1": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/1",
+					"__w": 241,
+					"__h": 241
+				},
+				"2": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/2",
+					"__w": 241,
+					"__h": 241
+				},
+				"3": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/3",
+					"__w": 241,
+					"__h": 241
+				},
+				"4": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/4",
+					"__w": 241,
+					"__h": 241
+				},
+				"5": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/5",
+					"__w": 241,
+					"__h": 241
+				},
+				"6": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/6",
+					"__w": 241,
+					"__h": 241
+				},
+				"7": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/7",
+					"__w": 241,
+					"__h": 241
+				},
+				"8": {
+					"origin": {
+						"x": 120,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/8",
+					"__w": 241,
+					"__h": 241
+				},
+				"9": {
+					"origin": {
+						"x": 120,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/9",
+					"__w": 241,
+					"__h": 242
+				},
+				"10": {
+					"origin": {
+						"x": 120,
+						"y": 121
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/10",
+					"__w": 241,
+					"__h": 242
+				},
+				"11": {
+					"origin": {
+						"x": 120,
+						"y": 134
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/11",
+					"__w": 241,
+					"__h": 255
+				},
+				"12": {
+					"origin": {
+						"x": 120,
+						"y": 134
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/12",
+					"__w": 241,
+					"__h": 255
+				},
+				"13": {
+					"origin": {
+						"x": 120,
+						"y": 135
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/35/13",
+					"__w": 241,
+					"__h": 256
+				}
+			},
+			"36": {
+				"0": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/0",
+					"__w": 416,
+					"__h": 405
+				},
+				"1": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/1",
+					"__w": 416,
+					"__h": 407
+				},
+				"2": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/2",
+					"__w": 416,
+					"__h": 402
+				},
+				"3": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/3",
+					"__w": 416,
+					"__h": 397
+				},
+				"4": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/4",
+					"__w": 416,
+					"__h": 392
+				},
+				"5": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/5",
+					"__w": 416,
+					"__h": 387
+				},
+				"6": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/6",
+					"__w": 416,
+					"__h": 382
+				},
+				"7": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/7",
+					"__w": 416,
+					"__h": 377
+				},
+				"8": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/8",
+					"__w": 416,
+					"__h": 379
+				},
+				"9": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/8",
+					"__w": 416,
+					"__h": 379
+				},
+				"10": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/8",
+					"__w": 416,
+					"__h": 379
+				},
+				"11": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/7",
+					"__w": 416,
+					"__h": 377
+				},
+				"12": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/6",
+					"__w": 416,
+					"__h": 382
+				},
+				"13": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/13",
+					"__w": 416,
+					"__h": 387
+				},
+				"14": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/14",
+					"__w": 416,
+					"__h": 392
+				},
+				"15": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/15",
+					"__w": 416,
+					"__h": 397
+				},
+				"16": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/16",
+					"__w": 416,
+					"__h": 402
+				},
+				"17": {
+					"origin": {
+						"x": 330,
+						"y": 161
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/profession/main/acc/36/17",
+					"__w": 416,
+					"__h": 407
+				}
+			},
+			"37": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/0",
+					"__w": 74,
+					"__h": 94
+				},
+				"1": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/1",
+					"__w": 74,
+					"__h": 94
+				},
+				"2": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/2",
+					"__w": 74,
+					"__h": 94
+				},
+				"3": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/3",
+					"__w": 74,
+					"__h": 94
+				},
+				"4": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/4",
+					"__w": 74,
+					"__h": 94
+				},
+				"5": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/5",
+					"__w": 74,
+					"__h": 94
+				},
+				"6": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/6",
+					"__w": 74,
+					"__h": 94
+				},
+				"7": {
+					"origin": {
+						"x": 32,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 240,
+					"": "/Map/Obj/profession/main/acc/37/1",
+					"__w": 74,
+					"__h": 94
+				}
+			},
+			"38": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 95
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/profession/main/acc/38/0",
+					"__w": 277,
+					"__h": 95
+				}
+			},
+			"39": {
+				"0": {
+					"origin": {
+						"x": -19,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/39/0",
+					"__w": 62,
+					"__h": 20
+				}
+			},
+			"40": {
+				"0": {
+					"origin": {
+						"x": 67,
+						"y": 54
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/profession/main/acc/40/0",
+					"__w": 135,
+					"__h": 108
+				}
+			},
+			"41": {
+				"0": {
+					"origin": {
+						"x": 35,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/41/0",
+					"__w": 70,
+					"__h": 32
+				}
+			},
+			"42": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"1": {
+					"origin": {
+						"x": 37,
+						"y": 121
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/1",
+					"__w": 62,
+					"__h": 119
+				},
+				"2": {
+					"origin": {
+						"x": 37,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/2",
+					"__w": 62,
+					"__h": 118
+				},
+				"3": {
+					"origin": {
+						"x": 37,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"4": {
+					"origin": {
+						"x": 37,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"5": {
+					"origin": {
+						"x": 37,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/42/2",
+					"__w": 62,
+					"__h": 118
+				}
+			},
+			"43": {
+				"0": {
+					"origin": {
+						"x": 36,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"1": {
+					"origin": {
+						"x": 36,
+						"y": 119
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/1",
+					"__w": 62,
+					"__h": 119
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"3": {
+					"origin": {
+						"x": 36,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"4": {
+					"origin": {
+						"x": 36,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/0",
+					"__w": 62,
+					"__h": 118
+				},
+				"5": {
+					"origin": {
+						"x": 36,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/43/0",
+					"__w": 62,
+					"__h": 118
+				}
+			},
+			"44": {
+				"0": {
+					"origin": {
+						"x": 243,
+						"y": 287
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/main/acc/44/0",
+					"__w": 487,
+					"__h": 574
+				}
+			},
+			"45": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/profession/main/acc/45/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"46": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 29
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/46/0",
+					"__w": 44,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/46/1",
+					"__w": 44,
+					"__h": 51
+				},
+				"2": {
+					"origin": {
+						"x": 22,
+						"y": 31
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/46/2",
+					"__w": 44,
+					"__h": 42
+				},
+				"3": {
+					"origin": {
+						"x": 20,
+						"y": 27
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/46/3",
+					"__w": 40,
+					"__h": 62
+				},
+				"4": {
+					"origin": {
+						"x": 22,
+						"y": 27
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/46/4",
+					"__w": 44,
+					"__h": 55
+				}
+			},
+			"47": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/profession/main/acc/47/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"tutorial": {
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 182,
+						"y": 191
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/0/0",
+					"__w": 365,
+					"__h": 192
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 279,
+						"y": 146
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/1/0",
+					"__w": 558,
+					"__h": 292
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 127,
+						"y": 68
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/2/0",
+					"__w": 255,
+					"__h": 136
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 48,
+						"y": 43
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/3/0",
+					"__w": 96,
+					"__h": 86
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 165,
+						"y": 242
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/4/0",
+					"__w": 310,
+					"__h": 394
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 151,
+						"y": 197
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/5/0",
+					"__w": 302,
+					"__h": 394
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 141,
+						"y": 53
+					},
+					"z": 0,
+					"": "/Map/Obj/profession/tutorial/acc/6/0",
+					"__w": 283,
+					"__h": 107
+				}
+			}
+		}
+	}
+}

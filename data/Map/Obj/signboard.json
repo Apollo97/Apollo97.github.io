@@ -1,0 +1,2674 @@
+{
+	"grassySoil": {
+		"icon": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/0/0",
+					"__w": 69,
+					"__h": 60
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/1/0",
+					"__w": 43,
+					"__h": 38
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/2/0",
+					"__w": 50,
+					"__h": 63
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 17,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/3/0",
+					"__w": 34,
+					"__h": 43
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/4/0",
+					"__w": 61,
+					"__h": 57
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/icon/5/0",
+					"__w": 39,
+					"__h": 36
+				}
+			}
+		},
+		"board": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 88,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/0/0",
+					"__w": 177,
+					"__h": 92
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/signboard/grassySoil/board/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 53
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/2/0",
+					"__w": 113,
+					"__h": 107
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/3/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 71,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/4/0",
+					"__w": 142,
+					"__h": 168
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 76,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/5/0",
+					"__w": 153,
+					"__h": 184
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 91,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/grassySoil/board/6/0",
+					"__w": 183,
+					"__h": 185
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/signboard/grassySoil/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/signboard/grassySoil/deco/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"dryRock": {
+		"icon": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/signboard/dryRock/icon/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/dryRock/icon/1/0",
+					"__w": 50,
+					"__h": 63
+				}
+			}
+		},
+		"board": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/dryRock/board/0/0",
+					"__w": 113,
+					"__h": 236
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/dryRock/board/1/0",
+					"__w": 69,
+					"__h": 77
+				}
+			}
+		}
+	},
+	"maypleIsland": {
+		"board": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/maypleIsland/board/0/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/maypleIsland/board/1/0",
+					"__w": 157,
+					"__h": 169
+				}
+			}
+		}
+	},
+	"event": {
+		"2003summer": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/signboard/event/2003summer/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 82,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/1/0",
+					"__w": 165,
+					"__h": 181
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 82,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/2/0",
+					"__w": 165,
+					"__h": 181
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/3/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/4/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/5/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/6/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/7/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/8/0",
+					"__w": 157,
+					"__h": 169
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 251,
+						"y": 145
+					},
+					"z": 0,
+					"moveType": 2,
+					"moveH": 5,
+					"": "/Map/Obj/signboard/event/2003summer/9/0",
+					"__w": 334,
+					"__h": 194
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/2003summer/10/0",
+					"__w": 157,
+					"__h": 169
+				}
+			}
+		},
+		"npc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/event/npc/0/0",
+					"__w": 81,
+					"__h": 96
+				}
+			}
+		}
+	},
+	"market": {
+		"potal0": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 91
+					},
+					"z": -1,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/0",
+					"__w": 127,
+					"__h": 178
+				},
+				"1": {
+					"origin": {
+						"x": 63,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/gran_pantheon/town/market/8/1",
+					"__w": 129,
+					"__h": 175
+				},
+				"2": {
+					"origin": {
+						"x": 62,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/2",
+					"__w": 128,
+					"__h": 172
+				},
+				"3": {
+					"origin": {
+						"x": 58,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/3",
+					"__w": 122,
+					"__h": 174
+				},
+				"4": {
+					"origin": {
+						"x": 57,
+						"y": 86
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/4",
+					"__w": 120,
+					"__h": 170
+				},
+				"5": {
+					"origin": {
+						"x": 58,
+						"y": 88
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/5",
+					"__w": 120,
+					"__h": 172
+				},
+				"6": {
+					"origin": {
+						"x": 59,
+						"y": 88
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/gran_pantheon/town/market/8/6",
+					"__w": 124,
+					"__h": 174
+				},
+				"7": {
+					"origin": {
+						"x": 61,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/gran_pantheon/town/market/8/7",
+					"__w": 127,
+					"__h": 178
+				},
+				"8": {
+					"origin": {
+						"x": 63,
+						"y": 87
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/gran_pantheon/town/market/8/8",
+					"__w": 129,
+					"__h": 175
+				},
+				"9": {
+					"origin": {
+						"x": 62,
+						"y": 87
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/gran_pantheon/town/market/8/9",
+					"__w": 128,
+					"__h": 172
+				},
+				"10": {
+					"origin": {
+						"x": 58,
+						"y": 88
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/10",
+					"__w": 122,
+					"__h": 174
+				},
+				"11": {
+					"origin": {
+						"x": 57,
+						"y": 85
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/11",
+					"__w": 120,
+					"__h": 170
+				},
+				"12": {
+					"origin": {
+						"x": 58,
+						"y": 87
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/12",
+					"__w": 120,
+					"__h": 172
+				},
+				"13": {
+					"origin": {
+						"x": 59,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal0/0/13",
+					"__w": 124,
+					"__h": 174
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/0",
+					"__w": 82,
+					"__h": 132
+				},
+				"1": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/1",
+					"__w": 82,
+					"__h": 132
+				},
+				"2": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/2",
+					"__w": 82,
+					"__h": 132
+				},
+				"3": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/3",
+					"__w": 82,
+					"__h": 132
+				},
+				"4": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/4",
+					"__w": 82,
+					"__h": 132
+				},
+				"5": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/5",
+					"__w": 82,
+					"__h": 132
+				},
+				"6": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/6",
+					"__w": 82,
+					"__h": 132
+				},
+				"7": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/7",
+					"__w": 82,
+					"__h": 132
+				},
+				"8": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/8",
+					"__w": 82,
+					"__h": 132
+				},
+				"9": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/9",
+					"__w": 82,
+					"__h": 132
+				},
+				"10": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/10",
+					"__w": 82,
+					"__h": 132
+				},
+				"11": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/11",
+					"__w": 82,
+					"__h": 132
+				},
+				"12": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/12",
+					"__w": 82,
+					"__h": 132
+				},
+				"13": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/potal0/1/13",
+					"__w": 82,
+					"__h": 132
+				}
+			}
+		},
+		"potal1": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 46
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/0",
+					"__w": 65,
+					"__h": 92
+				},
+				"1": {
+					"origin": {
+						"x": 33,
+						"y": 45
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/1",
+					"__w": 66,
+					"__h": 91
+				},
+				"2": {
+					"origin": {
+						"x": 33,
+						"y": 44
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/2",
+					"__w": 66,
+					"__h": 88
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 44
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/3",
+					"__w": 63,
+					"__h": 89
+				},
+				"4": {
+					"origin": {
+						"x": 30,
+						"y": 44
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/4",
+					"__w": 62,
+					"__h": 88
+				},
+				"5": {
+					"origin": {
+						"x": 31,
+						"y": 45
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/5",
+					"__w": 62,
+					"__h": 89
+				},
+				"6": {
+					"origin": {
+						"x": 31,
+						"y": 46
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/6",
+					"__w": 64,
+					"__h": 90
+				},
+				"7": {
+					"origin": {
+						"x": 32,
+						"y": 47
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/7",
+					"__w": 65,
+					"__h": 92
+				},
+				"8": {
+					"origin": {
+						"x": 33,
+						"y": 46
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/8",
+					"__w": 66,
+					"__h": 91
+				},
+				"9": {
+					"origin": {
+						"x": 33,
+						"y": 45
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/9",
+					"__w": 66,
+					"__h": 88
+				},
+				"10": {
+					"origin": {
+						"x": 31,
+						"y": 45
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/10",
+					"__w": 63,
+					"__h": 89
+				},
+				"11": {
+					"origin": {
+						"x": 30,
+						"y": 44
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/11",
+					"__w": 62,
+					"__h": 88
+				},
+				"12": {
+					"origin": {
+						"x": 31,
+						"y": 45
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/12",
+					"__w": 62,
+					"__h": 89
+				},
+				"13": {
+					"origin": {
+						"x": 31,
+						"y": 46
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/potal1/0/13",
+					"__w": 64,
+					"__h": 90
+				}
+			}
+		},
+		"back": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"a0": 15,
+					"a1": 255,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/0/0",
+					"__w": 82,
+					"__h": 132
+				},
+				"1": {
+					"origin": {
+						"x": 41,
+						"y": 66
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 15,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/0/0",
+					"__w": 82,
+					"__h": 132
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 35
+					},
+					"z": 0,
+					"a0": 15,
+					"a1": 255,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/1/0",
+					"__w": 43,
+					"__h": 70
+				},
+				"1": {
+					"origin": {
+						"x": 21,
+						"y": 35
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 15,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/1/0",
+					"__w": 43,
+					"__h": 70
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 15,
+					"a1": 255,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/2/0",
+					"__w": 44,
+					"__h": 69
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 15,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/2/0",
+					"__w": 44,
+					"__h": 69
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 35
+					},
+					"z": 0,
+					"a0": 15,
+					"a1": 255,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/3/0",
+					"__w": 43,
+					"__h": 70
+				},
+				"1": {
+					"origin": {
+						"x": 21,
+						"y": 35
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 15,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/3/0",
+					"__w": 43,
+					"__h": 70
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 15,
+					"a1": 255,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/4/0",
+					"__w": 44,
+					"__h": 69
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 15,
+					"delay": 500,
+					"": "/Map/Obj/signboard/market/back/4/0",
+					"__w": 44,
+					"__h": 69
+				}
+			}
+		},
+		"arrow": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 29
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/0",
+					"__w": 45,
+					"__h": 58
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 19
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/1",
+					"__w": 46,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 23,
+						"y": 14
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/2",
+					"__w": 47,
+					"__h": 42
+				},
+				"3": {
+					"origin": {
+						"x": 21,
+						"y": 57
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/3",
+					"__w": 45,
+					"__h": 65
+				},
+				"4": {
+					"origin": {
+						"x": 21,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/4",
+					"__w": 45,
+					"__h": 64
+				},
+				"5": {
+					"origin": {
+						"x": 22,
+						"y": 57
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/5",
+					"__w": 45,
+					"__h": 56
+				},
+				"6": {
+					"origin": {
+						"x": 22,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/0/6",
+					"__w": 45,
+					"__h": 56
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 29
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/0",
+					"__w": 45,
+					"__h": 58
+				},
+				"1": {
+					"origin": {
+						"x": 23,
+						"y": 29
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/1",
+					"__w": 46,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 24,
+						"y": 29
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/2",
+					"__w": 47,
+					"__h": 42
+				},
+				"3": {
+					"origin": {
+						"x": 23,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/3",
+					"__w": 45,
+					"__h": 65
+				},
+				"4": {
+					"origin": {
+						"x": 23,
+						"y": 8
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/4",
+					"__w": 45,
+					"__h": 64
+				},
+				"5": {
+					"origin": {
+						"x": 22,
+						"y": -1
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/5",
+					"__w": 45,
+					"__h": 56
+				},
+				"6": {
+					"origin": {
+						"x": 22,
+						"y": 15
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/1/6",
+					"__w": 45,
+					"__h": 56
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 32
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"1": {
+					"origin": {
+						"x": 23,
+						"y": 32
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"2": {
+					"origin": {
+						"x": 23,
+						"y": 32
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"3": {
+					"origin": {
+						"x": 23,
+						"y": 19
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"4": {
+					"origin": {
+						"x": 23,
+						"y": 11
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"5": {
+					"origin": {
+						"x": 23,
+						"y": 2
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				},
+				"6": {
+					"origin": {
+						"x": 23,
+						"y": 18
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 61
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/0",
+					"__w": 45,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 19,
+						"y": 58
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/1",
+					"__w": 45,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 17,
+						"y": 50
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/2",
+					"__w": 43,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 18,
+						"y": 47
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/3",
+					"__w": 45,
+					"__h": 42
+				},
+				"4": {
+					"origin": {
+						"x": 28,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/4",
+					"__w": 47,
+					"__h": 61
+				},
+				"5": {
+					"origin": {
+						"x": 30,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/5",
+					"__w": 46,
+					"__h": 54
+				},
+				"6": {
+					"origin": {
+						"x": 34,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/3/6",
+					"__w": 46,
+					"__h": 46
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 57
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/0",
+					"__w": 45,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 22,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/1",
+					"__w": 45,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 22,
+						"y": 46
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/2",
+					"__w": 43,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 23,
+						"y": 43
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/3",
+					"__w": 45,
+					"__h": 42
+				},
+				"4": {
+					"origin": {
+						"x": 15,
+						"y": 73
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/4",
+					"__w": 47,
+					"__h": 61
+				},
+				"5": {
+					"origin": {
+						"x": 12,
+						"y": 73
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/5",
+					"__w": 46,
+					"__h": 54
+				},
+				"6": {
+					"origin": {
+						"x": 8,
+						"y": 74
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/4/6",
+					"__w": 46,
+					"__h": 46
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 57
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/0",
+					"__w": 44,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 21,
+						"y": 53
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/5/1",
+					"__w": 44,
+					"__h": 51
+				},
+				"2": {
+					"origin": {
+						"x": 21,
+						"y": 43
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/5/2",
+					"__w": 44,
+					"__h": 42
+				},
+				"3": {
+					"origin": {
+						"x": 23,
+						"y": 41
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/5/3",
+					"__w": 48,
+					"__h": 40
+				},
+				"4": {
+					"origin": {
+						"x": 19,
+						"y": 75
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/5/4",
+					"__w": 40,
+					"__h": 62
+				},
+				"5": {
+					"origin": {
+						"x": 21,
+						"y": 76
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/5/5",
+					"__w": 44,
+					"__h": 55
+				},
+				"6": {
+					"origin": {
+						"x": 23,
+						"y": 76
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/profession/main/acc/3/6",
+					"__w": 48,
+					"__h": 45
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 32
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/signboard/market/arrow/2/0",
+					"__w": 51,
+					"__h": 39
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/0",
+					"__w": 45,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 30,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/1",
+					"__w": 45,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 30,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/2",
+					"__w": 43,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/3",
+					"__w": 45,
+					"__h": 42
+				},
+				"4": {
+					"origin": {
+						"x": 23,
+						"y": 68
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/4",
+					"__w": 47,
+					"__h": 61
+				},
+				"5": {
+					"origin": {
+						"x": 20,
+						"y": 61
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/5",
+					"__w": 46,
+					"__h": 54
+				},
+				"6": {
+					"origin": {
+						"x": 16,
+						"y": 52
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/7/6",
+					"__w": 46,
+					"__h": 46
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/0",
+					"__w": 45,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 10,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/1",
+					"__w": 45,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 8,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/2",
+					"__w": 43,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 9,
+						"y": 81
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/3",
+					"__w": 45,
+					"__h": 42
+				},
+				"4": {
+					"origin": {
+						"x": 19,
+						"y": 70
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/4",
+					"__w": 47,
+					"__h": 61
+				},
+				"5": {
+					"origin": {
+						"x": 21,
+						"y": 63
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/5",
+					"__w": 46,
+					"__h": 54
+				},
+				"6": {
+					"origin": {
+						"x": 25,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/signboard/market/arrow/8/6",
+					"__w": 46,
+					"__h": 46
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/arrow/9/0",
+					"__w": 51,
+					"__h": 39
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/0",
+					"__w": 54,
+					"__h": 44
+				},
+				"1": {
+					"origin": {
+						"x": 1,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/1",
+					"__w": 51,
+					"__h": 44
+				},
+				"2": {
+					"origin": {
+						"x": 2,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/2",
+					"__w": 42,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 2,
+						"y": 2
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/3",
+					"__w": 40,
+					"__h": 48
+				},
+				"4": {
+					"origin": {
+						"x": -10,
+						"y": -2
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/4",
+					"__w": 62,
+					"__h": 40
+				},
+				"5": {
+					"origin": {
+						"x": -18,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/5",
+					"__w": 55,
+					"__h": 44
+				},
+				"6": {
+					"origin": {
+						"x": -28,
+						"y": 2
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/10/6",
+					"__w": 45,
+					"__h": 48
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 103,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/11/0",
+					"__w": 54,
+					"__h": 44
+				},
+				"1": {
+					"origin": {
+						"x": 97,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/11/1",
+					"__w": 51,
+					"__h": 44
+				},
+				"2": {
+					"origin": {
+						"x": 87,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/11/2",
+					"__w": 42,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 111,
+						"y": 53
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/11/3",
+					"__w": 62,
+					"__h": 40
+				},
+				"4": {
+					"origin": {
+						"x": 104,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/market/arrow/11/4",
+					"__w": 55,
+					"__h": 44
+				}
+			}
+		},
+		"obj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/0/0",
+					"__w": 33,
+					"__h": 35
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 17,
+						"y": 30
+					},
+					"z": 0,
+					"moveType": 2,
+					"moveH": 5,
+					"delay": 100,
+					"": "/Map/Obj/signboard/market/obj/1/0",
+					"__w": 35,
+					"__h": 61
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 71
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/2/0",
+					"__w": 122,
+					"__h": 143
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 56
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/3/0",
+					"__w": 124,
+					"__h": 112
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/4/0",
+					"__w": 62,
+					"__h": 31
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/5/0",
+					"__w": 51,
+					"__h": 31
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/6/0",
+					"__w": 56,
+					"__h": 26
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/7/0",
+					"__w": 64,
+					"__h": 53
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/8/0",
+					"__w": 45,
+					"__h": 26
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 12
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/9/0",
+					"__w": 56,
+					"__h": 25
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 55,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/10/0",
+					"__w": 110,
+					"__h": 48
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/obj/11/0",
+					"__w": 85,
+					"__h": 43
+				}
+			}
+		},
+		"number": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/0/0",
+					"__w": 39,
+					"__h": 37
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/1/0",
+					"__w": 23,
+					"__h": 50
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/2/0",
+					"__w": 40,
+					"__h": 50
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/3/0",
+					"__w": 39,
+					"__h": 50
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/4/0",
+					"__w": 38,
+					"__h": 51
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/5/0",
+					"__w": 40,
+					"__h": 51
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/6/0",
+					"__w": 38,
+					"__h": 51
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/7/0",
+					"__w": 38,
+					"__h": 49
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/8/0",
+					"__w": 39,
+					"__h": 52
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/9/0",
+					"__w": 38,
+					"__h": 50
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/10/0",
+					"__w": 13,
+					"__h": 19
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/11/0",
+					"__w": 15,
+					"__h": 19
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/13/0",
+					"__w": 17,
+					"__h": 19
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/14/0",
+					"__w": 16,
+					"__h": 19
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/15/0",
+					"__w": 16,
+					"__h": 19
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/16/0",
+					"__w": 17,
+					"__h": 20
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/17/0",
+					"__w": 22,
+					"__h": 32
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 12,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/18/0",
+					"__w": 24,
+					"__h": 44
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/19/0",
+					"__w": 32,
+					"__h": 46
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 15,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/20/0",
+					"__w": 31,
+					"__h": 46
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/21/0",
+					"__w": 32,
+					"__h": 46
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/22/0",
+					"__w": 32,
+					"__h": 45
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/23/0",
+					"__w": 15,
+					"__h": 31
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 10,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/24/0",
+					"__w": 21,
+					"__h": 32
+				}
+			},
+			"25": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/25/0",
+					"__w": 22,
+					"__h": 31
+				}
+			},
+			"26": {
+				"0": {
+					"origin": {
+						"x": 10,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/26/0",
+					"__w": 21,
+					"__h": 32
+				}
+			},
+			"27": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/market/number/27/0",
+					"__w": 22,
+					"__h": 32
+				}
+			}
+		}
+	},
+	"miniD": {
+		"effect": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 80,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/0",
+					"__w": 160,
+					"__h": 45
+				},
+				"1": {
+					"origin": {
+						"x": 77,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/1",
+					"__w": 155,
+					"__h": 44
+				},
+				"2": {
+					"origin": {
+						"x": 74,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/2",
+					"__w": 149,
+					"__h": 45
+				},
+				"3": {
+					"origin": {
+						"x": 74,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/3",
+					"__w": 148,
+					"__h": 45
+				},
+				"4": {
+					"origin": {
+						"x": 80,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/4",
+					"__w": 160,
+					"__h": 45
+				},
+				"5": {
+					"origin": {
+						"x": 76,
+						"y": 23
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/5",
+					"__w": 153,
+					"__h": 46
+				},
+				"6": {
+					"origin": {
+						"x": 85,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/6",
+					"__w": 170,
+					"__h": 45
+				},
+				"7": {
+					"origin": {
+						"x": 85,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/7",
+					"__w": 170,
+					"__h": 45
+				},
+				"8": {
+					"origin": {
+						"x": 82,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/effect/0/8",
+					"__w": 164,
+					"__h": 45
+				}
+			}
+		},
+		"sleepy": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 132,
+						"y": 87
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/sleepy/0/0",
+					"__w": 264,
+					"__h": 174
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 123,
+						"y": 98
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/sleepy/1/0",
+					"__w": 247,
+					"__h": 197
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 114,
+						"y": 83
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/sleepy/2/0",
+					"__w": 228,
+					"__h": 167
+				}
+			}
+		},
+		"leafre": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 136,
+						"y": 112
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/leafre/0/0",
+					"__w": 273,
+					"__h": 225
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 133,
+						"y": 107
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/leafre/1/0",
+					"__w": 267,
+					"__h": 215
+				}
+			}
+		},
+		"nihal": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 93,
+						"y": 104
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/nihal/0/0",
+					"__w": 186,
+					"__h": 209
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 108,
+						"y": 111
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/nihal/1/0",
+					"__w": 217,
+					"__h": 223
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 146,
+						"y": 100
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/nihal/2/0",
+					"__w": 292,
+					"__h": 201
+				}
+			}
+		},
+		"mureung": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 128,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/mureung/0/0",
+					"__w": 256,
+					"__h": 145
+				}
+			}
+		},
+		"ludi": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 127,
+						"y": 134
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/signboard/miniD/ludi/0/0",
+					"__w": 254,
+					"__h": 269
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 149,
+						"y": 113
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/signboard/miniD/ludi/1/0",
+					"__w": 299,
+					"__h": 226
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": -17,
+						"y": 64
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/0",
+					"__w": 50,
+					"__h": 41
+				},
+				"1": {
+					"origin": {
+						"x": -17,
+						"y": 64
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/0",
+					"__w": 50,
+					"__h": 41
+				},
+				"2": {
+					"origin": {
+						"x": -19,
+						"y": 62
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/2",
+					"__w": 46,
+					"__h": 39
+				},
+				"3": {
+					"origin": {
+						"x": -19,
+						"y": 62
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/3",
+					"__w": 46,
+					"__h": 39
+				},
+				"4": {
+					"origin": {
+						"x": -17,
+						"y": 64
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/4",
+					"__w": 50,
+					"__h": 41
+				},
+				"5": {
+					"origin": {
+						"x": -16,
+						"y": 65
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/signboard/miniD/ludi/2/5",
+					"__w": 52,
+					"__h": 42
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 155,
+						"y": 139
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/dungeon2/toyCastle2/gate/9/0",
+					"__w": 310,
+					"__h": 279
+				}
+			}
+		},
+		"victoria": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 114,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/victoria/0/0",
+					"__w": 229,
+					"__h": 236
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 125,
+						"y": 117
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/victoria/1/0",
+					"__w": 250,
+					"__h": 235
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 135,
+						"y": 141
+					},
+					"z": 0,
+					"": "/Map/Obj/signboard/miniD/victoria/2/0",
+					"__w": 270,
+					"__h": 282
+				}
+			}
+		}
+	}
+}

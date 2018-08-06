@@ -1,0 +1,361 @@
+{
+	"info": {},
+	"bsc": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/0",
+			"__w": 90,
+			"__h": 60
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/1",
+			"__w": 90,
+			"__h": 60
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/2",
+			"__w": 90,
+			"__h": 60
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/3",
+			"__w": 90,
+			"__h": 60
+		},
+		"4": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/4",
+			"__w": 90,
+			"__h": 60
+		},
+		"5": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/logMarble/bsc/5",
+			"__w": 90,
+			"__h": 60
+		}
+	},
+	"enH0": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 33
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/enH0/0",
+			"__w": 90,
+			"__h": 33
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 33
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/enH0/1",
+			"__w": 90,
+			"__h": 33
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 34
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/enH0/2",
+			"__w": 90,
+			"__h": 34
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 33
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/enH0/3",
+			"__w": 90,
+			"__h": 33
+		}
+	},
+	"enH1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/enH1/0",
+			"__w": 90,
+			"__h": 21
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/enH1/1",
+			"__w": 90,
+			"__h": 20
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/enH1/2",
+			"__w": 90,
+			"__h": 20
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/enH1/3",
+			"__w": 90,
+			"__h": 21
+		}
+	},
+	"enV0": {
+		"0": {
+			"origin": {
+				"x": 28,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/enV0/0",
+			"__w": 28,
+			"__h": 61
+		},
+		"1": {
+			"origin": {
+				"x": 31,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/enV0/1",
+			"__w": 31,
+			"__h": 61
+		}
+	},
+	"enV1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/enV1/0",
+			"__w": 30,
+			"__h": 60
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/enV1/1",
+			"__w": 27,
+			"__h": 60
+		}
+	},
+	"edU": {
+		"0": {
+			"origin": {
+				"x": 29,
+				"y": 32
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/edU/0",
+			"__w": 58,
+			"__h": 33
+		},
+		"1": {
+			"origin": {
+				"x": 29,
+				"y": 34
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/edU/1",
+			"__w": 61,
+			"__h": 35
+		},
+		"2": {
+			"origin": {
+				"x": 29,
+				"y": 34
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/edU/2",
+			"__w": 61,
+			"__h": 35
+		},
+		"3": {
+			"origin": {
+				"x": 29,
+				"y": 33
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/woodMarble/edU/3",
+			"__w": 58,
+			"__h": 34
+		}
+	},
+	"edD": {
+		"0": {
+			"origin": {
+				"x": 24,
+				"y": 0
+			},
+			"z": -4,
+			"": "/Map/Tile/logMarble/edD/0",
+			"__w": 47,
+			"__h": 16
+		},
+		"1": {
+			"origin": {
+				"x": 24,
+				"y": 0
+			},
+			"z": -4,
+			"": "/Map/Tile/logMarble/edD/1",
+			"__w": 47,
+			"__h": 16
+		},
+		"2": {
+			"origin": {
+				"x": 24,
+				"y": 0
+			},
+			"z": -4,
+			"": "/Map/Tile/logMarble/edD/2",
+			"__w": 47,
+			"__h": 17
+		},
+		"3": {
+			"origin": {
+				"x": 24,
+				"y": 0
+			},
+			"z": -4,
+			"": "/Map/Tile/logMarble/edD/3",
+			"__w": 47,
+			"__h": 17
+		}
+	},
+	"slLU": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 90
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/slLU/0",
+			"__w": 90,
+			"__h": 90
+		}
+	},
+	"slRU": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 90
+			},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/logMarble/slRU/0",
+			"__w": 90,
+			"__h": 90
+		}
+	},
+	"slLD": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/slLD/0",
+			"__w": 90,
+			"__h": 75
+		},
+		"1": {
+			"origin": {
+				"x": 90,
+				"y": 0
+			},
+			"z": -3,
+			"": "/Map/Tile/logMarble/slLD/1",
+			"__w": 90,
+			"__h": 76
+		}
+	},
+	"slRD": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/logMarble/slRD/0",
+			"__w": 90,
+			"__h": 75
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/logMarble/slRD/1",
+			"__w": 90,
+			"__h": 75
+		}
+	}
+}

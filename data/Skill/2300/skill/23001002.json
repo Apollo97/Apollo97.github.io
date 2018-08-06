@@ -1,0 +1,108 @@
+{
+	"icon": {
+		"origin": {
+			"x": 0,
+			"y": 32
+		},
+		"z": 0,
+		"": "/Skill/15000/skill/150001181/iconMouseOver",
+		"__w": 32,
+		"__h": 32
+	},
+	"iconMouseOver": {
+		"origin": {
+			"x": 0,
+			"y": 32
+		},
+		"z": 0,
+		"": "/Skill/2300/skill/23001002/iconMouseOver",
+		"__w": 32,
+		"__h": 32
+	},
+	"iconDisabled": {
+		"origin": {
+			"x": 0,
+			"y": 32
+		},
+		"z": 0,
+		"": "/Skill/15000/skill/150001181/iconDisabled",
+		"__w": 32,
+		"__h": 32
+	},
+	"common": {
+		"maxLevel": 10,
+		"mpCon": "30-2*x",
+		"x": "350+20*x",
+		"y": "250+10*x"
+	},
+	"info": {
+		"type": 40,
+		"casterMove": 1,
+		"avaliableInJumpingState": 1
+	},
+	"effect": {
+		"0": {
+			"origin": {
+				"x": 77,
+				"y": 127
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/0",
+			"__w": 131,
+			"__h": 130
+		},
+		"1": {
+			"origin": {
+				"x": 76,
+				"y": 103
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/1",
+			"__w": 124,
+			"__h": 125
+		},
+		"2": {
+			"origin": {
+				"x": 41,
+				"y": 93
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/2",
+			"__w": 111,
+			"__h": 110
+		},
+		"3": {
+			"origin": {
+				"x": 63,
+				"y": 103
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/3",
+			"__w": 75,
+			"__h": 76
+		},
+		"4": {
+			"origin": {
+				"x": 59,
+				"y": 105
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/4",
+			"__w": 48,
+			"__h": 75
+		},
+		"5": {
+			"origin": {
+				"x": 53,
+				"y": 93
+			},
+			"z": 0,
+			"": "/Skill/15000/skill/150001181/effect/5",
+			"__w": 18,
+			"__h": 58
+		}
+	},
+	"action": {
+		"0": "spiritJump"
+	}
+}

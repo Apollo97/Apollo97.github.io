@@ -1,0 +1,102 @@
+{
+	"nw": {
+		"origin": {
+			"x": 13,
+			"y": 13
+		},
+		"": "/UI/UIToolTip/Item/Frame2/nw",
+		"__w": 13,
+		"__h": 13
+	},
+	"ne": {
+		"origin": {
+			"x": 0,
+			"y": 13
+		},
+		"": "/UI/UIToolTip/Item/Frame2/ne",
+		"__w": 13,
+		"__h": 13
+	},
+	"sw": {
+		"origin": {
+			"x": 13,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/sw",
+		"__w": 13,
+		"__h": 13
+	},
+	"se": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/se",
+		"__w": 13,
+		"__h": 13
+	},
+	"n": {
+		"origin": {
+			"x": 0,
+			"y": 13
+		},
+		"": "/UI/UIToolTip/Item/Frame2/n",
+		"__w": 1,
+		"__h": 13
+	},
+	"s": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/s",
+		"__w": 1,
+		"__h": 13
+	},
+	"w": {
+		"origin": {
+			"x": 13,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/w",
+		"__w": 13,
+		"__h": 1
+	},
+	"e": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/e",
+		"__w": 13,
+		"__h": 1
+	},
+	"c": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIToolTip/Item/Frame2/c",
+		"__w": 1,
+		"__h": 1
+	},
+	"cover": {
+		"origin": {
+			"x": -3,
+			"y": -3
+		},
+		"": "/UI/UIToolTip/Item/Frame/cover",
+		"__w": 53,
+		"__h": 43
+	},
+	"dotline": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": 0,
+		"": "/UI/UIToolTip/Item/Frame2/dotline",
+		"__w": 5,
+		"__h": 21
+	}
+}

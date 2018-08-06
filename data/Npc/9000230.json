@@ -1,0 +1,22 @@
+{
+	"info": {
+		"script": {
+			"0": {
+				"script": "coordiKingMove"
+			}
+		},
+		"hide": 1
+	},
+	"stand": {
+		"0": {
+			"origin": {
+				"x": 25,
+				"y": 75
+			},
+			"z": 0,
+			"": "/Npc/1540825/stand/0",
+			"__w": 52,
+			"__h": 75
+		}
+	}
+}

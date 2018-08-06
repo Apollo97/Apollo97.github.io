@@ -1,0 +1,679 @@
+{
+	"darkWood": {
+		"window": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 107
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/window/0/0",
+					"__w": 93,
+					"__h": 214
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 98
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/window/1/0",
+					"__w": 100,
+					"__h": 196
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/window/2/0",
+					"__w": 95,
+					"__h": 53
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/darkWood/window/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 61
+					},
+					"z": 0,
+					"delay": 2000,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/door/darkWood/window/4/0",
+					"__w": 68,
+					"__h": 123
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 61
+					},
+					"z": 0,
+					"delay": 2000,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/door/darkWood/window/4/0",
+					"__w": 68,
+					"__h": 123
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 2000,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/door/darkWood/window/5/0",
+					"__w": 67,
+					"__h": 109
+				},
+				"1": {
+					"origin": {
+						"x": 33,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 2000,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/door/darkWood/window/5/0",
+					"__w": 67,
+					"__h": 109
+				}
+			}
+		},
+		"door": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 38,
+						"y": 44
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/door/0/0",
+					"__w": 77,
+					"__h": 89
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 74
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/door/1/0",
+					"__w": 112,
+					"__h": 148
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 52,
+						"y": 58
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/door/2/0",
+					"__w": 104,
+					"__h": 117
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 39,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/door/3/0",
+					"__w": 78,
+					"__h": 100
+				}
+			}
+		},
+		"doorpull": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/doorpull/0/0",
+					"__w": 46,
+					"__h": 60
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/doorpull/1/0",
+					"__w": 46,
+					"__h": 60
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/doorpull/2/0",
+					"__w": 14,
+					"__h": 39
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/door/darkWood/doorpull/3/0",
+					"__w": 16,
+					"__h": 36
+				}
+			}
+		}
+	},
+	"grassySoil": {
+		"window": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/5/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/6/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/7/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/8/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/9/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/10/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/11/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/12/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/13/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/14/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/15/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/window/16/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"door": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/5/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/6/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/7/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 70,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/door/grassySoil/door/8/0",
+					"__w": 140,
+					"__h": 103
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/9/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/10/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/11/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/12/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/13/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/14/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/15/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/16/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/17/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/18/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/19/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/20/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/21/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/22/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/door/grassySoil/door/23/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 56
+					},
+					"z": 0,
+					"": "/Map/Obj/door/grassySoil/door/24/0",
+					"__w": 157,
+					"__h": 112
+				}
+			}
+		}
+	}
+}

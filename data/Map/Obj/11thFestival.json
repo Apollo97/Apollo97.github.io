@@ -1,0 +1,1155 @@
+{
+	"object": {
+		"center": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 181,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/center/0/0",
+					"__w": 363,
+					"__h": 101
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 95,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/center/1/0",
+					"__w": 190,
+					"__h": 384
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 115
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/center/2/0",
+					"__w": 116,
+					"__h": 231
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 195,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/center/3/0",
+					"__w": 390,
+					"__h": 384
+				}
+			}
+		},
+		"platform": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 146,
+						"y": 42
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/11thFestival/object/platform/0/0",
+					"__w": 293,
+					"__h": 85
+				}
+			}
+		},
+		"effect": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 3000,
+					"": "/Map/Obj/11thFestival/object/effect/0/0",
+					"__w": 231,
+					"__h": 467
+				},
+				"1": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/1",
+					"__w": 231,
+					"__h": 467
+				},
+				"2": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/2",
+					"__w": 231,
+					"__h": 467
+				},
+				"3": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/3",
+					"__w": 231,
+					"__h": 467
+				},
+				"4": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/4",
+					"__w": 231,
+					"__h": 467
+				},
+				"5": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/5",
+					"__w": 231,
+					"__h": 467
+				},
+				"6": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/6",
+					"__w": 231,
+					"__h": 467
+				},
+				"7": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/7",
+					"__w": 231,
+					"__h": 467
+				},
+				"8": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/8",
+					"__w": 231,
+					"__h": 467
+				},
+				"9": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/9",
+					"__w": 231,
+					"__h": 467
+				},
+				"10": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/10",
+					"__w": 231,
+					"__h": 467
+				},
+				"11": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/11",
+					"__w": 231,
+					"__h": 467
+				},
+				"12": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/12",
+					"__w": 231,
+					"__h": 467
+				},
+				"13": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/13",
+					"__w": 231,
+					"__h": 467
+				},
+				"14": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/14",
+					"__w": 231,
+					"__h": 467
+				},
+				"15": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/15",
+					"__w": 231,
+					"__h": 467
+				},
+				"16": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/16",
+					"__w": 231,
+					"__h": 467
+				},
+				"17": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/17",
+					"__w": 231,
+					"__h": 467
+				},
+				"18": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/18",
+					"__w": 231,
+					"__h": 467
+				},
+				"19": {
+					"origin": {
+						"x": 117,
+						"y": 452
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/0/19",
+					"__w": 231,
+					"__h": 467
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 4000,
+					"": "/Map/Obj/11thFestival/object/effect/1/0",
+					"__w": 231,
+					"__h": 467
+				},
+				"1": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/1",
+					"__w": 231,
+					"__h": 467
+				},
+				"2": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/2",
+					"__w": 231,
+					"__h": 467
+				},
+				"3": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/3",
+					"__w": 231,
+					"__h": 467
+				},
+				"4": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/4",
+					"__w": 231,
+					"__h": 467
+				},
+				"5": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/5",
+					"__w": 231,
+					"__h": 467
+				},
+				"6": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/6",
+					"__w": 231,
+					"__h": 467
+				},
+				"7": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/7",
+					"__w": 231,
+					"__h": 467
+				},
+				"8": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/8",
+					"__w": 231,
+					"__h": 467
+				},
+				"9": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/9",
+					"__w": 231,
+					"__h": 467
+				},
+				"10": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/10",
+					"__w": 231,
+					"__h": 467
+				},
+				"11": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/11",
+					"__w": 231,
+					"__h": 467
+				},
+				"12": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/12",
+					"__w": 231,
+					"__h": 467
+				},
+				"13": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/13",
+					"__w": 231,
+					"__h": 467
+				},
+				"14": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/14",
+					"__w": 231,
+					"__h": 467
+				},
+				"15": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/15",
+					"__w": 231,
+					"__h": 467
+				},
+				"16": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/16",
+					"__w": 231,
+					"__h": 467
+				},
+				"17": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/17",
+					"__w": 231,
+					"__h": 467
+				},
+				"18": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/18",
+					"__w": 231,
+					"__h": 467
+				},
+				"19": {
+					"origin": {
+						"x": 115,
+						"y": 455
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/19",
+					"__w": 231,
+					"__h": 467
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 5000,
+					"": "/Map/Obj/11thFestival/object/effect/2/0",
+					"__w": 231,
+					"__h": 467
+				},
+				"1": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/1",
+					"__w": 231,
+					"__h": 467
+				},
+				"2": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/2",
+					"__w": 231,
+					"__h": 467
+				},
+				"3": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/3",
+					"__w": 231,
+					"__h": 467
+				},
+				"4": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/4",
+					"__w": 231,
+					"__h": 467
+				},
+				"5": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/5",
+					"__w": 231,
+					"__h": 467
+				},
+				"6": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/6",
+					"__w": 231,
+					"__h": 467
+				},
+				"7": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/7",
+					"__w": 231,
+					"__h": 467
+				},
+				"8": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/8",
+					"__w": 231,
+					"__h": 467
+				},
+				"9": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/9",
+					"__w": 231,
+					"__h": 467
+				},
+				"10": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/10",
+					"__w": 231,
+					"__h": 467
+				},
+				"11": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/11",
+					"__w": 231,
+					"__h": 467
+				},
+				"12": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/12",
+					"__w": 231,
+					"__h": 467
+				},
+				"13": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/13",
+					"__w": 231,
+					"__h": 467
+				},
+				"14": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/14",
+					"__w": 231,
+					"__h": 467
+				},
+				"15": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/15",
+					"__w": 231,
+					"__h": 467
+				},
+				"16": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/16",
+					"__w": 231,
+					"__h": 467
+				},
+				"17": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/2/17",
+					"__w": 231,
+					"__h": 467
+				},
+				"18": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/18",
+					"__w": 231,
+					"__h": 467
+				},
+				"19": {
+					"origin": {
+						"x": 115,
+						"y": 459
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/1/19",
+					"__w": 231,
+					"__h": 467
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 3000,
+					"": "/Map/Obj/11thFestival/object/effect/3/0",
+					"__w": 1,
+					"__h": 1
+				},
+				"1": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/1",
+					"__w": 139,
+					"__h": 141
+				},
+				"2": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/2",
+					"__w": 139,
+					"__h": 141
+				},
+				"3": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/3",
+					"__w": 139,
+					"__h": 141
+				},
+				"4": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/4",
+					"__w": 139,
+					"__h": 141
+				},
+				"5": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/5",
+					"__w": 139,
+					"__h": 141
+				},
+				"6": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/6",
+					"__w": 139,
+					"__h": 141
+				},
+				"7": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/7",
+					"__w": 139,
+					"__h": 141
+				},
+				"8": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/8",
+					"__w": 139,
+					"__h": 141
+				},
+				"9": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/9",
+					"__w": 139,
+					"__h": 141
+				},
+				"10": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/10",
+					"__w": 139,
+					"__h": 141
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 3500,
+					"": "/Map/Obj/11thFestival/object/effect/4/0",
+					"__w": 1,
+					"__h": 1
+				},
+				"1": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/1",
+					"__w": 139,
+					"__h": 141
+				},
+				"2": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/2",
+					"__w": 139,
+					"__h": 141
+				},
+				"3": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/3",
+					"__w": 139,
+					"__h": 141
+				},
+				"4": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/4",
+					"__w": 139,
+					"__h": 141
+				},
+				"5": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/5",
+					"__w": 139,
+					"__h": 141
+				},
+				"6": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/6",
+					"__w": 139,
+					"__h": 141
+				},
+				"7": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/7",
+					"__w": 139,
+					"__h": 141
+				},
+				"8": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/8",
+					"__w": 139,
+					"__h": 141
+				},
+				"9": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/4/9",
+					"__w": 139,
+					"__h": 141
+				},
+				"10": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 90,
+					"": "/Map/Obj/11thFestival/object/effect/3/10",
+					"__w": 139,
+					"__h": 141
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 4000,
+					"": "/Map/Obj/11thFestival/object/effect/5/0",
+					"__w": 1,
+					"__h": 1
+				},
+				"1": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/1",
+					"__w": 139,
+					"__h": 141
+				},
+				"2": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Effect/Yut/goal/0",
+					"__w": 139,
+					"__h": 141
+				},
+				"3": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/3",
+					"__w": 139,
+					"__h": 141
+				},
+				"4": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/4",
+					"__w": 139,
+					"__h": 141
+				},
+				"5": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/5",
+					"__w": 139,
+					"__h": 141
+				},
+				"6": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/6",
+					"__w": 139,
+					"__h": 141
+				},
+				"7": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/7",
+					"__w": 139,
+					"__h": 141
+				},
+				"8": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/8",
+					"__w": 139,
+					"__h": 141
+				},
+				"9": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/9",
+					"__w": 139,
+					"__h": 141
+				},
+				"10": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/5/10",
+					"__w": 139,
+					"__h": 141
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"delay": 4500,
+					"": "/Map/Obj/11thFestival/object/effect/6/0",
+					"__w": 1,
+					"__h": 1
+				},
+				"1": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/1",
+					"__w": 139,
+					"__h": 141
+				},
+				"2": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/2",
+					"__w": 139,
+					"__h": 141
+				},
+				"3": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/3",
+					"__w": 139,
+					"__h": 141
+				},
+				"4": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/4",
+					"__w": 139,
+					"__h": 141
+				},
+				"5": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/5",
+					"__w": 139,
+					"__h": 141
+				},
+				"6": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/6",
+					"__w": 139,
+					"__h": 141
+				},
+				"7": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/7",
+					"__w": 139,
+					"__h": 141
+				},
+				"8": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/8",
+					"__w": 139,
+					"__h": 141
+				},
+				"9": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/6/9",
+					"__w": 139,
+					"__h": 141
+				},
+				"10": {
+					"origin": {
+						"x": 69,
+						"y": 70
+					},
+					"delay": 120,
+					"": "/Map/Obj/11thFestival/object/effect/3/10",
+					"__w": 139,
+					"__h": 141
+				}
+			}
+		},
+		"bush": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 92,
+						"y": 70
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/bush/0/0",
+					"__w": 184,
+					"__h": 141
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 115,
+						"y": 43
+					},
+					"z": 0,
+					"": "/Map/Obj/11thFestival/object/bush/1/0",
+					"__w": 230,
+					"__h": 87
+				}
+			}
+		}
+	}
+}

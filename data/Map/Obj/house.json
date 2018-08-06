@@ -1,0 +1,670 @@
+{
+	"grassySoil": {
+		"chimney": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 69
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/0/0",
+					"__w": 102,
+					"__h": 138
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/grassySoil/chimney/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/2/0",
+					"__w": 64,
+					"__h": 99
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 93,
+						"y": 139
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/3/0",
+					"__w": 187,
+					"__h": 279
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/4/0",
+					"__w": 122,
+					"__h": 68
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/5/0",
+					"__w": 99,
+					"__h": 180
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 98,
+						"y": 139
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/chimney/6/0",
+					"__w": 197,
+					"__h": 279
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/grassySoil/chimney/7/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"accessory": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 9,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/accessory/0/0",
+					"__w": 19,
+					"__h": 21
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 38,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/accessory/1/0",
+					"__w": 76,
+					"__h": 50
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 13
+					},
+					"z": 0,
+					"delay": 450,
+					"": "/Map/Obj/house/grassySoil/accessory/2/0",
+					"__w": 40,
+					"__h": 27
+				},
+				"1": {
+					"origin": {
+						"x": 20,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/house/grassySoil/accessory/2/0",
+					"__w": 40,
+					"__h": 27
+				},
+				"2": {
+					"origin": {
+						"x": 13,
+						"y": 47
+					},
+					"z": 0,
+					"delay": 600,
+					"": "/Map/Obj/house/grassySoil/accessory/2/2",
+					"__w": 70,
+					"__h": 55
+				},
+				"3": {
+					"origin": {
+						"x": 3,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 900,
+					"": "/Map/Obj/house/grassySoil/accessory/2/3",
+					"__w": 91,
+					"__h": 77
+				},
+				"4": {
+					"origin": {
+						"x": -15,
+						"y": 120
+					},
+					"z": 0,
+					"delay": 1350,
+					"": "/Map/Obj/house/grassySoil/accessory/2/4",
+					"__w": 117,
+					"__h": 110
+				},
+				"5": {
+					"origin": {
+						"x": -24,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 1800,
+					"": "/Map/Obj/house/grassySoil/accessory/2/4",
+					"__w": 117,
+					"__h": 110
+				},
+				"6": {
+					"origin": {
+						"x": -39,
+						"y": 60
+					},
+					"z": 0,
+					"delay": 2100,
+					"": "/Map/Obj/house/grassySoil/accessory/2/6",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"lamp": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/grassySoil/lamp/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 31
+					},
+					"z": 0,
+					"delay": 3000,
+					"": "/Map/Obj/house/grassySoil/lamp/1/0",
+					"__w": 32,
+					"__h": 62
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 19,
+						"y": 23
+					},
+					"z": 0,
+					"delay": 3000,
+					"": "/Map/Obj/house/grassySoil/lamp/2/0",
+					"__w": 39,
+					"__h": 47
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/grassySoil/lamp/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 41,
+						"y": 53
+					},
+					"z": 0,
+					"delay": 1500,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/house/grassySoil/lamp/4/0",
+					"__w": 71,
+					"__h": 83
+				},
+				"1": {
+					"origin": {
+						"x": 41,
+						"y": 53
+					},
+					"z": 0,
+					"delay": 1500,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/house/grassySoil/lamp/4/0",
+					"__w": 71,
+					"__h": 83
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 23
+					},
+					"z": 0,
+					"delay": 2100,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/house/grassySoil/lamp/5/0",
+					"__w": 63,
+					"__h": 62
+				},
+				"13": {
+					"origin": {
+						"x": 42,
+						"y": 23
+					},
+					"z": 0,
+					"delay": 2100,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/house/grassySoil/lamp/5/0",
+					"__w": 63,
+					"__h": 62
+				}
+			}
+		}
+	},
+	"darkWood": {
+		"chimney": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 93
+					},
+					"z": 0,
+					"": "/Map/Obj/house/darkWood/chimney/0/0",
+					"__w": 112,
+					"__h": 187
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/darkWood/chimney/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"lamp": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 3000,
+					"": "/Map/Obj/house/darkWood/lamp/0/0",
+					"__w": 65,
+					"__h": 69
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/darkWood/lamp/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/house/darkWood/lamp/2/0",
+					"__w": 65,
+					"__h": 62
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 2400,
+					"a0": 0,
+					"a1": 200,
+					"": "/Map/Obj/house/darkWood/lamp/3/0",
+					"__w": 83,
+					"__h": 85
+				},
+				"1": {
+					"origin": {
+						"x": 32,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 2400,
+					"a0": 200,
+					"a1": 0,
+					"": "/Map/Obj/house/darkWood/lamp/3/0",
+					"__w": 83,
+					"__h": 85
+				},
+				"blend": 1
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/house/darkWood/lamp/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 36
+					},
+					"z": 0,
+					"delay": 2700,
+					"a0": 0,
+					"a1": 200,
+					"": "/Map/Obj/house/darkWood/lamp/5/0",
+					"__w": 87,
+					"__h": 73
+				},
+				"1": {
+					"origin": {
+						"x": 43,
+						"y": 36
+					},
+					"z": 0,
+					"delay": 2700,
+					"a0": 200,
+					"a1": 0,
+					"": "/Map/Obj/house/darkWood/lamp/5/0",
+					"__w": 87,
+					"__h": 73
+				}
+			}
+		}
+	},
+	"fallenWorldTree": {
+		"foothold": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 135,
+						"y": 97
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/house/fallenWorldTree/foothold/0/0",
+					"__w": 270,
+					"__h": 185
+				}
+			}
+		},
+		"tent": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 906,
+						"y": 464
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/tent/0/0",
+					"__w": 1812,
+					"__h": 929
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 382,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/tent/1/0",
+					"__w": 765,
+					"__h": 19
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 362,
+						"y": 340
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/tent/2/0",
+					"__w": 725,
+					"__h": 680
+				}
+			}
+		},
+		"animation": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 107,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/0",
+					"__w": 255,
+					"__h": 507
+				},
+				"1": {
+					"origin": {
+						"x": 103,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/1",
+					"__w": 251,
+					"__h": 507
+				},
+				"2": {
+					"origin": {
+						"x": 100,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/2",
+					"__w": 248,
+					"__h": 507
+				},
+				"3": {
+					"origin": {
+						"x": 100,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/3",
+					"__w": 248,
+					"__h": 507
+				},
+				"4": {
+					"origin": {
+						"x": 98,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/4",
+					"__w": 246,
+					"__h": 507
+				},
+				"5": {
+					"origin": {
+						"x": 102,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/5",
+					"__w": 250,
+					"__h": 507
+				},
+				"6": {
+					"origin": {
+						"x": 101,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/animation/0/6",
+					"__w": 249,
+					"__h": 507
+				}
+			}
+		},
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 114,
+						"y": 106
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/0/0",
+					"__w": 228,
+					"__h": 212
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 169,
+						"y": 104
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/1/0",
+					"__w": 339,
+					"__h": 208
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 183,
+						"y": 106
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/2/0",
+					"__w": 367,
+					"__h": 213
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 115,
+						"y": 86
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/3/0",
+					"__w": 231,
+					"__h": 172
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 103,
+						"y": 115
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/4/0",
+					"__w": 207,
+					"__h": 230
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 144,
+						"y": 93
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/5/0",
+					"__w": 289,
+					"__h": 186
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 147,
+						"y": 111
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/6/0",
+					"__w": 294,
+					"__h": 223
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 245,
+						"y": 173
+					},
+					"z": 0,
+					"": "/Map/Obj/house/fallenWorldTree/acc/7/0",
+					"__w": 491,
+					"__h": 347
+				}
+			}
+		}
+	}
+}

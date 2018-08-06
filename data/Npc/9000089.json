@@ -1,0 +1,27 @@
+{
+	"info": {
+		"dcLeft": -60,
+		"dcTop": -90,
+		"dcRight": 60,
+		"dcBottom": 0,
+		"script": {
+			"0": {
+				"script": "taxiNpc"
+			}
+		},
+		"hide": 1
+	},
+	"stand": {
+		"0": {
+			"origin": {
+				"x": 61,
+				"y": 90
+			},
+			"z": 0,
+			"delay": 5000,
+			"": "/Npc/1052016/stand/0",
+			"__w": 122,
+			"__h": 90
+		}
+	}
+}

@@ -1,0 +1,245 @@
+{
+	"back": {
+		"0": {
+			"origin": {
+				"x": 11,
+				"y": 369
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/0",
+			"__w": 22,
+			"__h": 738
+		},
+		"1": {
+			"origin": {
+				"x": 11,
+				"y": 11
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/1",
+			"__w": 22,
+			"__h": 22
+		},
+		"2": {
+			"origin": {
+				"x": 11,
+				"y": 11
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/2",
+			"__w": 22,
+			"__h": 22
+		},
+		"3": {
+			"origin": {
+				"x": 425,
+				"y": 111
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/3",
+			"__w": 850,
+			"__h": 222
+		},
+		"4": {
+			"origin": {
+				"x": 425,
+				"y": 6
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/4",
+			"__w": 850,
+			"__h": 13
+		},
+		"5": {
+			"origin": {
+				"x": 258,
+				"y": 81
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/5",
+			"__w": 517,
+			"__h": 162
+		},
+		"6": {
+			"origin": {
+				"x": 315,
+				"y": 119
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/6",
+			"__w": 630,
+			"__h": 238
+		},
+		"7": {
+			"origin": {
+				"x": 315,
+				"y": 5
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/7",
+			"__w": 630,
+			"__h": 11
+		},
+		"8": {
+			"origin": {
+				"x": 306,
+				"y": 62
+			},
+			"z": 0,
+			"": "/Map/Back/mapleIsland/back/22",
+			"__w": 613,
+			"__h": 125
+		},
+		"9": {
+			"origin": {
+				"x": 300,
+				"y": 86
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/9",
+			"__w": 600,
+			"__h": 173
+		},
+		"10": {
+			"origin": {
+				"x": 171,
+				"y": 58
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/10",
+			"__w": 600,
+			"__h": 213
+		},
+		"11": {
+			"origin": {
+				"x": 300,
+				"y": 5
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/11",
+			"__w": 600,
+			"__h": 11
+		},
+		"12": {
+			"origin": {
+				"x": 11,
+				"y": 133
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/12",
+			"__w": 22,
+			"__h": 267
+		},
+		"13": {
+			"origin": {
+				"x": 11,
+				"y": 11
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/13",
+			"__w": 22,
+			"__h": 22
+		},
+		"14": {
+			"origin": {
+				"x": 11,
+				"y": 11
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/14",
+			"__w": 22,
+			"__h": 22
+		},
+		"15": {
+			"origin": {
+				"x": 82,
+				"y": 242
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/15",
+			"__w": 500,
+			"__h": 346
+		},
+		"16": {
+			"origin": {
+				"x": 250,
+				"y": 164
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/16",
+			"__w": 500,
+			"__h": 329
+		},
+		"17": {
+			"origin": {
+				"x": 250,
+				"y": 177
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/17",
+			"__w": 500,
+			"__h": 354
+		},
+		"18": {
+			"origin": {
+				"x": 250,
+				"y": 189
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/18",
+			"__w": 500,
+			"__h": 379
+		},
+		"19": {
+			"origin": {
+				"x": 307,
+				"y": 163
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/19",
+			"__w": 614,
+			"__h": 327
+		},
+		"20": {
+			"origin": {
+				"x": 270,
+				"y": 132
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/20",
+			"__w": 541,
+			"__h": 265
+		},
+		"21": {
+			"origin": {
+				"x": 300,
+				"y": 102
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/21",
+			"__w": 600,
+			"__h": 205
+		},
+		"22": {
+			"origin": {
+				"x": 250,
+				"y": 166
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/22",
+			"__w": 500,
+			"__h": 332
+		},
+		"23": {
+			"origin": {
+				"x": 250,
+				"y": 162
+			},
+			"z": 0,
+			"": "/Map/Back/grassySoil_new/back/23",
+			"__w": 500,
+			"__h": 324
+		}
+	},
+	"ani": {}
+}

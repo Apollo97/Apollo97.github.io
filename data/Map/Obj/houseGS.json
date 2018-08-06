@@ -1,0 +1,1243 @@
+{
+	"house0": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 258,
+						"y": 234
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/houseGS/house0/basic/0/0",
+					"__w": 517,
+					"__h": 325
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house0/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house0/basic/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house0/basic/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house0/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house1": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 173,
+						"y": 222
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house1/basic/0/0",
+					"__w": 346,
+					"__h": 302
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house1/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house2": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 121,
+						"y": 85
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house2/basic/0/0",
+					"__w": 243,
+					"__h": 159
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 133,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house2/basic/1/0",
+					"__w": 266,
+					"__h": 245
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 133,
+						"y": 115
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house2/basic/2/0",
+					"__w": 266,
+					"__h": 231
+				}
+			}
+		}
+	},
+	"house3": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 169,
+						"y": 253
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house3/basic/0/0",
+					"__w": 439,
+					"__h": 348
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house3/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house3/basic/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house3/basic/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house3/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house4": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 154
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house4/basic/0/0",
+					"__w": 181,
+					"__h": 308
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house4/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house4/basic/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 101,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house4/basic/3/0",
+					"__w": 203,
+					"__h": 369
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house4/basic/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house5": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house5/basic/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house5/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house6": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 183,
+						"y": 215
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house6/basic/0/0",
+					"__w": 363,
+					"__h": 303
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house6/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house6/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house7": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 168,
+						"y": 190
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house7/basic/0/0",
+					"__w": 321,
+					"__h": 269
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house7/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house7/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house8": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 194,
+						"y": 197
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house8/basic/0/0",
+					"__w": 388,
+					"__h": 277
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house8/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house8/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house9": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 163,
+						"y": 244
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/houseGS/house9/basic/0/0",
+					"__w": 326,
+					"__h": 377
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house9/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house9/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house9/deco/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house10": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 94,
+						"y": 132
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house10/basic/0/0",
+					"__w": 189,
+					"__h": 265
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 132,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house10/basic/1/0",
+					"__w": 264,
+					"__h": 178
+				}
+			}
+		}
+	},
+	"house11": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 381,
+						"y": 322
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house11/basic/0/0",
+					"__w": 763,
+					"__h": 710
+				}
+			}
+		}
+	},
+	"house12": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 253,
+						"y": 301
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house12/basic/0/0",
+					"__w": 507,
+					"__h": 603
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house12/deco/0/0",
+					"__w": 67,
+					"__h": 164
+				}
+			}
+		}
+	},
+	"house13": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 67
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house13/basic/0/0",
+					"__w": 167,
+					"__h": 196
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 54,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house13/basic/1/0",
+					"__w": 108,
+					"__h": 126
+				}
+			}
+		}
+	},
+	"house14": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 318,
+						"y": 246
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/basic/0/0",
+					"__w": 636,
+					"__h": 523
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/0",
+					"__w": 79,
+					"__h": 89
+				},
+				"1": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/1",
+					"__w": 79,
+					"__h": 89
+				},
+				"2": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/2",
+					"__w": 79,
+					"__h": 89
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/3",
+					"__w": 79,
+					"__h": 89
+				},
+				"4": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/4",
+					"__w": 79,
+					"__h": 89
+				},
+				"5": {
+					"origin": {
+						"x": 31,
+						"y": 42
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/0/5",
+					"__w": 79,
+					"__h": 89
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 49
+					},
+					"z": 0,
+					"delay": 30000,
+					"": "/Map/Obj/houseGS/house14/deco/1/0",
+					"__w": 90,
+					"__h": 95
+				},
+				"1": {
+					"origin": {
+						"x": 45,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/1",
+					"__w": 93,
+					"__h": 95
+				},
+				"2": {
+					"origin": {
+						"x": 113,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/2",
+					"__w": 161,
+					"__h": 95
+				},
+				"3": {
+					"origin": {
+						"x": 141,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/3",
+					"__w": 189,
+					"__h": 95
+				},
+				"4": {
+					"origin": {
+						"x": 157,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/4",
+					"__w": 205,
+					"__h": 95
+				},
+				"5": {
+					"origin": {
+						"x": 167,
+						"y": 52
+					},
+					"z": 0,
+					"delay": 300,
+					"": "/Map/Obj/houseGS/house14/deco/1/5",
+					"__w": 215,
+					"__h": 98
+				},
+				"6": {
+					"origin": {
+						"x": 170,
+						"y": 53
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/6",
+					"__w": 218,
+					"__h": 99
+				},
+				"7": {
+					"origin": {
+						"x": 145,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/7",
+					"__w": 193,
+					"__h": 95
+				},
+				"8": {
+					"origin": {
+						"x": 42,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/8",
+					"__w": 90,
+					"__h": 95
+				},
+				"9": {
+					"origin": {
+						"x": 42,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/9",
+					"__w": 90,
+					"__h": 95
+				},
+				"10": {
+					"origin": {
+						"x": 42,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/10",
+					"__w": 90,
+					"__h": 95
+				},
+				"11": {
+					"origin": {
+						"x": 42,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house14/deco/1/10",
+					"__w": 90,
+					"__h": 95
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 39,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/2/0",
+					"__w": 74,
+					"__h": 66
+				},
+				"1": {
+					"origin": {
+						"x": 47,
+						"y": 16
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/2/1",
+					"__w": 95,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 39,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/2/2",
+					"__w": 78,
+					"__h": 66
+				},
+				"3": {
+					"origin": {
+						"x": 39,
+						"y": 38
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house14/deco/2/3",
+					"__w": 72,
+					"__h": 74
+				}
+			}
+		}
+	},
+	"house15": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house15/basic/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house16": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house16/basic/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house17": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 248,
+						"y": 204
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house17/basic/0/0",
+					"__w": 497,
+					"__h": 284
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house17/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house18": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 277,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/0/0",
+					"__w": 554,
+					"__h": 466
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 259,
+						"y": 229
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/1/0",
+					"__w": 519,
+					"__h": 459
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 210,
+						"y": 132
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/houseGS/house18/basic/2/0",
+					"__w": 420,
+					"__h": 264
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 211,
+						"y": 141
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/3/0",
+					"__w": 422,
+					"__h": 283
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 226,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/4/0",
+					"__w": 452,
+					"__h": 352
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 259,
+						"y": 256
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/houseGS/house18/basic/5/0",
+					"__w": 519,
+					"__h": 512
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 247,
+						"y": 232
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/6/0",
+					"__w": 494,
+					"__h": 478
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 88,
+						"y": 67
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house18/basic/7/0",
+					"__w": 177,
+					"__h": 135
+				}
+			}
+		}
+	},
+	"house19": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 229,
+						"y": 166
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house19/basic/0/0",
+					"__w": 459,
+					"__h": 299
+				}
+			}
+		}
+	},
+	"house20": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 197,
+						"y": 135
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house20/basic/0/0",
+					"__w": 395,
+					"__h": 299
+				}
+			}
+		},
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/0",
+					"__w": 47,
+					"__h": 75
+				},
+				"1": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/1",
+					"__w": 47,
+					"__h": 75
+				},
+				"2": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/2",
+					"__w": 47,
+					"__h": 75
+				},
+				"3": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/3",
+					"__w": 47,
+					"__h": 75
+				},
+				"4": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/4",
+					"__w": 47,
+					"__h": 75
+				},
+				"5": {
+					"origin": {
+						"x": 16,
+						"y": 30
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/houseGS/house20/acc/0/5",
+					"__w": 47,
+					"__h": 75
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house20/acc/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house20/acc/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house21": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 242,
+						"y": 150
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house21/basic/0/0",
+					"__w": 485,
+					"__h": 301
+				}
+			}
+		},
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house21/acc/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house21/acc/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"house22": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 166,
+						"y": 179
+					},
+					"z": 0,
+					"": "/Map/Obj/houseGS/house22/basic/0/0",
+					"__w": 333,
+					"__h": 358
+				}
+			}
+		}
+	},
+	"house23": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 163,
+						"y": 244
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}",
+						"11": "{Shape2D#Convex2D}",
+						"12": "{Shape2D#Convex2D}",
+						"13": "{Shape2D#Convex2D}",
+						"14": "{Shape2D#Convex2D}",
+						"15": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/houseGS/house9/basic/0/0",
+					"__w": 326,
+					"__h": 377
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house23/basic/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house23/deco/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/houseGS/house23/deco/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,4892 @@
+{
+	"object": {
+		"town": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 124,
+						"y": 328
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/town/0/0",
+					"__w": 235,
+					"__h": 552
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 89,
+						"y": 219
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/town/1/0",
+					"__w": 171,
+					"__h": 442
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 98,
+						"y": 218
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/town/2/0",
+					"__w": 188,
+					"__h": 441
+				}
+			}
+		},
+		"Universe": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 245,
+						"y": 250
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/0/0",
+					"__w": 490,
+					"__h": 500
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 205,
+						"y": 207
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/1/0",
+					"__w": 411,
+					"__h": 415
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 228,
+						"y": 188
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/2/0",
+					"__w": 457,
+					"__h": 360
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 178,
+						"y": 166
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/3/0",
+					"__w": 357,
+					"__h": 332
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 149,
+						"y": 155
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/4/0",
+					"__w": 298,
+					"__h": 310
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 187,
+						"y": 186
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/5/0",
+					"__w": 375,
+					"__h": 372
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 33
+					},
+					"z": 0,
+					"delay": 1200,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/6/0",
+					"__w": 59,
+					"__h": 67
+				},
+				"1": {
+					"origin": {
+						"x": 29,
+						"y": 33
+					},
+					"z": 0,
+					"delay": 1200,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/6/0",
+					"__w": 59,
+					"__h": 67
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 1500,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/7/0",
+					"__w": 33,
+					"__h": 34
+				},
+				"1": {
+					"origin": {
+						"x": 16,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 1500,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/7/0",
+					"__w": 33,
+					"__h": 34
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 9,
+						"y": 9
+					},
+					"z": 0,
+					"delay": 5200,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/8/0",
+					"__w": 18,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": 9,
+						"y": 9
+					},
+					"z": 0,
+					"delay": 5200,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/8/0",
+					"__w": 18,
+					"__h": 18
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 3600,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				},
+				"1": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 3600,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 70
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/10/0",
+					"__w": 99,
+					"__h": 140
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/11/0",
+					"__w": 69,
+					"__h": 73
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 36,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/12/0",
+					"__w": 72,
+					"__h": 44
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 160,
+						"y": 160
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/13/0",
+					"__w": 321,
+					"__h": 320
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 80,
+						"y": 80
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/14/0",
+					"__w": 160,
+					"__h": 160
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 62
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/15/0",
+					"__w": 124,
+					"__h": 124
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 2700,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/7/0",
+					"__w": 33,
+					"__h": 34
+				},
+				"1": {
+					"origin": {
+						"x": 16,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 2700,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/7/0",
+					"__w": 33,
+					"__h": 34
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 9,
+						"y": 9
+					},
+					"z": 0,
+					"delay": 3000,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/8/0",
+					"__w": 18,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": 9,
+						"y": 9
+					},
+					"z": 0,
+					"delay": 3000,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/8/0",
+					"__w": 18,
+					"__h": 18
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 2400,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				},
+				"1": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 2400,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 6000,
+					"a0": 0,
+					"a1": 255,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				},
+				"1": {
+					"origin": {
+						"x": 6,
+						"y": 5
+					},
+					"z": 0,
+					"delay": 6000,
+					"a0": 255,
+					"a1": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/9/0",
+					"__w": 13,
+					"__h": 10
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 108,
+						"y": 111
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/20/0",
+					"__w": 217,
+					"__h": 224
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 245,
+						"y": 250
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/21/0",
+					"__w": 490,
+					"__h": 500
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 110,
+						"y": 126
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/22/0",
+					"__w": 219,
+					"__h": 251
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 612,
+						"y": 617
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/23/0",
+					"__w": 1228,
+					"__h": 1233
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 134,
+						"y": 131
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/Universe/24/0",
+					"__w": 267,
+					"__h": 262
+				}
+			}
+		},
+		"foothold": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 75
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/foothold/0/0",
+					"__w": 200,
+					"__h": 150
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 88
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/foothold/1/0",
+					"__w": 200,
+					"__h": 163
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 75
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/foothold/2/0",
+					"__w": 200,
+					"__h": 150
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 75
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/foothold/3/0",
+					"__w": 200,
+					"__h": 150
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 75
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/foothold/4/0",
+					"__w": 200,
+					"__h": 151
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 700,
+						"y": 75
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/foothold/5/0",
+					"__w": 1400,
+					"__h": 151
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 223,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/foothold/6/0",
+					"__w": 446,
+					"__h": 178
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 112,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/foothold/7/0",
+					"__w": 225,
+					"__h": 130
+				}
+			}
+		},
+		"deco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 147,
+						"y": 148
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/deco/0/0",
+					"__w": 295,
+					"__h": 297
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 213,
+						"y": 172
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/1/0",
+					"__w": 426,
+					"__h": 345
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 191,
+						"y": 173
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/2/0",
+					"__w": 383,
+					"__h": 347
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 197,
+						"y": 205
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/3/0",
+					"__w": 394,
+					"__h": 411
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 83,
+						"y": 121
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/deco/4/0",
+					"__w": 166,
+					"__h": 243
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 87,
+						"y": 211
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/deco/5/0",
+					"__w": 174,
+					"__h": 422
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/deco/6/0",
+					"__w": 54,
+					"__h": 62
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/deco/7/0",
+					"__w": 61,
+					"__h": 43
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 23
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/8/0",
+					"__w": 51,
+					"__h": 47
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 21
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/9/0",
+					"__w": 55,
+					"__h": 43
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 34
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/deco/10/0",
+					"__w": 58,
+					"__h": 68
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 185,
+						"y": 209
+					},
+					"z": 0,
+					"": "/Map/Obj/event/6thMaple/clear/2/0",
+					"__w": 370,
+					"__h": 419
+				}
+			}
+		},
+		"missiontospace": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 227,
+						"y": 208
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/0/0",
+					"__w": 454,
+					"__h": 416
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 87,
+						"y": 32
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/missiontospace/1/0",
+					"__w": 174,
+					"__h": 65
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 77,
+						"y": 22
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/missiontospace/2/0",
+					"__w": 154,
+					"__h": 45
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 77,
+						"y": 22
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/missiontospace/3/0",
+					"__w": 154,
+					"__h": 45
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/0",
+					"__w": 15,
+					"__h": 145
+				},
+				"1": {
+					"origin": {
+						"x": 9,
+						"y": 115
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/1",
+					"__w": 19,
+					"__h": 231
+				},
+				"2": {
+					"origin": {
+						"x": 11,
+						"y": 156
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/2",
+					"__w": 22,
+					"__h": 313
+				},
+				"3": {
+					"origin": {
+						"x": 12,
+						"y": 156
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/3",
+					"__w": 24,
+					"__h": 313
+				},
+				"4": {
+					"origin": {
+						"x": 13,
+						"y": 159
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/4",
+					"__w": 26,
+					"__h": 318
+				},
+				"5": {
+					"origin": {
+						"x": 18,
+						"y": 159
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/5",
+					"__w": 37,
+					"__h": 318
+				},
+				"6": {
+					"origin": {
+						"x": 170,
+						"y": 188
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/6",
+					"__w": 340,
+					"__h": 376
+				},
+				"7": {
+					"origin": {
+						"x": 207,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/7",
+					"__w": 415,
+					"__h": 384
+				},
+				"8": {
+					"origin": {
+						"x": 231,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/8",
+					"__w": 463,
+					"__h": 385
+				},
+				"9": {
+					"origin": {
+						"x": 244,
+						"y": 193
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/4/9",
+					"__w": 489,
+					"__h": 387
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 241,
+						"y": 193
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/0",
+					"__w": 483,
+					"__h": 387
+				},
+				"1": {
+					"origin": {
+						"x": 244,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/1",
+					"__w": 489,
+					"__h": 385
+				},
+				"2": {
+					"origin": {
+						"x": 241,
+						"y": 193
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/2",
+					"__w": 483,
+					"__h": 386
+				},
+				"3": {
+					"origin": {
+						"x": 244,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/3",
+					"__w": 489,
+					"__h": 385
+				},
+				"4": {
+					"origin": {
+						"x": 241,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/4",
+					"__w": 483,
+					"__h": 384
+				},
+				"5": {
+					"origin": {
+						"x": 244,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/5",
+					"__w": 489,
+					"__h": 385
+				},
+				"6": {
+					"origin": {
+						"x": 241,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/6",
+					"__w": 483,
+					"__h": 385
+				},
+				"7": {
+					"origin": {
+						"x": 244,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/7",
+					"__w": 489,
+					"__h": 384
+				},
+				"8": {
+					"origin": {
+						"x": 241,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/8",
+					"__w": 483,
+					"__h": 385
+				},
+				"9": {
+					"origin": {
+						"x": 244,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/9",
+					"__w": 489,
+					"__h": 384
+				},
+				"10": {
+					"origin": {
+						"x": 241,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/10",
+					"__w": 483,
+					"__h": 385
+				},
+				"11": {
+					"origin": {
+						"x": 244,
+						"y": 193
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/missiontospace/5/11",
+					"__w": 489,
+					"__h": 387
+				}
+			}
+		},
+		"vita": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 243,
+						"y": 139
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/0/0",
+					"__w": 486,
+					"__h": 279
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 211,
+						"y": 162
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/1/0",
+					"__w": 422,
+					"__h": 324
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 77
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/2/0",
+					"__w": 106,
+					"__h": 155
+				},
+				"1": {
+					"origin": {
+						"x": 53,
+						"y": 100
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/2/1",
+					"__w": 106,
+					"__h": 200
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 267,
+						"y": 150
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/3/0",
+					"__w": 535,
+					"__h": 301
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 370,
+						"y": 256
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/4/0",
+					"__w": 741,
+					"__h": 512
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 379,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/5/0",
+					"__w": 806,
+					"__h": 237
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 99,
+						"y": -24
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/6/0",
+					"__w": 210,
+					"__h": 171
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 333,
+						"y": 409
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/vita/7/0",
+					"__w": 614,
+					"__h": 600
+				}
+			}
+		},
+		"UniverseName": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/0",
+					"__w": 283,
+					"__h": 157
+				},
+				"1": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/1",
+					"__w": 283,
+					"__h": 157
+				},
+				"2": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/2",
+					"__w": 283,
+					"__h": 157
+				},
+				"3": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/3",
+					"__w": 283,
+					"__h": 157
+				},
+				"4": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/4",
+					"__w": 283,
+					"__h": 157
+				},
+				"5": {
+					"origin": {
+						"x": -2,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/0/5",
+					"__w": 283,
+					"__h": 157
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/0",
+					"__w": 303,
+					"__h": 123
+				},
+				"1": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/1",
+					"__w": 303,
+					"__h": 123
+				},
+				"2": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/2",
+					"__w": 303,
+					"__h": 123
+				},
+				"3": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/3",
+					"__w": 303,
+					"__h": 123
+				},
+				"4": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/4",
+					"__w": 303,
+					"__h": 123
+				},
+				"5": {
+					"origin": {
+						"x": -184,
+						"y": -5
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/1/5",
+					"__w": 303,
+					"__h": 123
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/0",
+					"__w": 287,
+					"__h": 124
+				},
+				"1": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/1",
+					"__w": 287,
+					"__h": 124
+				},
+				"2": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/2",
+					"__w": 287,
+					"__h": 124
+				},
+				"3": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/3",
+					"__w": 287,
+					"__h": 124
+				},
+				"4": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/4",
+					"__w": 287,
+					"__h": 124
+				},
+				"5": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/2/5",
+					"__w": 287,
+					"__h": 124
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/0",
+					"__w": 306,
+					"__h": 127
+				},
+				"1": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/1",
+					"__w": 306,
+					"__h": 127
+				},
+				"2": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/2",
+					"__w": 306,
+					"__h": 127
+				},
+				"3": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/3",
+					"__w": 306,
+					"__h": 127
+				},
+				"4": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/4",
+					"__w": 306,
+					"__h": 127
+				},
+				"5": {
+					"origin": {
+						"x": -25,
+						"y": -105
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/3/5",
+					"__w": 306,
+					"__h": 127
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/0",
+					"__w": 286,
+					"__h": 117
+				},
+				"1": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/1",
+					"__w": 286,
+					"__h": 117
+				},
+				"2": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/2",
+					"__w": 286,
+					"__h": 117
+				},
+				"3": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/3",
+					"__w": 286,
+					"__h": 117
+				},
+				"4": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/4",
+					"__w": 286,
+					"__h": 117
+				},
+				"5": {
+					"origin": {
+						"x": -104,
+						"y": -83
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/4/5",
+					"__w": 286,
+					"__h": 117
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/0",
+					"__w": 296,
+					"__h": 123
+				},
+				"1": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/1",
+					"__w": 296,
+					"__h": 123
+				},
+				"2": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/2",
+					"__w": 296,
+					"__h": 123
+				},
+				"3": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/3",
+					"__w": 296,
+					"__h": 123
+				},
+				"4": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/4",
+					"__w": 296,
+					"__h": 123
+				},
+				"5": {
+					"origin": {
+						"x": -59,
+						"y": -12
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/5/5",
+					"__w": 296,
+					"__h": 123
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/0",
+					"__w": 362,
+					"__h": 155
+				},
+				"1": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/1",
+					"__w": 362,
+					"__h": 155
+				},
+				"2": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/2",
+					"__w": 362,
+					"__h": 155
+				},
+				"3": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/3",
+					"__w": 362,
+					"__h": 155
+				},
+				"4": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/4",
+					"__w": 362,
+					"__h": 155
+				},
+				"5": {
+					"origin": {
+						"x": 431,
+						"y": 308
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/object/UniverseName/6/5",
+					"__w": 362,
+					"__h": 155
+				}
+			}
+		},
+		"terraCore": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 427,
+						"y": 426
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraCore/0/0",
+					"__w": 857,
+					"__h": 852
+				}
+			}
+		},
+		"terraTile": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 190,
+						"y": 617
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/0/0",
+					"__w": 382,
+					"__h": 227
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 193,
+						"y": 622
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/1/0",
+					"__w": 386,
+					"__h": 232
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 192,
+						"y": 701
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/2/0",
+					"__w": 386,
+					"__h": 310
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 193,
+						"y": 674
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/3/0",
+					"__w": 386,
+					"__h": 284
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 193,
+						"y": 675
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/4/0",
+					"__w": 387,
+					"__h": 285
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 196,
+						"y": 650
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/5/0",
+					"__w": 393,
+					"__h": 261
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 190,
+						"y": 605
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTile/6/0",
+					"__w": 383,
+					"__h": 215
+				}
+			}
+		},
+		"terraTileSide": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/5/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraTileSide/6/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"terraPlant": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 179,
+						"y": 672
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/1/0",
+					"__w": 358,
+					"__h": 96
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 181,
+						"y": 664
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/2/0",
+					"__w": 360,
+					"__h": 95
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 176,
+						"y": 646
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/3/0",
+					"__w": 361,
+					"__h": 74
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 184,
+						"y": 746
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/4/0",
+					"__w": 353,
+					"__h": 177
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 190,
+						"y": 729
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/5/0",
+					"__w": 393,
+					"__h": 236
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 157,
+						"y": 766
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/6/0",
+					"__w": 350,
+					"__h": 194
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 177,
+						"y": 725
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/7/0",
+					"__w": 352,
+					"__h": 163
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 190,
+						"y": 753
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/8/0",
+					"__w": 386,
+					"__h": 189
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 205,
+						"y": 720
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/9/0",
+					"__w": 397,
+					"__h": 161
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 190,
+						"y": 750
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/10/0",
+					"__w": 391,
+					"__h": 196
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 161,
+						"y": 694
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/11/0",
+					"__w": 350,
+					"__h": 129
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 201,
+						"y": 815
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/12/0",
+					"__w": 403,
+					"__h": 254
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 166,
+						"y": 648
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/13/0",
+					"__w": 349,
+					"__h": 115
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 169,
+						"y": 787
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/14/0",
+					"__w": 362,
+					"__h": 269
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 170,
+						"y": 680
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/15/0",
+					"__w": 350,
+					"__h": 141
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 175,
+						"y": 629
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/16/0",
+					"__w": 349,
+					"__h": 151
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 174,
+						"y": 617
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/17/0",
+					"__w": 347,
+					"__h": 112
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 160,
+						"y": 609
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraPlant/18/0",
+					"__w": 348,
+					"__h": 93
+				}
+			}
+		},
+		"terraBack": {
+			"0": {
+				"0": {
+					"": "/Map/Obj/14thEvent/object/terraBack/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"terraEffect": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 197,
+						"y": 596
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraEffect/0/0",
+					"__w": 396,
+					"__h": 266
+				}
+			}
+		},
+		"WagulApt": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 273,
+						"y": 100
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/14thEvent/object/WagulApt/0/0",
+					"__w": 547,
+					"__h": 201
+				}
+			}
+		},
+		"terraObject": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 61
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraObject/0/0",
+					"__w": 125,
+					"__h": 122
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 61
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/object/terraObject/1/0",
+					"__w": 125,
+					"__h": 122
+				}
+			}
+		}
+	},
+	"ani": {
+		"town": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 225,
+						"y": 221
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/0",
+					"__w": 436,
+					"__h": 437
+				},
+				"1": {
+					"origin": {
+						"x": 223,
+						"y": 194
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/1",
+					"__w": 414,
+					"__h": 426
+				},
+				"2": {
+					"origin": {
+						"x": 212,
+						"y": 174
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/2",
+					"__w": 418,
+					"__h": 389
+				},
+				"3": {
+					"origin": {
+						"x": 231,
+						"y": 204
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/3",
+					"__w": 463,
+					"__h": 415
+				},
+				"4": {
+					"origin": {
+						"x": 209,
+						"y": 199
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/4",
+					"__w": 426,
+					"__h": 388
+				},
+				"5": {
+					"origin": {
+						"x": 209,
+						"y": 215
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/5",
+					"__w": 404,
+					"__h": 425
+				},
+				"6": {
+					"origin": {
+						"x": 198,
+						"y": 240
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/6",
+					"__w": 375,
+					"__h": 449
+				},
+				"7": {
+					"origin": {
+						"x": 197,
+						"y": 216
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/7",
+					"__w": 423,
+					"__h": 458
+				},
+				"8": {
+					"origin": {
+						"x": 218,
+						"y": 215
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/8",
+					"__w": 429,
+					"__h": 441
+				},
+				"9": {
+					"origin": {
+						"x": 203,
+						"y": 203
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/9",
+					"__w": 388,
+					"__h": 400
+				},
+				"10": {
+					"origin": {
+						"x": 182,
+						"y": 180
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/10",
+					"__w": 391,
+					"__h": 392
+				},
+				"11": {
+					"origin": {
+						"x": 238,
+						"y": 202
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/11",
+					"__w": 443,
+					"__h": 400
+				},
+				"12": {
+					"origin": {
+						"x": 222,
+						"y": 191
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/12",
+					"__w": 462,
+					"__h": 419
+				},
+				"13": {
+					"origin": {
+						"x": 196,
+						"y": 186
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/13",
+					"__w": 411,
+					"__h": 398
+				},
+				"14": {
+					"origin": {
+						"x": 205,
+						"y": 191
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/14",
+					"__w": 399,
+					"__h": 376
+				},
+				"15": {
+					"origin": {
+						"x": 182,
+						"y": 235
+					},
+					"z": 0,
+					"delay": 90,
+					"": "/Map/Obj/14thEvent/ani/town/0/15",
+					"__w": 365,
+					"__h": 466
+				}
+			}
+		},
+		"universe": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/0",
+					"__w": 507,
+					"__h": 501
+				},
+				"1": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/1",
+					"__w": 507,
+					"__h": 501
+				},
+				"2": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/2",
+					"__w": 507,
+					"__h": 501
+				},
+				"3": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/3",
+					"__w": 507,
+					"__h": 501
+				},
+				"4": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/4",
+					"__w": 507,
+					"__h": 501
+				},
+				"5": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/5",
+					"__w": 507,
+					"__h": 501
+				},
+				"6": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/6",
+					"__w": 507,
+					"__h": 501
+				},
+				"7": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/7",
+					"__w": 507,
+					"__h": 501
+				},
+				"8": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/8",
+					"__w": 507,
+					"__h": 501
+				},
+				"9": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/9",
+					"__w": 507,
+					"__h": 501
+				},
+				"10": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/10",
+					"__w": 507,
+					"__h": 501
+				},
+				"11": {
+					"origin": {
+						"x": 260,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/0/11",
+					"__w": 507,
+					"__h": 501
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/0",
+					"__w": 425,
+					"__h": 429
+				},
+				"1": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/1",
+					"__w": 425,
+					"__h": 429
+				},
+				"2": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/2",
+					"__w": 425,
+					"__h": 429
+				},
+				"3": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/3",
+					"__w": 425,
+					"__h": 429
+				},
+				"4": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/4",
+					"__w": 425,
+					"__h": 429
+				},
+				"5": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/5",
+					"__w": 425,
+					"__h": 429
+				},
+				"6": {
+					"origin": {
+						"x": 173,
+						"y": 257
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/6",
+					"__w": 416,
+					"__h": 421
+				},
+				"7": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/7",
+					"__w": 425,
+					"__h": 429
+				},
+				"8": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/8",
+					"__w": 425,
+					"__h": 429
+				},
+				"9": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/9",
+					"__w": 425,
+					"__h": 429
+				},
+				"10": {
+					"origin": {
+						"x": 176,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/1/10",
+					"__w": 425,
+					"__h": 429
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 234,
+						"y": 186
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/0",
+					"__w": 472,
+					"__h": 406
+				},
+				"1": {
+					"origin": {
+						"x": 233,
+						"y": 180
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/1",
+					"__w": 471,
+					"__h": 400
+				},
+				"2": {
+					"origin": {
+						"x": 233,
+						"y": 170
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/2",
+					"__w": 471,
+					"__h": 390
+				},
+				"3": {
+					"origin": {
+						"x": 233,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/3",
+					"__w": 471,
+					"__h": 378
+				},
+				"4": {
+					"origin": {
+						"x": 233,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/4",
+					"__w": 476,
+					"__h": 378
+				},
+				"5": {
+					"origin": {
+						"x": 235,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/5",
+					"__w": 473,
+					"__h": 378
+				},
+				"6": {
+					"origin": {
+						"x": 246,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/6",
+					"__w": 484,
+					"__h": 378
+				},
+				"7": {
+					"origin": {
+						"x": 245,
+						"y": 158
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/universe/2/7",
+					"__w": 483,
+					"__h": 378
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 216,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/0",
+					"__w": 436,
+					"__h": 338
+				},
+				"1": {
+					"origin": {
+						"x": 214,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/1",
+					"__w": 434,
+					"__h": 338
+				},
+				"2": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/2",
+					"__w": 420,
+					"__h": 338
+				},
+				"3": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/3",
+					"__w": 420,
+					"__h": 338
+				},
+				"4": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/4",
+					"__w": 420,
+					"__h": 338
+				},
+				"5": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/5",
+					"__w": 420,
+					"__h": 338
+				},
+				"6": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/6",
+					"__w": 420,
+					"__h": 338
+				},
+				"7": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/7",
+					"__w": 434,
+					"__h": 338
+				},
+				"8": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/8",
+					"__w": 420,
+					"__h": 396
+				},
+				"9": {
+					"origin": {
+						"x": 200,
+						"y": 176
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/3/9",
+					"__w": 420,
+					"__h": 383
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/0",
+					"__w": 286,
+					"__h": 319
+				},
+				"1": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/1",
+					"__w": 286,
+					"__h": 319
+				},
+				"2": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/2",
+					"__w": 286,
+					"__h": 319
+				},
+				"3": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/3",
+					"__w": 286,
+					"__h": 319
+				},
+				"4": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/4",
+					"__w": 286,
+					"__h": 319
+				},
+				"5": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/5",
+					"__w": 286,
+					"__h": 319
+				},
+				"6": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/6",
+					"__w": 286,
+					"__h": 319
+				},
+				"7": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/3",
+					"__w": 286,
+					"__h": 319
+				},
+				"8": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/8",
+					"__w": 286,
+					"__h": 319
+				},
+				"9": {
+					"origin": {
+						"x": 166,
+						"y": 184
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/4/1",
+					"__w": 286,
+					"__h": 319
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 57
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/0",
+					"__w": 64,
+					"__h": 114
+				},
+				"1": {
+					"origin": {
+						"x": 31,
+						"y": 55
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/1",
+					"__w": 63,
+					"__h": 110
+				},
+				"2": {
+					"origin": {
+						"x": 32,
+						"y": 57
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/2",
+					"__w": 64,
+					"__h": 115
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/3",
+					"__w": 63,
+					"__h": 109
+				},
+				"4": {
+					"origin": {
+						"x": 32,
+						"y": 57
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/2",
+					"__w": 64,
+					"__h": 115
+				},
+				"5": {
+					"origin": {
+						"x": 31,
+						"y": 55
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/5/1",
+					"__w": 63,
+					"__h": 110
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 228,
+						"y": 222
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/0",
+					"__w": 436,
+					"__h": 437
+				},
+				"1": {
+					"origin": {
+						"x": 226,
+						"y": 195
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/1",
+					"__w": 414,
+					"__h": 420
+				},
+				"2": {
+					"origin": {
+						"x": 215,
+						"y": 175
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/2",
+					"__w": 418,
+					"__h": 389
+				},
+				"3": {
+					"origin": {
+						"x": 234,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/3",
+					"__w": 463,
+					"__h": 415
+				},
+				"4": {
+					"origin": {
+						"x": 212,
+						"y": 200
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/4",
+					"__w": 426,
+					"__h": 388
+				},
+				"5": {
+					"origin": {
+						"x": 212,
+						"y": 216
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/5",
+					"__w": 404,
+					"__h": 425
+				},
+				"6": {
+					"origin": {
+						"x": 201,
+						"y": 241
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/6",
+					"__w": 375,
+					"__h": 449
+				},
+				"7": {
+					"origin": {
+						"x": 200,
+						"y": 217
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/7",
+					"__w": 423,
+					"__h": 442
+				},
+				"8": {
+					"origin": {
+						"x": 221,
+						"y": 216
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/8",
+					"__w": 429,
+					"__h": 441
+				},
+				"9": {
+					"origin": {
+						"x": 206,
+						"y": 204
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/9",
+					"__w": 388,
+					"__h": 400
+				},
+				"10": {
+					"origin": {
+						"x": 185,
+						"y": 181
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/10",
+					"__w": 391,
+					"__h": 392
+				},
+				"11": {
+					"origin": {
+						"x": 241,
+						"y": 203
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/11",
+					"__w": 443,
+					"__h": 400
+				},
+				"12": {
+					"origin": {
+						"x": 225,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/12",
+					"__w": 462,
+					"__h": 417
+				},
+				"13": {
+					"origin": {
+						"x": 199,
+						"y": 187
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/13",
+					"__w": 411,
+					"__h": 398
+				},
+				"14": {
+					"origin": {
+						"x": 208,
+						"y": 192
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/14",
+					"__w": 399,
+					"__h": 376
+				},
+				"15": {
+					"origin": {
+						"x": 185,
+						"y": 236
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/6/15",
+					"__w": 365,
+					"__h": 461
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 101,
+						"y": 47
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/7/0",
+					"__w": 166,
+					"__h": 91
+				},
+				"1": {
+					"origin": {
+						"x": 105,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/7/1",
+					"__w": 171,
+					"__h": 94
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 170,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/0",
+					"__w": 366,
+					"__h": 390
+				},
+				"1": {
+					"origin": {
+						"x": 170,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/1",
+					"__w": 366,
+					"__h": 390
+				},
+				"2": {
+					"origin": {
+						"x": 170,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/2",
+					"__w": 366,
+					"__h": 390
+				},
+				"3": {
+					"origin": {
+						"x": 171,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/3",
+					"__w": 367,
+					"__h": 390
+				},
+				"4": {
+					"origin": {
+						"x": 171,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/4",
+					"__w": 367,
+					"__h": 390
+				},
+				"5": {
+					"origin": {
+						"x": 171,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/5",
+					"__w": 367,
+					"__h": 390
+				},
+				"6": {
+					"origin": {
+						"x": 171,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/6",
+					"__w": 367,
+					"__h": 390
+				},
+				"7": {
+					"origin": {
+						"x": 171,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/7",
+					"__w": 367,
+					"__h": 390
+				},
+				"8": {
+					"origin": {
+						"x": 170,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/8",
+					"__w": 366,
+					"__h": 390
+				},
+				"9": {
+					"origin": {
+						"x": 170,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/8/9",
+					"__w": 366,
+					"__h": 390
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 286,
+						"y": 234
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/0",
+					"__w": 504,
+					"__h": 425
+				},
+				"1": {
+					"origin": {
+						"x": 285,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/1",
+					"__w": 504,
+					"__h": 423
+				},
+				"2": {
+					"origin": {
+						"x": 283,
+						"y": 232
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/2",
+					"__w": 503,
+					"__h": 420
+				},
+				"3": {
+					"origin": {
+						"x": 286,
+						"y": 232
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/3",
+					"__w": 507,
+					"__h": 422
+				},
+				"4": {
+					"origin": {
+						"x": 288,
+						"y": 230
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/4",
+					"__w": 510,
+					"__h": 421
+				},
+				"5": {
+					"origin": {
+						"x": 289,
+						"y": 227
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/5",
+					"__w": 512,
+					"__h": 419
+				},
+				"6": {
+					"origin": {
+						"x": 290,
+						"y": 230
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/6",
+					"__w": 512,
+					"__h": 423
+				},
+				"7": {
+					"origin": {
+						"x": 291,
+						"y": 232
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/7",
+					"__w": 512,
+					"__h": 425
+				},
+				"8": {
+					"origin": {
+						"x": 290,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/8",
+					"__w": 510,
+					"__h": 426
+				},
+				"9": {
+					"origin": {
+						"x": 289,
+						"y": 233
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/9/9",
+					"__w": 508,
+					"__h": 425
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 419,
+						"y": 243
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/0",
+					"__w": 806,
+					"__h": 411
+				},
+				"1": {
+					"origin": {
+						"x": 418,
+						"y": 244
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/1",
+					"__w": 804,
+					"__h": 413
+				},
+				"2": {
+					"origin": {
+						"x": 418,
+						"y": 245
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/2",
+					"__w": 805,
+					"__h": 413
+				},
+				"3": {
+					"origin": {
+						"x": 417,
+						"y": 244
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/3",
+					"__w": 805,
+					"__h": 411
+				},
+				"4": {
+					"origin": {
+						"x": 416,
+						"y": 243
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/4",
+					"__w": 806,
+					"__h": 408
+				},
+				"5": {
+					"origin": {
+						"x": 415,
+						"y": 243
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/5",
+					"__w": 805,
+					"__h": 406
+				},
+				"6": {
+					"origin": {
+						"x": 416,
+						"y": 242
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/6",
+					"__w": 807,
+					"__h": 403
+				},
+				"7": {
+					"origin": {
+						"x": 417,
+						"y": 240
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/7",
+					"__w": 807,
+					"__h": 403
+				},
+				"8": {
+					"origin": {
+						"x": 418,
+						"y": 242
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/8",
+					"__w": 808,
+					"__h": 407
+				},
+				"9": {
+					"origin": {
+						"x": 418,
+						"y": 243
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/10/9",
+					"__w": 806,
+					"__h": 410
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 143,
+						"y": 393
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/0",
+					"__w": 302,
+					"__h": 588
+				},
+				"1": {
+					"origin": {
+						"x": 142,
+						"y": 393
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/1",
+					"__w": 302,
+					"__h": 589
+				},
+				"2": {
+					"origin": {
+						"x": 141,
+						"y": 392
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/2",
+					"__w": 302,
+					"__h": 589
+				},
+				"3": {
+					"origin": {
+						"x": 142,
+						"y": 390
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/3",
+					"__w": 303,
+					"__h": 588
+				},
+				"4": {
+					"origin": {
+						"x": 143,
+						"y": 392
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/4",
+					"__w": 305,
+					"__h": 589
+				},
+				"5": {
+					"origin": {
+						"x": 144,
+						"y": 393
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/5",
+					"__w": 306,
+					"__h": 590
+				},
+				"6": {
+					"origin": {
+						"x": 144,
+						"y": 393
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/6",
+					"__w": 306,
+					"__h": 589
+				},
+				"7": {
+					"origin": {
+						"x": 145,
+						"y": 394
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/7",
+					"__w": 306,
+					"__h": 588
+				},
+				"8": {
+					"origin": {
+						"x": 144,
+						"y": 395
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/8",
+					"__w": 305,
+					"__h": 588
+				},
+				"9": {
+					"origin": {
+						"x": 144,
+						"y": 394
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/11/9",
+					"__w": 304,
+					"__h": 588
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 113,
+						"y": 143
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/0",
+					"__w": 96,
+					"__h": 82
+				},
+				"1": {
+					"origin": {
+						"x": 112,
+						"y": 144
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/1",
+					"__w": 94,
+					"__h": 81
+				},
+				"2": {
+					"origin": {
+						"x": 110,
+						"y": 146
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/2",
+					"__w": 97,
+					"__h": 81
+				},
+				"3": {
+					"origin": {
+						"x": 108,
+						"y": 148
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/3",
+					"__w": 97,
+					"__h": 82
+				},
+				"4": {
+					"origin": {
+						"x": 110,
+						"y": 146
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/4",
+					"__w": 97,
+					"__h": 82
+				},
+				"5": {
+					"origin": {
+						"x": 111,
+						"y": 145
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/universe/12/5",
+					"__w": 97,
+					"__h": 82
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/0",
+					"__w": 128,
+					"__h": 133
+				},
+				"1": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/1",
+					"__w": 128,
+					"__h": 133
+				},
+				"2": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/2",
+					"__w": 128,
+					"__h": 133
+				},
+				"3": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/3",
+					"__w": 128,
+					"__h": 133
+				},
+				"4": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/4",
+					"__w": 128,
+					"__h": 133
+				},
+				"5": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/5",
+					"__w": 128,
+					"__h": 133
+				},
+				"6": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/6",
+					"__w": 128,
+					"__h": 133
+				},
+				"7": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/7",
+					"__w": 128,
+					"__h": 133
+				},
+				"8": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/8",
+					"__w": 128,
+					"__h": 133
+				},
+				"9": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/9",
+					"__w": 128,
+					"__h": 133
+				},
+				"10": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/10",
+					"__w": 128,
+					"__h": 133
+				},
+				"11": {
+					"origin": {
+						"x": 81,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/13/11",
+					"__w": 128,
+					"__h": 133
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/0",
+					"__w": 224,
+					"__h": 247
+				},
+				"1": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/1",
+					"__w": 224,
+					"__h": 247
+				},
+				"2": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/2",
+					"__w": 224,
+					"__h": 247
+				},
+				"3": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/3",
+					"__w": 224,
+					"__h": 247
+				},
+				"4": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/4",
+					"__w": 224,
+					"__h": 247
+				},
+				"5": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/5",
+					"__w": 224,
+					"__h": 247
+				},
+				"6": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/6",
+					"__w": 224,
+					"__h": 247
+				},
+				"7": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/1",
+					"__w": 224,
+					"__h": 247
+				},
+				"8": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/8",
+					"__w": 224,
+					"__h": 247
+				},
+				"9": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/9",
+					"__w": 224,
+					"__h": 247
+				},
+				"10": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/universe/14/10",
+					"__w": 224,
+					"__h": 247
+				},
+				"11": {
+					"origin": {
+						"x": 164,
+						"y": 108
+					},
+					"z": 0,
+					"delay": 3000,
+					"": "/Map/Obj/14thEvent/ani/universe/14/11",
+					"__w": 224,
+					"__h": 247
+				}
+			}
+		},
+		"ufo": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/0",
+					"__w": 123,
+					"__h": 137
+				},
+				"1": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/1",
+					"__w": 123,
+					"__h": 137
+				},
+				"2": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/2",
+					"__w": 123,
+					"__h": 137
+				},
+				"3": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/3",
+					"__w": 123,
+					"__h": 137
+				},
+				"4": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/4",
+					"__w": 123,
+					"__h": 137
+				},
+				"5": {
+					"origin": {
+						"x": 58,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/ufo/0/5",
+					"__w": 123,
+					"__h": 137
+				}
+			}
+		},
+		"terraCoreFace": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 157,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 5000,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/0",
+					"__w": 320,
+					"__h": 140
+				},
+				"1": {
+					"origin": {
+						"x": 157,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/1",
+					"__w": 320,
+					"__h": 119
+				},
+				"2": {
+					"origin": {
+						"x": 156,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/2",
+					"__w": 319,
+					"__h": 119
+				},
+				"3": {
+					"origin": {
+						"x": 157,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/3",
+					"__w": 320,
+					"__h": 119
+				},
+				"4": {
+					"origin": {
+						"x": 157,
+						"y": 62
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/4",
+					"__w": 320,
+					"__h": 149
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 156,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/0",
+					"__w": 319,
+					"__h": 118
+				},
+				"1": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"2": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"3": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/3",
+					"__w": 319,
+					"__h": 182
+				},
+				"4": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/4",
+					"__w": 319,
+					"__h": 199
+				},
+				"5": {
+					"origin": {
+						"x": 156,
+						"y": 106
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/5",
+					"__w": 319,
+					"__h": 199
+				},
+				"6": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/6",
+					"__w": 319,
+					"__h": 199
+				},
+				"7": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/7",
+					"__w": 319,
+					"__h": 182
+				},
+				"8": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"9": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"10": {
+					"origin": {
+						"x": 156,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/0",
+					"__w": 319,
+					"__h": 118
+				},
+				"11": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"12": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"13": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/3",
+					"__w": 319,
+					"__h": 182
+				},
+				"14": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/4",
+					"__w": 319,
+					"__h": 199
+				},
+				"15": {
+					"origin": {
+						"x": 156,
+						"y": 106
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/5",
+					"__w": 319,
+					"__h": 199
+				},
+				"16": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/6",
+					"__w": 319,
+					"__h": 199
+				},
+				"17": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/7",
+					"__w": 319,
+					"__h": 182
+				},
+				"18": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"19": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"20": {
+					"origin": {
+						"x": 156,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/0",
+					"__w": 319,
+					"__h": 118
+				},
+				"21": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"22": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"23": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/3",
+					"__w": 319,
+					"__h": 182
+				},
+				"24": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/4",
+					"__w": 319,
+					"__h": 199
+				},
+				"25": {
+					"origin": {
+						"x": 156,
+						"y": 106
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/5",
+					"__w": 319,
+					"__h": 199
+				},
+				"26": {
+					"origin": {
+						"x": 156,
+						"y": 100
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/6",
+					"__w": 319,
+					"__h": 199
+				},
+				"27": {
+					"origin": {
+						"x": 156,
+						"y": 89
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/7",
+					"__w": 319,
+					"__h": 182
+				},
+				"28": {
+					"origin": {
+						"x": 156,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/2",
+					"__w": 319,
+					"__h": 166
+				},
+				"29": {
+					"origin": {
+						"x": 156,
+						"y": 56
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/1/1",
+					"__w": 319,
+					"__h": 142
+				},
+				"30": {
+					"origin": {
+						"x": 156,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/2",
+					"__w": 319,
+					"__h": 119
+				},
+				"31": {
+					"origin": {
+						"x": 157,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/3",
+					"__w": 320,
+					"__h": 119
+				},
+				"32": {
+					"origin": {
+						"x": 157,
+						"y": 62
+					},
+					"z": 0,
+					"delay": 1200,
+					"": "/Map/Obj/14thEvent/ani/terraCoreFace/0/4",
+					"__w": 320,
+					"__h": 149
+				}
+			}
+		},
+		"terraEffectAni": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 79,
+						"y": 748
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/0",
+					"__w": 174,
+					"__h": 176
+				},
+				"1": {
+					"origin": {
+						"x": 100,
+						"y": 755
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/1",
+					"__w": 212,
+					"__h": 192
+				},
+				"2": {
+					"origin": {
+						"x": 106,
+						"y": 768
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/2",
+					"__w": 219,
+					"__h": 212
+				},
+				"3": {
+					"origin": {
+						"x": 110,
+						"y": 770
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/3",
+					"__w": 224,
+					"__h": 216
+				},
+				"4": {
+					"origin": {
+						"x": 110,
+						"y": 771
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/4",
+					"__w": 225,
+					"__h": 218
+				},
+				"5": {
+					"origin": {
+						"x": 112,
+						"y": 772
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/5",
+					"__w": 201,
+					"__h": 220
+				},
+				"6": {
+					"origin": {
+						"x": 76,
+						"y": 749
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/6",
+					"__w": 152,
+					"__h": 195
+				},
+				"7": {
+					"origin": {
+						"x": 15,
+						"y": 749
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/7",
+					"__w": 31,
+					"__h": 51
+				},
+				"8": {
+					"origin": {
+						"x": 13,
+						"y": 748
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/8",
+					"__w": 28,
+					"__h": 52
+				},
+				"9": {
+					"origin": {
+						"x": 15,
+						"y": 743
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/9",
+					"__w": 31,
+					"__h": 51
+				},
+				"10": {
+					"origin": {
+						"x": 18,
+						"y": 709
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/10",
+					"__w": 38,
+					"__h": 51
+				},
+				"11": {
+					"origin": {
+						"x": 326,
+						"y": 791
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/11",
+					"__w": 651,
+					"__h": 282
+				},
+				"12": {
+					"origin": {
+						"x": 345,
+						"y": 852
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/12",
+					"__w": 617,
+					"__h": 365
+				},
+				"13": {
+					"origin": {
+						"x": 420,
+						"y": 903
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/13",
+					"__w": 760,
+					"__h": 423
+				},
+				"14": {
+					"origin": {
+						"x": 423,
+						"y": 886
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/14",
+					"__w": 789,
+					"__h": 407
+				},
+				"15": {
+					"origin": {
+						"x": 293,
+						"y": 904
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/15",
+					"__w": 716,
+					"__h": 424
+				},
+				"16": {
+					"origin": {
+						"x": 265,
+						"y": 891
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/16",
+					"__w": 564,
+					"__h": 373
+				},
+				"17": {
+					"origin": {
+						"x": 229,
+						"y": 709
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/17",
+					"__w": 460,
+					"__h": 195
+				},
+				"18": {
+					"origin": {
+						"x": 95,
+						"y": 690
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/18",
+					"__w": 207,
+					"__h": 175
+				},
+				"19": {
+					"origin": {
+						"x": 95,
+						"y": 690
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/0/18",
+					"__w": 207,
+					"__h": 175
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/0",
+					"__w": 1,
+					"__h": 1
+				},
+				"1": {
+					"origin": {
+						"x": 277,
+						"y": 874
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/1",
+					"__w": 537,
+					"__h": 528
+				},
+				"2": {
+					"origin": {
+						"x": 257,
+						"y": 832
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/2",
+					"__w": 506,
+					"__h": 408
+				},
+				"3": {
+					"origin": {
+						"x": 243,
+						"y": 788
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/3",
+					"__w": 490,
+					"__h": 265
+				},
+				"4": {
+					"origin": {
+						"x": 239,
+						"y": 727
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/4",
+					"__w": 482,
+					"__h": 210
+				},
+				"5": {
+					"origin": {
+						"x": 238,
+						"y": 750
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/5",
+					"__w": 480,
+					"__h": 224
+				},
+				"6": {
+					"origin": {
+						"x": 191,
+						"y": 750
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/6",
+					"__w": 383,
+					"__h": 194
+				},
+				"7": {
+					"origin": {
+						"x": 192,
+						"y": 741
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/7",
+					"__w": 385,
+					"__h": 179
+				},
+				"8": {
+					"origin": {
+						"x": 191,
+						"y": 724
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/terraEffectAni/1/8",
+					"__w": 383,
+					"__h": 157
+				}
+			}
+		},
+		"WagulApt": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/0",
+					"__w": 116,
+					"__h": 142
+				},
+				"1": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/1",
+					"__w": 116,
+					"__h": 142
+				},
+				"2": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/2",
+					"__w": 116,
+					"__h": 142
+				},
+				"3": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/1",
+					"__w": 116,
+					"__h": 142
+				},
+				"4": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/0",
+					"__w": 116,
+					"__h": 142
+				},
+				"5": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/5",
+					"__w": 116,
+					"__h": 142
+				},
+				"6": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/6",
+					"__w": 116,
+					"__h": 142
+				},
+				"7": {
+					"origin": {
+						"x": 57,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/0/5",
+					"__w": 116,
+					"__h": 142
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 71,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/0",
+					"__w": 145,
+					"__h": 92
+				},
+				"1": {
+					"origin": {
+						"x": 72,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/1",
+					"__w": 145,
+					"__h": 91
+				},
+				"2": {
+					"origin": {
+						"x": 71,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/2",
+					"__w": 144,
+					"__h": 89
+				},
+				"3": {
+					"origin": {
+						"x": 70,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/3",
+					"__w": 143,
+					"__h": 90
+				},
+				"4": {
+					"origin": {
+						"x": 69,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/4",
+					"__w": 141,
+					"__h": 91
+				},
+				"5": {
+					"origin": {
+						"x": 69,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/5",
+					"__w": 142,
+					"__h": 91
+				},
+				"6": {
+					"origin": {
+						"x": 70,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/6",
+					"__w": 142,
+					"__h": 92
+				},
+				"7": {
+					"origin": {
+						"x": 70,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/1/7",
+					"__w": 143,
+					"__h": 91
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 68
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/2/0",
+					"__w": 61,
+					"__h": 68
+				},
+				"1": {
+					"origin": {
+						"x": 31,
+						"y": 68
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/2/1",
+					"__w": 62,
+					"__h": 68
+				},
+				"2": {
+					"origin": {
+						"x": 31,
+						"y": 68
+					},
+					"z": 0,
+					"delay": 210,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/2/2",
+					"__w": 64,
+					"__h": 68
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 68
+					},
+					"z": 0,
+					"delay": 600,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/2/3",
+					"__w": 64,
+					"__h": 68
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 1,
+						"y": 144
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/0",
+					"__w": 50,
+					"__h": 107
+				},
+				"1": {
+					"origin": {
+						"x": 1,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/1",
+					"__w": 50,
+					"__h": 105
+				},
+				"2": {
+					"origin": {
+						"x": 7,
+						"y": 141
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/2",
+					"__w": 62,
+					"__h": 104
+				},
+				"3": {
+					"origin": {
+						"x": 7,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/3",
+					"__w": 62,
+					"__h": 105
+				},
+				"4": {
+					"origin": {
+						"x": 1,
+						"y": 144
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/4",
+					"__w": 50,
+					"__h": 107
+				},
+				"5": {
+					"origin": {
+						"x": 1,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/5",
+					"__w": 50,
+					"__h": 105
+				},
+				"6": {
+					"origin": {
+						"x": 7,
+						"y": 141
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/6",
+					"__w": 62,
+					"__h": 104
+				},
+				"7": {
+					"origin": {
+						"x": 7,
+						"y": 142
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/3/7",
+					"__w": 62,
+					"__h": 105
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 10,
+						"y": 92
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/4/0",
+					"__w": 77,
+					"__h": 61
+				},
+				"1": {
+					"origin": {
+						"x": 10,
+						"y": 92
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/4/1",
+					"__w": 77,
+					"__h": 61
+				},
+				"2": {
+					"origin": {
+						"x": 14,
+						"y": 96
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/4/2",
+					"__w": 75,
+					"__h": 65
+				},
+				"3": {
+					"origin": {
+						"x": 14,
+						"y": 96
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/14thEvent/ani/WagulApt/4/3",
+					"__w": 75,
+					"__h": 65
+				}
+			}
+		}
+	}
+}

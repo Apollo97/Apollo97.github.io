@@ -1,0 +1,26 @@
+{
+	"info": {
+		"dcLeft": -60,
+		"dcTop": -90,
+		"dcRight": 60,
+		"dcBottom": 0,
+		"script": {
+			"0": {
+				"script": "victoria_taxi"
+			}
+		}
+	},
+	"stand": {
+		"0": {
+			"origin": {
+				"x": 61,
+				"y": 88
+			},
+			"z": 0,
+			"delay": 5000,
+			"": "/Npc/1012000/stand/0",
+			"__w": 127,
+			"__h": 88
+		}
+	}
+}

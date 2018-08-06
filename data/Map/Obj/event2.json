@@ -1,0 +1,6783 @@
+{
+	"5000thDay": {
+		"cakeObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 169,
+						"y": 263
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/0/0",
+					"__w": 357,
+					"__h": 264
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 123,
+						"y": 107
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/1/0",
+					"__w": 239,
+					"__h": 73
+				},
+				"1": {
+					"origin": {
+						"x": 122,
+						"y": 106
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/1/1",
+					"__w": 238,
+					"__h": 72
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 112,
+						"y": 127
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/2/0",
+					"__w": 220,
+					"__h": 67
+				},
+				"1": {
+					"origin": {
+						"x": 111,
+						"y": 126
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/2/1",
+					"__w": 219,
+					"__h": 66
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 147
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/3/0",
+					"__w": 195,
+					"__h": 64
+				},
+				"1": {
+					"origin": {
+						"x": 100,
+						"y": 146
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/3/1",
+					"__w": 195,
+					"__h": 63
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 92,
+						"y": 171
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/4/0",
+					"__w": 181,
+					"__h": 71
+				},
+				"1": {
+					"origin": {
+						"x": 91,
+						"y": 170
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/4/1",
+					"__w": 180,
+					"__h": 70
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 190
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/5/0",
+					"__w": 158,
+					"__h": 65
+				},
+				"1": {
+					"origin": {
+						"x": 78,
+						"y": 189
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/5/1",
+					"__w": 158,
+					"__h": 64
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 76,
+						"y": 212
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/6/0",
+					"__w": 149,
+					"__h": 68
+				},
+				"1": {
+					"origin": {
+						"x": 75,
+						"y": 211
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/6/1",
+					"__w": 148,
+					"__h": 67
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 65,
+						"y": 242
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/7/0",
+					"__w": 127,
+					"__h": 77
+				},
+				"1": {
+					"origin": {
+						"x": 64,
+						"y": 241
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/7/1",
+					"__w": 126,
+					"__h": 76
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 262
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/8/0",
+					"__w": 101,
+					"__h": 64
+				},
+				"1": {
+					"origin": {
+						"x": 53,
+						"y": 261
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/8/1",
+					"__w": 101,
+					"__h": 63
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 282
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/9/0",
+					"__w": 82,
+					"__h": 65
+				},
+				"1": {
+					"origin": {
+						"x": 42,
+						"y": 281
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/9/1",
+					"__w": 82,
+					"__h": 64
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 316
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/10/0",
+					"__w": 90,
+					"__h": 81
+				},
+				"1": {
+					"origin": {
+						"x": 48,
+						"y": 315
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/cakeObj/10/1",
+					"__w": 89,
+					"__h": 80
+				}
+			}
+		},
+		"partyObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 498,
+						"y": 320
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/0/0",
+					"__w": 222,
+					"__h": 325
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 276,
+						"y": 217
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/1/0",
+					"__w": 307,
+					"__h": 221
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": -31,
+						"y": 217
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/2/0",
+					"__w": 309,
+					"__h": 221
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": -340,
+						"y": 327
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/3/0",
+					"__w": 251,
+					"__h": 331
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 335,
+						"y": 194
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/4/0",
+					"__w": 192,
+					"__h": 204
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 143,
+						"y": 200
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/5/0",
+					"__w": 276,
+					"__h": 210
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": -133,
+						"y": 194
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/6/0",
+					"__w": 276,
+					"__h": 204
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": -409,
+						"y": 194
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/7/0",
+					"__w": 194,
+					"__h": 204
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 100
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/8/0",
+					"__w": 109,
+					"__h": 101
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 140
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/9/0",
+					"__w": 129,
+					"__h": 141
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 96
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/10/0",
+					"__w": 68,
+					"__h": 97
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 99,
+						"y": 168
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/11/0",
+					"__w": 213,
+					"__h": 172
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 191,
+						"y": 205
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/12/0",
+					"__w": 372,
+					"__h": 211
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 13,
+						"y": 236
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/13/0",
+					"__w": 45,
+					"__h": 46
+				},
+				"1": {
+					"origin": {
+						"x": 11,
+						"y": 234
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/13/1",
+					"__w": 41,
+					"__h": 42
+				},
+				"2": {
+					"origin": {
+						"x": 13,
+						"y": 236
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/13/2",
+					"__w": 45,
+					"__h": 46
+				},
+				"3": {
+					"origin": {
+						"x": 15,
+						"y": 238
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/13/3",
+					"__w": 49,
+					"__h": 49
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 154,
+						"y": 119
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/0",
+					"__w": 279,
+					"__h": 123
+				},
+				"1": {
+					"origin": {
+						"x": 154,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/1",
+					"__w": 279,
+					"__h": 120
+				},
+				"2": {
+					"origin": {
+						"x": 154,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/2",
+					"__w": 279,
+					"__h": 126
+				},
+				"3": {
+					"origin": {
+						"x": 154,
+						"y": 157
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/3",
+					"__w": 279,
+					"__h": 161
+				},
+				"4": {
+					"origin": {
+						"x": 154,
+						"y": 180
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/4",
+					"__w": 279,
+					"__h": 184
+				},
+				"5": {
+					"origin": {
+						"x": 154,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/5",
+					"__w": 279,
+					"__h": 120
+				},
+				"6": {
+					"origin": {
+						"x": 154,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/6",
+					"__w": 279,
+					"__h": 120
+				},
+				"7": {
+					"origin": {
+						"x": 154,
+						"y": 119
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/7",
+					"__w": 279,
+					"__h": 123
+				},
+				"8": {
+					"origin": {
+						"x": 154,
+						"y": 119
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyObj/14/8",
+					"__w": 279,
+					"__h": 123
+				}
+			}
+		},
+		"snowBall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 127,
+						"y": 151
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/0/0",
+					"__w": 250,
+					"__h": 152
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 94,
+						"y": 101
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/0",
+					"__w": 184,
+					"__h": 87
+				},
+				"1": {
+					"origin": {
+						"x": 102,
+						"y": 128
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/1",
+					"__w": 199,
+					"__h": 114
+				},
+				"2": {
+					"origin": {
+						"x": 112,
+						"y": 141
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/2",
+					"__w": 214,
+					"__h": 136
+				},
+				"3": {
+					"origin": {
+						"x": 123,
+						"y": 149
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/3",
+					"__w": 237,
+					"__h": 144
+				},
+				"4": {
+					"origin": {
+						"x": 125,
+						"y": 152
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/4",
+					"__w": 239,
+					"__h": 147
+				},
+				"5": {
+					"origin": {
+						"x": 125,
+						"y": 153
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/5",
+					"__w": 237,
+					"__h": 144
+				},
+				"6": {
+					"origin": {
+						"x": 108,
+						"y": 128
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/1/6",
+					"__w": 216,
+					"__h": 117
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 132,
+						"y": 167
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/snowBall/2/0",
+					"__w": 287,
+					"__h": 169
+				}
+			}
+		},
+		"partyBack": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 125,
+						"y": 137
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/0",
+					"__w": 256,
+					"__h": 211
+				},
+				"1": {
+					"origin": {
+						"x": 126,
+						"y": 136
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/1",
+					"__w": 258,
+					"__h": 211
+				},
+				"2": {
+					"origin": {
+						"x": 125,
+						"y": 135
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/2",
+					"__w": 258,
+					"__h": 211
+				},
+				"3": {
+					"origin": {
+						"x": 124,
+						"y": 136
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/3",
+					"__w": 256,
+					"__h": 211
+				},
+				"4": {
+					"origin": {
+						"x": 123,
+						"y": 137
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/4",
+					"__w": 254,
+					"__h": 211
+				},
+				"5": {
+					"origin": {
+						"x": 124,
+						"y": 138
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/0/5",
+					"__w": 254,
+					"__h": 211
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 65,
+						"y": 70
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/0",
+					"__w": 132,
+					"__h": 257
+				},
+				"1": {
+					"origin": {
+						"x": 65,
+						"y": 71
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/1",
+					"__w": 132,
+					"__h": 257
+				},
+				"2": {
+					"origin": {
+						"x": 65,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/2",
+					"__w": 132,
+					"__h": 256
+				},
+				"3": {
+					"origin": {
+						"x": 65,
+						"y": 73
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/1",
+					"__w": 132,
+					"__h": 257
+				},
+				"4": {
+					"origin": {
+						"x": 65,
+						"y": 74
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/4",
+					"__w": 132,
+					"__h": 257
+				},
+				"5": {
+					"origin": {
+						"x": 65,
+						"y": 73
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/1",
+					"__w": 132,
+					"__h": 257
+				},
+				"6": {
+					"origin": {
+						"x": 65,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/2",
+					"__w": 132,
+					"__h": 256
+				},
+				"7": {
+					"origin": {
+						"x": 65,
+						"y": 71
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/1/7",
+					"__w": 132,
+					"__h": 257
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 65,
+						"y": 75
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/0",
+					"__w": 132,
+					"__h": 257
+				},
+				"1": {
+					"origin": {
+						"x": 65,
+						"y": 74
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/1",
+					"__w": 132,
+					"__h": 256
+				},
+				"2": {
+					"origin": {
+						"x": 65,
+						"y": 73
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/2",
+					"__w": 132,
+					"__h": 257
+				},
+				"3": {
+					"origin": {
+						"x": 65,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/3",
+					"__w": 132,
+					"__h": 256
+				},
+				"4": {
+					"origin": {
+						"x": 65,
+						"y": 71
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/0",
+					"__w": 132,
+					"__h": 257
+				},
+				"5": {
+					"origin": {
+						"x": 65,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/1",
+					"__w": 132,
+					"__h": 256
+				},
+				"6": {
+					"origin": {
+						"x": 65,
+						"y": 73
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/2",
+					"__w": 132,
+					"__h": 257
+				},
+				"7": {
+					"origin": {
+						"x": 65,
+						"y": 74
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/2/1",
+					"__w": 132,
+					"__h": 256
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 91,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/0",
+					"__w": 185,
+					"__h": 154
+				},
+				"1": {
+					"origin": {
+						"x": 92,
+						"y": 96
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/1",
+					"__w": 187,
+					"__h": 154
+				},
+				"2": {
+					"origin": {
+						"x": 91,
+						"y": 95
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/2",
+					"__w": 187,
+					"__h": 153
+				},
+				"3": {
+					"origin": {
+						"x": 90,
+						"y": 96
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/3",
+					"__w": 185,
+					"__h": 154
+				},
+				"4": {
+					"origin": {
+						"x": 89,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/4",
+					"__w": 183,
+					"__h": 154
+				},
+				"5": {
+					"origin": {
+						"x": 90,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/3/5",
+					"__w": 184,
+					"__h": 153
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 36,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/0",
+					"__w": 72,
+					"__h": 134
+				},
+				"1": {
+					"origin": {
+						"x": 36,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/1",
+					"__w": 72,
+					"__h": 133
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/2",
+					"__w": 72,
+					"__h": 133
+				},
+				"3": {
+					"origin": {
+						"x": 36,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/3",
+					"__w": 72,
+					"__h": 132
+				},
+				"4": {
+					"origin": {
+						"x": 36,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/4",
+					"__w": 72,
+					"__h": 131
+				},
+				"5": {
+					"origin": {
+						"x": 36,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/3",
+					"__w": 72,
+					"__h": 132
+				},
+				"6": {
+					"origin": {
+						"x": 36,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/2",
+					"__w": 72,
+					"__h": 133
+				},
+				"7": {
+					"origin": {
+						"x": 36,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/4/1",
+					"__w": 72,
+					"__h": 133
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/0",
+					"__w": 72,
+					"__h": 134
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/1",
+					"__w": 72,
+					"__h": 134
+				},
+				"2": {
+					"origin": {
+						"x": 34,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/2",
+					"__w": 72,
+					"__h": 133
+				},
+				"3": {
+					"origin": {
+						"x": 34,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/3",
+					"__w": 72,
+					"__h": 134
+				},
+				"4": {
+					"origin": {
+						"x": 34,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/4",
+					"__w": 72,
+					"__h": 134
+				},
+				"5": {
+					"origin": {
+						"x": 34,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/3",
+					"__w": 72,
+					"__h": 134
+				},
+				"6": {
+					"origin": {
+						"x": 34,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/2",
+					"__w": 72,
+					"__h": 133
+				},
+				"7": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/5000thDay/partyBack/5/3",
+					"__w": 72,
+					"__h": 134
+				}
+			}
+		}
+	},
+	"BEYOND": {
+		"Stage": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 141,
+						"y": -80
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/0/0",
+					"__w": 280,
+					"__h": 43
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 132,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/0",
+					"__w": 266,
+					"__h": 104
+				},
+				"1": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/1",
+					"__w": 266,
+					"__h": 41
+				},
+				"2": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/2",
+					"__w": 266,
+					"__h": 41
+				},
+				"3": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/3",
+					"__w": 266,
+					"__h": 41
+				},
+				"4": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/4",
+					"__w": 266,
+					"__h": 41
+				},
+				"5": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/5",
+					"__w": 266,
+					"__h": 41
+				},
+				"6": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/6",
+					"__w": 266,
+					"__h": 41
+				},
+				"7": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/7",
+					"__w": 266,
+					"__h": 41
+				},
+				"8": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/8",
+					"__w": 266,
+					"__h": 41
+				},
+				"9": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/9",
+					"__w": 266,
+					"__h": 41
+				},
+				"10": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/10",
+					"__w": 266,
+					"__h": 41
+				},
+				"11": {
+					"origin": {
+						"x": 132,
+						"y": -63
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/1/11",
+					"__w": 266,
+					"__h": 41
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 139,
+						"y": -39
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/BEYOND/Stage/2/0",
+					"__w": 278,
+					"__h": 57
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/0",
+					"__w": 219,
+					"__h": 115
+				},
+				"1": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/1",
+					"__w": 219,
+					"__h": 115
+				},
+				"2": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/2",
+					"__w": 219,
+					"__h": 115
+				},
+				"3": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/3",
+					"__w": 219,
+					"__h": 115
+				},
+				"4": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/4",
+					"__w": 219,
+					"__h": 115
+				},
+				"5": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/5",
+					"__w": 219,
+					"__h": 115
+				},
+				"6": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/6",
+					"__w": 219,
+					"__h": 115
+				},
+				"7": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/7",
+					"__w": 219,
+					"__h": 115
+				},
+				"8": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/8",
+					"__w": 219,
+					"__h": 115
+				},
+				"9": {
+					"origin": {
+						"x": 111,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/3/9",
+					"__w": 219,
+					"__h": 115
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 103,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/4/0",
+					"__w": 203,
+					"__h": 155
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/0",
+					"__w": 174,
+					"__h": 255
+				},
+				"1": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/1",
+					"__w": 174,
+					"__h": 255
+				},
+				"2": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/2",
+					"__w": 174,
+					"__h": 255
+				},
+				"3": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/3",
+					"__w": 174,
+					"__h": 255
+				},
+				"4": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/4",
+					"__w": 174,
+					"__h": 255
+				},
+				"5": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/5",
+					"__w": 174,
+					"__h": 255
+				},
+				"6": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/6",
+					"__w": 174,
+					"__h": 255
+				},
+				"7": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/7",
+					"__w": 174,
+					"__h": 255
+				},
+				"8": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/8",
+					"__w": 174,
+					"__h": 255
+				},
+				"9": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/9",
+					"__w": 174,
+					"__h": 255
+				},
+				"10": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/10",
+					"__w": 174,
+					"__h": 255
+				},
+				"11": {
+					"origin": {
+						"x": 249,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/5/11",
+					"__w": 174,
+					"__h": 255
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 159,
+						"y": 217
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/6/0",
+					"__w": 315,
+					"__h": 161
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 75,
+						"y": 69
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/BEYOND/Stage/8/0",
+					"__w": 139,
+					"__h": 97
+				}
+			}
+		}
+	},
+	"2017NewYear": {
+		"HsnowObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 163,
+						"y": 182
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/HsnowObj/0/0",
+					"__w": 329,
+					"__h": 311
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 163,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/HsnowObj/1/0",
+					"__w": 350,
+					"__h": 274
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 360,
+						"y": 204
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/HsnowObj/2/0",
+					"__w": 669,
+					"__h": 377
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 335,
+						"y": 346
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/HsnowObj/3/0",
+					"__w": 601,
+					"__h": 646
+				}
+			}
+		},
+		"LsnowObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/0/0",
+					"__w": 122,
+					"__h": 26
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 127,
+						"y": 107
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/1/0",
+					"__w": 243,
+					"__h": 192
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 7
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/2/0",
+					"__w": 43,
+					"__h": 21
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 211,
+						"y": 173
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/3/0",
+					"__w": 397,
+					"__h": 280
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 100,
+						"y": 118
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/4/0",
+					"__w": 177,
+					"__h": 234
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 120,
+						"y": 85
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/5/0",
+					"__w": 223,
+					"__h": 151
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 171,
+						"y": 246
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/6/0",
+					"__w": 325,
+					"__h": 473
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 152,
+						"y": 79
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/7/0",
+					"__w": 291,
+					"__h": 163
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 458,
+						"y": 114
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/8/0",
+					"__w": 752,
+					"__h": 220
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 262,
+						"y": 257
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/9/0",
+					"__w": 487,
+					"__h": 396
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 103,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/10/0",
+					"__w": 207,
+					"__h": 68
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 206,
+						"y": 253
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/LsnowObj/11/0",
+					"__w": 526,
+					"__h": 444
+				}
+			}
+		},
+		"NewYearObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 102,
+						"y": 79
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/0",
+					"__w": 219,
+					"__h": 108
+				},
+				"1": {
+					"origin": {
+						"x": 102,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/1",
+					"__w": 219,
+					"__h": 111
+				},
+				"2": {
+					"origin": {
+						"x": 102,
+						"y": 84
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/2",
+					"__w": 219,
+					"__h": 113
+				},
+				"3": {
+					"origin": {
+						"x": 102,
+						"y": 109
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/3",
+					"__w": 219,
+					"__h": 138
+				},
+				"4": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/4",
+					"__w": 219,
+					"__h": 137
+				},
+				"5": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/5",
+					"__w": 219,
+					"__h": 137
+				},
+				"6": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/6",
+					"__w": 219,
+					"__h": 137
+				},
+				"7": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/7",
+					"__w": 219,
+					"__h": 137
+				},
+				"8": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/6",
+					"__w": 219,
+					"__h": 137
+				},
+				"9": {
+					"origin": {
+						"x": 102,
+						"y": 108
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/6",
+					"__w": 219,
+					"__h": 137
+				},
+				"10": {
+					"origin": {
+						"x": 102,
+						"y": 78
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/10",
+					"__w": 219,
+					"__h": 107
+				},
+				"11": {
+					"origin": {
+						"x": 102,
+						"y": 79
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/11",
+					"__w": 219,
+					"__h": 108
+				},
+				"12": {
+					"origin": {
+						"x": 102,
+						"y": 78
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/12",
+					"__w": 219,
+					"__h": 107
+				},
+				"13": {
+					"origin": {
+						"x": 102,
+						"y": 78
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/13",
+					"__w": 219,
+					"__h": 107
+				},
+				"14": {
+					"origin": {
+						"x": 102,
+						"y": 78
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/0/14",
+					"__w": 219,
+					"__h": 107
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 237,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/0",
+					"__w": 433,
+					"__h": 203
+				},
+				"1": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/1",
+					"__w": 418,
+					"__h": 203
+				},
+				"2": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/2",
+					"__w": 418,
+					"__h": 203
+				},
+				"3": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/3",
+					"__w": 418,
+					"__h": 203
+				},
+				"4": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/4",
+					"__w": 418,
+					"__h": 203
+				},
+				"5": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/5",
+					"__w": 418,
+					"__h": 203
+				},
+				"6": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/6",
+					"__w": 418,
+					"__h": 203
+				},
+				"7": {
+					"origin": {
+						"x": 222,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/7",
+					"__w": 418,
+					"__h": 203
+				},
+				"8": {
+					"origin": {
+						"x": 223,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/8",
+					"__w": 419,
+					"__h": 203
+				},
+				"9": {
+					"origin": {
+						"x": 233,
+						"y": 174
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/1/9",
+					"__w": 429,
+					"__h": 203
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/0",
+					"__w": 346,
+					"__h": 146
+				},
+				"1": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/1",
+					"__w": 346,
+					"__h": 146
+				},
+				"2": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/2",
+					"__w": 346,
+					"__h": 146
+				},
+				"3": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/3",
+					"__w": 346,
+					"__h": 146
+				},
+				"4": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/4",
+					"__w": 346,
+					"__h": 146
+				},
+				"5": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/5",
+					"__w": 346,
+					"__h": 146
+				},
+				"6": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/6",
+					"__w": 346,
+					"__h": 146
+				},
+				"7": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/7",
+					"__w": 346,
+					"__h": 146
+				},
+				"8": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/8",
+					"__w": 346,
+					"__h": 146
+				},
+				"9": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/9",
+					"__w": 346,
+					"__h": 146
+				},
+				"10": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/10",
+					"__w": 346,
+					"__h": 146
+				},
+				"11": {
+					"origin": {
+						"x": 203,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/2/11",
+					"__w": 346,
+					"__h": 146
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 141
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/0",
+					"__w": 169,
+					"__h": 168
+				},
+				"1": {
+					"origin": {
+						"x": 42,
+						"y": 138
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/1",
+					"__w": 169,
+					"__h": 165
+				},
+				"2": {
+					"origin": {
+						"x": 42,
+						"y": 136
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/2",
+					"__w": 169,
+					"__h": 163
+				},
+				"3": {
+					"origin": {
+						"x": 42,
+						"y": 134
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/3",
+					"__w": 171,
+					"__h": 161
+				},
+				"4": {
+					"origin": {
+						"x": 42,
+						"y": 134
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/4",
+					"__w": 169,
+					"__h": 161
+				},
+				"5": {
+					"origin": {
+						"x": 42,
+						"y": 134
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/5",
+					"__w": 169,
+					"__h": 161
+				},
+				"6": {
+					"origin": {
+						"x": 42,
+						"y": 136
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/6",
+					"__w": 169,
+					"__h": 163
+				},
+				"7": {
+					"origin": {
+						"x": 42,
+						"y": 138
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/3/7",
+					"__w": 169,
+					"__h": 165
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 112,
+						"y": 171
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/4/0",
+					"__w": 433,
+					"__h": 330
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 177,
+						"y": 117
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/5/0",
+					"__w": 322,
+					"__h": 174
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 116,
+						"y": 71
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/6/0",
+					"__w": 304,
+					"__h": 86
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 172,
+						"y": -21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/7/0",
+					"__w": 346,
+					"__h": 35
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 117,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/0",
+					"__w": 233,
+					"__h": 72
+				},
+				"1": {
+					"origin": {
+						"x": 117,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/1",
+					"__w": 233,
+					"__h": 71
+				},
+				"2": {
+					"origin": {
+						"x": 117,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/2",
+					"__w": 232,
+					"__h": 70
+				},
+				"3": {
+					"origin": {
+						"x": 116,
+						"y": 45
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/3",
+					"__w": 231,
+					"__h": 68
+				},
+				"4": {
+					"origin": {
+						"x": 116,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/4",
+					"__w": 231,
+					"__h": 64
+				},
+				"5": {
+					"origin": {
+						"x": 116,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/8/5",
+					"__w": 231,
+					"__h": 55
+				},
+				"6": {
+					"origin": {
+						"x": 116,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/8/6",
+					"__w": 231,
+					"__h": 53
+				},
+				"7": {
+					"origin": {
+						"x": 116,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/8/7",
+					"__w": 231,
+					"__h": 53
+				},
+				"8": {
+					"origin": {
+						"x": 117,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/8",
+					"__w": 232,
+					"__h": 57
+				},
+				"9": {
+					"origin": {
+						"x": 117,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/event/2011newYear/homeTown/9/9",
+					"__w": 233,
+					"__h": 70
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 198,
+						"y": 87
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/9/0",
+					"__w": 382,
+					"__h": 144
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 86,
+						"y": 47
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/10/0",
+					"__w": 169,
+					"__h": 85
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 72,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/11/0",
+					"__w": 146,
+					"__h": 55
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 123,
+						"y": 41
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/12/0",
+					"__w": 254,
+					"__h": 73
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 84,
+						"y": 56
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/13/0",
+					"__w": 162,
+					"__h": 94
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 238,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/14/0",
+					"__w": 471,
+					"__h": 137
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 159,
+						"y": 187
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/15/0",
+					"__w": 324,
+					"__h": 274
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 222,
+						"y": 151
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/16/0",
+					"__w": 405,
+					"__h": 248
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 156,
+						"y": 273
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/17/0",
+					"__w": 318,
+					"__h": 503
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 125,
+						"y": 87
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/18/0",
+					"__w": 237,
+					"__h": 128
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 198,
+						"y": 100
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/19/0",
+					"__w": 392,
+					"__h": 168
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 200,
+						"y": 68
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/20/0",
+					"__w": 21,
+					"__h": 121
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 169,
+						"y": 68
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/21/0",
+					"__w": 318,
+					"__h": 123
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": -159,
+						"y": 68
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NewYear/NewYearObj/22/0",
+					"__w": 30,
+					"__h": 123
+				}
+			}
+		}
+	},
+	"MapleClub": {
+		"Booth": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 195,
+						"y": 130
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/MapleClub/Booth/0/0",
+					"__w": 392,
+					"__h": 227
+				}
+			}
+		}
+	},
+	"2017NOVA": {
+		"fountainObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/0",
+					"__w": 62,
+					"__h": 67
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/1",
+					"__w": 84,
+					"__h": 83
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 87
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/2",
+					"__w": 67,
+					"__h": 88
+				},
+				"3": {
+					"origin": {
+						"x": 41,
+						"y": 95
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/3",
+					"__w": 85,
+					"__h": 96
+				},
+				"4": {
+					"origin": {
+						"x": 42,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/4",
+					"__w": 88,
+					"__h": 98
+				},
+				"5": {
+					"origin": {
+						"x": 43,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/5",
+					"__w": 91,
+					"__h": 98
+				},
+				"6": {
+					"origin": {
+						"x": 42,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/6",
+					"__w": 92,
+					"__h": 92
+				},
+				"7": {
+					"origin": {
+						"x": 34,
+						"y": 86
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/7",
+					"__w": 85,
+					"__h": 87
+				},
+				"8": {
+					"origin": {
+						"x": 35,
+						"y": 86
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/8",
+					"__w": 66,
+					"__h": 87
+				},
+				"9": {
+					"origin": {
+						"x": 40,
+						"y": 92
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/9",
+					"__w": 82,
+					"__h": 93
+				},
+				"10": {
+					"origin": {
+						"x": 41,
+						"y": 87
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/10",
+					"__w": 84,
+					"__h": 88
+				},
+				"11": {
+					"origin": {
+						"x": 5,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/11",
+					"__w": 12,
+					"__h": 22
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/0",
+					"__w": 62,
+					"__h": 91
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 102
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/1",
+					"__w": 84,
+					"__h": 103
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 112
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/2",
+					"__w": 67,
+					"__h": 113
+				},
+				"3": {
+					"origin": {
+						"x": 41,
+						"y": 120
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/3",
+					"__w": 85,
+					"__h": 121
+				},
+				"4": {
+					"origin": {
+						"x": 42,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/4",
+					"__w": 88,
+					"__h": 123
+				},
+				"5": {
+					"origin": {
+						"x": 43,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/5",
+					"__w": 91,
+					"__h": 123
+				},
+				"6": {
+					"origin": {
+						"x": 42,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/6",
+					"__w": 92,
+					"__h": 117
+				},
+				"7": {
+					"origin": {
+						"x": 34,
+						"y": 111
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/7",
+					"__w": 85,
+					"__h": 112
+				},
+				"8": {
+					"origin": {
+						"x": 35,
+						"y": 111
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/8",
+					"__w": 66,
+					"__h": 112
+				},
+				"9": {
+					"origin": {
+						"x": 40,
+						"y": 117
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/9",
+					"__w": 82,
+					"__h": 118
+				},
+				"10": {
+					"origin": {
+						"x": 44,
+						"y": 113
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/1/10",
+					"__w": 84,
+					"__h": 114
+				},
+				"11": {
+					"origin": {
+						"x": 5,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/0/11",
+					"__w": 12,
+					"__h": 22
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 114
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/0",
+					"__w": 62,
+					"__h": 116
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/1",
+					"__w": 85,
+					"__h": 123
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 132
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/2",
+					"__w": 67,
+					"__h": 140
+				},
+				"3": {
+					"origin": {
+						"x": 41,
+						"y": 140
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/3",
+					"__w": 85,
+					"__h": 148
+				},
+				"4": {
+					"origin": {
+						"x": 42,
+						"y": 142
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/4",
+					"__w": 88,
+					"__h": 150
+				},
+				"5": {
+					"origin": {
+						"x": 43,
+						"y": 142
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/5",
+					"__w": 91,
+					"__h": 150
+				},
+				"6": {
+					"origin": {
+						"x": 42,
+						"y": 136
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/6",
+					"__w": 92,
+					"__h": 144
+				},
+				"7": {
+					"origin": {
+						"x": 34,
+						"y": 131
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/7",
+					"__w": 85,
+					"__h": 139
+				},
+				"8": {
+					"origin": {
+						"x": 35,
+						"y": 131
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/8",
+					"__w": 66,
+					"__h": 135
+				},
+				"9": {
+					"origin": {
+						"x": 40,
+						"y": 127
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/9",
+					"__w": 82,
+					"__h": 128
+				},
+				"10": {
+					"origin": {
+						"x": 40,
+						"y": 117
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/10",
+					"__w": 84,
+					"__h": 118
+				},
+				"11": {
+					"origin": {
+						"x": 8,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/fountainObj/2/11",
+					"__w": 17,
+					"__h": 22
+				}
+			}
+		},
+		"waterSlideObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 162,
+						"y": 125
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/0/0",
+					"__w": 338,
+					"__h": 288
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/1/0",
+					"__w": 50,
+					"__h": 22
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/2/0",
+					"__w": 50,
+					"__h": 29
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/3/0",
+					"__w": 50,
+					"__h": 27
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 35,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/4/0",
+					"__w": 73,
+					"__h": 34
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/5/0",
+					"__w": 93,
+					"__h": 30
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/6/0",
+					"__w": 99,
+					"__h": 31
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/waterSlideObj/8/0",
+					"__w": 82,
+					"__h": 122
+				}
+			}
+		},
+		"splashObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 54,
+						"y": -13
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/0",
+					"__w": 41,
+					"__h": 11
+				},
+				"1": {
+					"origin": {
+						"x": 46,
+						"y": 1
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/1",
+					"__w": 72,
+					"__h": 26
+				},
+				"2": {
+					"origin": {
+						"x": 33,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/2",
+					"__w": 70,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 28,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/3",
+					"__w": 69,
+					"__h": 47
+				},
+				"4": {
+					"origin": {
+						"x": 15,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/4",
+					"__w": 56,
+					"__h": 46
+				},
+				"5": {
+					"origin": {
+						"x": 8,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/5",
+					"__w": 51,
+					"__h": 43
+				},
+				"6": {
+					"origin": {
+						"x": 5,
+						"y": 11
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/6",
+					"__w": 52,
+					"__h": 35
+				},
+				"7": {
+					"origin": {
+						"x": 2,
+						"y": -6
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/7",
+					"__w": 54,
+					"__h": 17
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": -7
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/0/8",
+					"__w": 43,
+					"__h": 16
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 15,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/0",
+					"__w": 31,
+					"__h": 32
+				},
+				"1": {
+					"origin": {
+						"x": 46,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/1",
+					"__w": 58,
+					"__h": 56
+				},
+				"2": {
+					"origin": {
+						"x": 37,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/2",
+					"__w": 76,
+					"__h": 58
+				},
+				"3": {
+					"origin": {
+						"x": 34,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/3",
+					"__w": 79,
+					"__h": 60
+				},
+				"4": {
+					"origin": {
+						"x": 25,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/4",
+					"__w": 70,
+					"__h": 57
+				},
+				"5": {
+					"origin": {
+						"x": 20,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/5",
+					"__w": 64,
+					"__h": 52
+				},
+				"6": {
+					"origin": {
+						"x": 19,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/6",
+					"__w": 56,
+					"__h": 47
+				},
+				"7": {
+					"origin": {
+						"x": 16,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/7",
+					"__w": 46,
+					"__h": 44
+				},
+				"8": {
+					"origin": {
+						"x": 14,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/splashObj/1/8",
+					"__w": 40,
+					"__h": 30
+				}
+			}
+		},
+		"parkObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 72,
+						"y": 215
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/0/0",
+					"__w": 145,
+					"__h": 215
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 75,
+						"y": 55
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/0",
+					"__w": 159,
+					"__h": 121
+				},
+				"1": {
+					"origin": {
+						"x": 77,
+						"y": 50
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/1",
+					"__w": 161,
+					"__h": 121
+				},
+				"2": {
+					"origin": {
+						"x": 77,
+						"y": 47
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/2",
+					"__w": 163,
+					"__h": 122
+				},
+				"3": {
+					"origin": {
+						"x": 77,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/3",
+					"__w": 164,
+					"__h": 123
+				},
+				"4": {
+					"origin": {
+						"x": 77,
+						"y": 53
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/4",
+					"__w": 163,
+					"__h": 124
+				},
+				"5": {
+					"origin": {
+						"x": 77,
+						"y": 50
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/5",
+					"__w": 161,
+					"__h": 124
+				},
+				"6": {
+					"origin": {
+						"x": 75,
+						"y": 49
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/6",
+					"__w": 159,
+					"__h": 123
+				},
+				"7": {
+					"origin": {
+						"x": 73,
+						"y": 49
+					},
+					"z": 0,
+					"delay": 180,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/1/7",
+					"__w": 158,
+					"__h": 122
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/0",
+					"__w": 191,
+					"__h": 147
+				},
+				"1": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/1",
+					"__w": 191,
+					"__h": 147
+				},
+				"2": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/2",
+					"__w": 191,
+					"__h": 147
+				},
+				"3": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/3",
+					"__w": 191,
+					"__h": 147
+				},
+				"4": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/4",
+					"__w": 191,
+					"__h": 147
+				},
+				"5": {
+					"origin": {
+						"x": 90,
+						"y": 113
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/5",
+					"__w": 191,
+					"__h": 144
+				},
+				"6": {
+					"origin": {
+						"x": 90,
+						"y": 114
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/6",
+					"__w": 191,
+					"__h": 145
+				},
+				"7": {
+					"origin": {
+						"x": 90,
+						"y": 115
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/7",
+					"__w": 191,
+					"__h": 146
+				},
+				"8": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/8",
+					"__w": 191,
+					"__h": 147
+				},
+				"9": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/9",
+					"__w": 191,
+					"__h": 147
+				},
+				"10": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/10",
+					"__w": 191,
+					"__h": 147
+				},
+				"11": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/11",
+					"__w": 191,
+					"__h": 147
+				},
+				"12": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/12",
+					"__w": 191,
+					"__h": 147
+				},
+				"13": {
+					"origin": {
+						"x": 90,
+						"y": 113
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/2/13",
+					"__w": 191,
+					"__h": 144
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 33
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/0",
+					"__w": 64,
+					"__h": 75
+				},
+				"1": {
+					"origin": {
+						"x": 37,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/1",
+					"__w": 63,
+					"__h": 76
+				},
+				"2": {
+					"origin": {
+						"x": 37,
+						"y": 35
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/2",
+					"__w": 61,
+					"__h": 78
+				},
+				"3": {
+					"origin": {
+						"x": 37,
+						"y": 36
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/3",
+					"__w": 60,
+					"__h": 79
+				},
+				"4": {
+					"origin": {
+						"x": 37,
+						"y": 37
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/4",
+					"__w": 60,
+					"__h": 80
+				},
+				"5": {
+					"origin": {
+						"x": 37,
+						"y": 36
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/5",
+					"__w": 61,
+					"__h": 80
+				},
+				"6": {
+					"origin": {
+						"x": 37,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/6",
+					"__w": 61,
+					"__h": 77
+				},
+				"7": {
+					"origin": {
+						"x": 37,
+						"y": 33
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/3/7",
+					"__w": 65,
+					"__h": 75
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 98,
+						"y": 17
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/0",
+					"__w": 99,
+					"__h": 79
+				},
+				"1": {
+					"origin": {
+						"x": 98,
+						"y": 16
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/1",
+					"__w": 99,
+					"__h": 79
+				},
+				"2": {
+					"origin": {
+						"x": 98,
+						"y": 15
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/2",
+					"__w": 99,
+					"__h": 78
+				},
+				"3": {
+					"origin": {
+						"x": 98,
+						"y": 14
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/3",
+					"__w": 99,
+					"__h": 78
+				},
+				"4": {
+					"origin": {
+						"x": 98,
+						"y": 15
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/4",
+					"__w": 99,
+					"__h": 78
+				},
+				"5": {
+					"origin": {
+						"x": 98,
+						"y": 15
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/5",
+					"__w": 99,
+					"__h": 78
+				},
+				"6": {
+					"origin": {
+						"x": 98,
+						"y": 16
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/5",
+					"__w": 99,
+					"__h": 78
+				},
+				"7": {
+					"origin": {
+						"x": 98,
+						"y": 18
+					},
+					"z": 0,
+					"delay": 160,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/4/0",
+					"__w": 99,
+					"__h": 79
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/5/0",
+					"__w": 189,
+					"__h": 56
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 99,
+						"y": 145
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/6/0",
+					"__w": 187,
+					"__h": 145
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/7/0",
+					"__w": 113,
+					"__h": 89
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/0",
+					"__w": 190,
+					"__h": 139
+				},
+				"1": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/1",
+					"__w": 190,
+					"__h": 139
+				},
+				"2": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/2",
+					"__w": 190,
+					"__h": 139
+				},
+				"3": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/3",
+					"__w": 190,
+					"__h": 139
+				},
+				"4": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/4",
+					"__w": 189,
+					"__h": 139
+				},
+				"5": {
+					"origin": {
+						"x": 112,
+						"y": 139
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/8/5",
+					"__w": 190,
+					"__h": 139
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/0",
+					"__w": 194,
+					"__h": 133
+				},
+				"1": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/1",
+					"__w": 194,
+					"__h": 133
+				},
+				"2": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/2",
+					"__w": 194,
+					"__h": 133
+				},
+				"3": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/3",
+					"__w": 194,
+					"__h": 133
+				},
+				"4": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/4",
+					"__w": 194,
+					"__h": 133
+				},
+				"5": {
+					"origin": {
+						"x": 96,
+						"y": 133
+					},
+					"z": 0,
+					"delay": 120,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/9/5",
+					"__w": 194,
+					"__h": 133
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 167,
+						"y": 137
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/parkObj/10/0",
+					"__w": 329,
+					"__h": 279
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 200
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/0",
+					"__w": 142,
+					"__h": 132
+				},
+				"1": {
+					"origin": {
+						"x": 89,
+						"y": 201
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/1",
+					"__w": 142,
+					"__h": 132
+				},
+				"2": {
+					"origin": {
+						"x": 88,
+						"y": 203
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/2",
+					"__w": 142,
+					"__h": 132
+				},
+				"3": {
+					"origin": {
+						"x": 87,
+						"y": 205
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/3",
+					"__w": 144,
+					"__h": 133
+				},
+				"4": {
+					"origin": {
+						"x": 86,
+						"y": 205
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/4",
+					"__w": 144,
+					"__h": 134
+				},
+				"5": {
+					"origin": {
+						"x": 84,
+						"y": 204
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/3",
+					"__w": 144,
+					"__h": 133
+				},
+				"6": {
+					"origin": {
+						"x": 87,
+						"y": 202
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/6",
+					"__w": 142,
+					"__h": 132
+				},
+				"7": {
+					"origin": {
+						"x": 87,
+						"y": 202
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/11/7",
+					"__w": 142,
+					"__h": 132
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 116
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/0",
+					"__w": 180,
+					"__h": 223
+				},
+				"1": {
+					"origin": {
+						"x": 90,
+						"y": 115
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/1",
+					"__w": 180,
+					"__h": 222
+				},
+				"2": {
+					"origin": {
+						"x": 90,
+						"y": 114
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/2",
+					"__w": 180,
+					"__h": 221
+				},
+				"3": {
+					"origin": {
+						"x": 90,
+						"y": 119
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/3",
+					"__w": 180,
+					"__h": 226
+				},
+				"4": {
+					"origin": {
+						"x": 90,
+						"y": 122
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/4",
+					"__w": 180,
+					"__h": 229
+				},
+				"5": {
+					"origin": {
+						"x": 90,
+						"y": 123
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/5",
+					"__w": 180,
+					"__h": 230
+				},
+				"6": {
+					"origin": {
+						"x": 90,
+						"y": 118
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/6",
+					"__w": 180,
+					"__h": 225
+				},
+				"7": {
+					"origin": {
+						"x": 90,
+						"y": 115
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/12/7",
+					"__w": 180,
+					"__h": 222
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/13/0",
+					"__w": 63,
+					"__h": 152
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/0",
+					"__w": 178,
+					"__h": 141
+				},
+				"1": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/1",
+					"__w": 178,
+					"__h": 141
+				},
+				"2": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/2",
+					"__w": 178,
+					"__h": 140
+				},
+				"3": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/3",
+					"__w": 178,
+					"__h": 139
+				},
+				"4": {
+					"origin": {
+						"x": 87,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/4",
+					"__w": 176,
+					"__h": 141
+				},
+				"5": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/5",
+					"__w": 178,
+					"__h": 141
+				},
+				"6": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/6",
+					"__w": 178,
+					"__h": 140
+				},
+				"7": {
+					"origin": {
+						"x": 88,
+						"y": 24
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/14/7",
+					"__w": 178,
+					"__h": 139
+				}
+			}
+		},
+		"ridingObj": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 220,
+						"y": 125
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/ridingObj/0/0",
+					"__w": 440,
+					"__h": 127
+				}
+			}
+		},
+		"Foothold": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 50
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/Foothold/0/0",
+					"__w": 165,
+					"__h": 53
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 6
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/Foothold/1/0",
+					"__w": 53,
+					"__h": 6
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 77,
+						"y": 43
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/Foothold/2/0",
+					"__w": 149,
+					"__h": 100
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 103,
+						"y": 76
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017NOVA/Foothold/3/0",
+					"__w": 196,
+					"__h": 159
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 90,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/2017NOVA/parkObj/5/0",
+					"__w": 189,
+					"__h": 56
+				}
+			}
+		}
+	},
+	"WaterGunGame": {
+		"water": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/0/0",
+					"__w": 51,
+					"__h": 50
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/1/0",
+					"__w": 102,
+					"__h": 100
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 105,
+						"y": 99
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/2/0",
+					"__w": 204,
+					"__h": 200
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/3/0",
+					"__w": 41,
+					"__h": 37
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/4/0",
+					"__w": 41,
+					"__h": 37
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/5/0",
+					"__w": 41,
+					"__h": 37
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 17,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/6/0",
+					"__w": 41,
+					"__h": 37
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/7/0",
+					"__w": 52,
+					"__h": 36
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/8/0",
+					"__w": 51,
+					"__h": 36
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/9/0",
+					"__w": 40,
+					"__h": 51
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/10/0",
+					"__w": 40,
+					"__h": 50
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/11/0",
+					"__w": 40,
+					"__h": 51
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/12/0",
+					"__w": 40,
+					"__h": 51
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/13/0",
+					"__w": 54,
+					"__h": 36
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/14/0",
+					"__w": 51,
+					"__h": 36
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 5,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/15/0",
+					"__w": 31,
+					"__h": 79
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/16/0",
+					"__w": 31,
+					"__h": 79
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 8
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/17/0",
+					"__w": 79,
+					"__h": 31
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/18/0",
+					"__w": 79,
+					"__h": 31
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/19/0",
+					"__w": 79,
+					"__h": 31
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/20/0",
+					"__w": 79,
+					"__h": 30
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/21/0",
+					"__w": 31,
+					"__h": 79
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/22/0",
+					"__w": 31,
+					"__h": 79
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/19/0",
+					"__w": 79,
+					"__h": 31
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/20/0",
+					"__w": 79,
+					"__h": 30
+				}
+			},
+			"25": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/21/0",
+					"__w": 31,
+					"__h": 79
+				}
+			},
+			"26": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 46
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/water/22/0",
+					"__w": 31,
+					"__h": 79
+				}
+			}
+		},
+		"sanddeco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 44
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/0/0",
+					"__w": 66,
+					"__h": 82
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				},
+				"1": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/1",
+					"__w": 148,
+					"__h": 154
+				},
+				"2": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/2",
+					"__w": 148,
+					"__h": 154
+				},
+				"3": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/3",
+					"__w": 148,
+					"__h": 154
+				},
+				"4": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/4",
+					"__w": 148,
+					"__h": 154
+				},
+				"5": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/5",
+					"__w": 148,
+					"__h": 154
+				},
+				"6": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/6",
+					"__w": 148,
+					"__h": 154
+				},
+				"7": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/7",
+					"__w": 148,
+					"__h": 154
+				},
+				"8": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/1",
+					"__w": 148,
+					"__h": 154
+				},
+				"9": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/2",
+					"__w": 148,
+					"__h": 154
+				},
+				"10": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/3",
+					"__w": 148,
+					"__h": 154
+				},
+				"11": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/4",
+					"__w": 148,
+					"__h": 154
+				},
+				"12": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/5",
+					"__w": 148,
+					"__h": 154
+				},
+				"13": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/6",
+					"__w": 148,
+					"__h": 154
+				},
+				"14": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/7",
+					"__w": 148,
+					"__h": 154
+				},
+				"15": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				},
+				"16": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				},
+				"17": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				},
+				"18": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				},
+				"19": {
+					"origin": {
+						"x": 74,
+						"y": 77
+					},
+					"z": 0,
+					"delay": 100,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/1/0",
+					"__w": 148,
+					"__h": 154
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 35,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/2/0",
+					"__w": 100,
+					"__h": 95
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/3/0",
+					"__w": 51,
+					"__h": 42
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/4/0",
+					"__w": 54,
+					"__h": 40
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/5/0",
+					"__w": 46,
+					"__h": 33
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/6/0",
+					"__w": 41,
+					"__h": 22
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/7/0",
+					"__w": 72,
+					"__h": 59
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/8/0",
+					"__w": 123,
+					"__h": 96
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/9/0",
+					"__w": 113,
+					"__h": 29
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 78,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/10/0",
+					"__w": 144,
+					"__h": 38
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/11/0",
+					"__w": 51,
+					"__h": 22
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/12/0",
+					"__w": 106,
+					"__h": 51
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 114,
+						"y": 77
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/13/0",
+					"__w": 216,
+					"__h": 132
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/14/0",
+					"__w": 82,
+					"__h": 63
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/15/0",
+					"__w": 153,
+					"__h": 60
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 35,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/16/0",
+					"__w": 72,
+					"__h": 55
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 74,
+						"y": 60
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/17/0",
+					"__w": 144,
+					"__h": 111
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 81,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/18/0",
+					"__w": 158,
+					"__h": 123
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/19/0",
+					"__w": 98,
+					"__h": 42
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/20/0",
+					"__w": 93,
+					"__h": 54
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/21/0",
+					"__w": 116,
+					"__h": 63
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sanddeco/22/0",
+					"__w": 98,
+					"__h": 53
+				}
+			}
+		},
+		"seadeco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 83,
+						"y": 75
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/0/0",
+					"__w": 152,
+					"__h": 150
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/1/0",
+					"__w": 117,
+					"__h": 68
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 85,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/2/0",
+					"__w": 158,
+					"__h": 208
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/3/0",
+					"__w": 60,
+					"__h": 31
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 215,
+						"y": 293
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/4/0",
+					"__w": 455,
+					"__h": 554
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 71,
+						"y": 58
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/5/0",
+					"__w": 141,
+					"__h": 114
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 266,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"1": {
+					"origin": {
+						"x": 266,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/1",
+					"__w": 536,
+					"__h": 37
+				},
+				"2": {
+					"origin": {
+						"x": 266,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"3": {
+					"origin": {
+						"x": 266,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/1",
+					"__w": 536,
+					"__h": 37
+				},
+				"4": {
+					"origin": {
+						"x": 266,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"5": {
+					"origin": {
+						"x": 266,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"6": {
+					"origin": {
+						"x": 266,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"7": {
+					"origin": {
+						"x": 266,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"8": {
+					"origin": {
+						"x": 265,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				},
+				"9": {
+					"origin": {
+						"x": 265,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/1",
+					"__w": 536,
+					"__h": 37
+				},
+				"10": {
+					"origin": {
+						"x": 265,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/6/0",
+					"__w": 536,
+					"__h": 37
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": -1
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/0",
+					"__w": 43,
+					"__h": 17
+				},
+				"1": {
+					"origin": {
+						"x": 25,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/1",
+					"__w": 43,
+					"__h": 17
+				},
+				"2": {
+					"origin": {
+						"x": 25,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/2",
+					"__w": 43,
+					"__h": 17
+				},
+				"3": {
+					"origin": {
+						"x": 25,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/3",
+					"__w": 43,
+					"__h": 17
+				},
+				"4": {
+					"origin": {
+						"x": 25,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/4",
+					"__w": 43,
+					"__h": 17
+				},
+				"5": {
+					"origin": {
+						"x": 25,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/5",
+					"__w": 43,
+					"__h": 17
+				},
+				"6": {
+					"origin": {
+						"x": 25,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/6",
+					"__w": 43,
+					"__h": 17
+				},
+				"7": {
+					"origin": {
+						"x": 25,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/7/7",
+					"__w": 43,
+					"__h": 17
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": -2
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/0",
+					"__w": 40,
+					"__h": 38
+				},
+				"1": {
+					"origin": {
+						"x": -16,
+						"y": 39
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/1",
+					"__w": 53,
+					"__h": 79
+				},
+				"2": {
+					"origin": {
+						"x": 17,
+						"y": 57
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/2",
+					"__w": 76,
+					"__h": 97
+				},
+				"3": {
+					"origin": {
+						"x": 26,
+						"y": 62
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/3",
+					"__w": 90,
+					"__h": 102
+				},
+				"4": {
+					"origin": {
+						"x": 36,
+						"y": 64
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/4",
+					"__w": 97,
+					"__h": 104
+				},
+				"5": {
+					"origin": {
+						"x": 44,
+						"y": 65
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/5",
+					"__w": 106,
+					"__h": 79
+				},
+				"6": {
+					"origin": {
+						"x": 62,
+						"y": 54
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/6",
+					"__w": 126,
+					"__h": 87
+				},
+				"7": {
+					"origin": {
+						"x": 79,
+						"y": 4
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/7",
+					"__w": 72,
+					"__h": 45
+				},
+				"8": {
+					"origin": {
+						"x": 74,
+						"y": 23
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/8",
+					"__w": 56,
+					"__h": 64
+				},
+				"9": {
+					"origin": {
+						"x": 67,
+						"y": -19
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/9",
+					"__w": 40,
+					"__h": 21
+				},
+				"10": {
+					"origin": {
+						"x": 84,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 1000,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/8/10",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": -25,
+						"y": 26
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/0",
+					"__w": 55,
+					"__h": 51
+				},
+				"1": {
+					"origin": {
+						"x": 14,
+						"y": 41
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/1",
+					"__w": 83,
+					"__h": 66
+				},
+				"2": {
+					"origin": {
+						"x": 41,
+						"y": 41
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/2",
+					"__w": 115,
+					"__h": 66
+				},
+				"3": {
+					"origin": {
+						"x": 85,
+						"y": 41
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/3",
+					"__w": 147,
+					"__h": 66
+				},
+				"4": {
+					"origin": {
+						"x": 84,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/4",
+					"__w": 56,
+					"__h": 59
+				},
+				"5": {
+					"origin": {
+						"x": 84,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 1500,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/9/5",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 81,
+						"y": -11
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/0",
+					"__w": 55,
+					"__h": 50
+				},
+				"1": {
+					"origin": {
+						"x": 82,
+						"y": 52
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/1",
+					"__w": 63,
+					"__h": 119
+				},
+				"2": {
+					"origin": {
+						"x": 81,
+						"y": 75
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/2",
+					"__w": 86,
+					"__h": 141
+				},
+				"3": {
+					"origin": {
+						"x": 78,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/3",
+					"__w": 117,
+					"__h": 147
+				},
+				"4": {
+					"origin": {
+						"x": 87,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/4",
+					"__w": 137,
+					"__h": 146
+				},
+				"5": {
+					"origin": {
+						"x": 51,
+						"y": 75
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/5",
+					"__w": 126,
+					"__h": 108
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 65
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/6",
+					"__w": 78,
+					"__h": 123
+				},
+				"7": {
+					"origin": {
+						"x": -8,
+						"y": -3
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/7",
+					"__w": 99,
+					"__h": 58
+				},
+				"8": {
+					"origin": {
+						"x": 32,
+						"y": 22
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/8",
+					"__w": 118,
+					"__h": 209
+				},
+				"9": {
+					"origin": {
+						"x": -22,
+						"y": -32
+					},
+					"z": 0,
+					"delay": 130,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/9",
+					"__w": 58,
+					"__h": 29
+				},
+				"10": {
+					"origin": {
+						"x": 84,
+						"y": 34
+					},
+					"z": 0,
+					"delay": 2000,
+					"": "/Map/Obj/event2/WaterGunGame/seadeco/10/10",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"waterdeco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 55,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/waterdeco/0/0",
+					"__w": 99,
+					"__h": 70
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/waterdeco/1/0",
+					"__w": 41,
+					"__h": 22
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/waterdeco/2/0",
+					"__w": 46,
+					"__h": 33
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/waterdeco/3/0",
+					"__w": 95,
+					"__h": 43
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 8
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/waterdeco/4/0",
+					"__w": 56,
+					"__h": 18
+				}
+			}
+		},
+		"npcdeco": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 38,
+						"y": 42
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/npcdeco/0/0",
+					"__w": 68,
+					"__h": 75
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/npcdeco/1/0",
+					"__w": 68,
+					"__h": 64
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 55
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/npcdeco/2/0",
+					"__w": 105,
+					"__h": 121
+				}
+			}
+		},
+		"foothold": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/0/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/2/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/3/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/4/0",
+					"__w": 1,
+					"__h": 1
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/WaterGunGame/foothold/5/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		},
+		"sand": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 508,
+						"y": -48
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/0/0",
+					"__w": 80,
+					"__h": 102
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 508,
+						"y": -149
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/1/0",
+					"__w": 79,
+					"__h": 102
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 430,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/2/0",
+					"__w": 102,
+					"__h": 94
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 320,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/3/0",
+					"__w": 102,
+					"__h": 94
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 210,
+						"y": -48
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/4/0",
+					"__w": 80,
+					"__h": 102
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 209,
+						"y": -158
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/5/0",
+					"__w": 79,
+					"__h": 102
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 430,
+						"y": -249
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/6/0",
+					"__w": 102,
+					"__h": 94
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 330,
+						"y": -249
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/7/0",
+					"__w": 102,
+					"__h": 94
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 518,
+						"y": 61
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/8/0",
+					"__w": 80,
+					"__h": 101
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 210,
+						"y": 61
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/9/0",
+					"__w": 80,
+					"__h": 101
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 508,
+						"y": -249
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/10/0",
+					"__w": 80,
+					"__h": 101
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 210,
+						"y": -268
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/11/0",
+					"__w": 80,
+					"__h": 101
+				}
+			},
+			"12": {
+				"0": {
+					"origin": {
+						"x": 130,
+						"y": -148
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/12/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"13": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": -48
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/13/0",
+					"__w": 202,
+					"__h": 202
+				}
+			},
+			"14": {
+				"0": {
+					"origin": {
+						"x": -190,
+						"y": 152
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/14/0",
+					"__w": 402,
+					"__h": 402
+				}
+			},
+			"15": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/15/0",
+					"__w": 1280,
+					"__h": 101
+				}
+			},
+			"16": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/16/0",
+					"__w": 1202,
+					"__h": 94
+				}
+			},
+			"17": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/17/0",
+					"__w": 1780,
+					"__h": 101
+				}
+			},
+			"18": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/18/0",
+					"__w": 1702,
+					"__h": 94
+				}
+			},
+			"19": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/19/0",
+					"__w": 80,
+					"__h": 1301
+				}
+			},
+			"20": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/20/0",
+					"__w": 80,
+					"__h": 1202
+				}
+			},
+			"21": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/21/0",
+					"__w": 80,
+					"__h": 1632
+				}
+			},
+			"22": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/22/0",
+					"__w": 80,
+					"__h": 1521
+				}
+			},
+			"23": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/23/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"24": {
+				"0": {
+					"origin": {
+						"x": 101,
+						"y": 100
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/24/0",
+					"__w": 202,
+					"__h": 202
+				}
+			},
+			"25": {
+				"0": {
+					"origin": {
+						"x": 206,
+						"y": 202
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/25/0",
+					"__w": 402,
+					"__h": 402
+				}
+			},
+			"26": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/26/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"27": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/27/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"28": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/28/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"29": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/29/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"30": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/30/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"31": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/31/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"32": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/32/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"33": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/33/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"34": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/34/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"35": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/35/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"36": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/36/0",
+					"__w": 102,
+					"__h": 102
+				}
+			},
+			"37": {
+				"0": {
+					"origin": {
+						"x": 51,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/sand/37/0",
+					"__w": 102,
+					"__h": 102
+				}
+			}
+		},
+		"dummy": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/dummy/0/0",
+					"__w": 83,
+					"__h": 88
+				}
+			}
+		},
+		"summon": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 68
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/WaterGunGame/summon/0/0",
+					"__w": 52,
+					"__h": 68
+				}
+			}
+		}
+	},
+	"2017Xmas": {
+		"jump": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 38
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/0/0",
+					"__w": 86,
+					"__h": 82
+				},
+				"1": {
+					"origin": {
+						"x": 42,
+						"y": 33
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/0/1",
+					"__w": 86,
+					"__h": 77
+				},
+				"2": {
+					"origin": {
+						"x": 42,
+						"y": 34
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/0/2",
+					"__w": 86,
+					"__h": 78
+				},
+				"3": {
+					"origin": {
+						"x": 42,
+						"y": 44
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/0/3",
+					"__w": 86,
+					"__h": 88
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 38
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/1/0",
+					"__w": 87,
+					"__h": 82
+				},
+				"1": {
+					"origin": {
+						"x": 43,
+						"y": 33
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/1/1",
+					"__w": 87,
+					"__h": 77
+				},
+				"2": {
+					"origin": {
+						"x": 43,
+						"y": 34
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/1/2",
+					"__w": 87,
+					"__h": 78
+				},
+				"3": {
+					"origin": {
+						"x": 43,
+						"y": 44
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/2017Xmas/jump/1/3",
+					"__w": 87,
+					"__h": 88
+				}
+			}
+		}
+	},
+	"DiscoverySky": {
+		"dust": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 62
+					},
+					"": "/Map/Obj/event2/DiscoverySky/dust/0/0",
+					"__w": 67,
+					"__h": 67
+				}
+			}
+		},
+		"wind": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 71
+					},
+					"": "/Map/Obj/event2/DiscoverySky/wind/0/0",
+					"__w": 80,
+					"__h": 73
+				}
+			}
+		},
+		"fan": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/DiscoverySky/fan/0/0",
+					"__w": 69,
+					"__h": 67
+				},
+				"1": {
+					"origin": {
+						"x": 34,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/DiscoverySky/fan/0/1",
+					"__w": 69,
+					"__h": 66
+				},
+				"2": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/DiscoverySky/fan/0/2",
+					"__w": 69,
+					"__h": 67
+				},
+				"3": {
+					"origin": {
+						"x": 34,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/DiscoverySky/fan/0/3",
+					"__w": 69,
+					"__h": 66
+				}
+			}
+		}
+	},
+	"ARK": {
+		"Stage": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 179,
+						"y": 155
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/event2/ARK/Stage/0/0",
+					"__w": 362,
+					"__h": 319
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/0",
+					"__w": 362,
+					"__h": 374
+				},
+				"1": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/1",
+					"__w": 362,
+					"__h": 374
+				},
+				"2": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/2",
+					"__w": 362,
+					"__h": 374
+				},
+				"3": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/3",
+					"__w": 362,
+					"__h": 374
+				},
+				"4": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/4",
+					"__w": 362,
+					"__h": 374
+				},
+				"5": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/5",
+					"__w": 362,
+					"__h": 374
+				},
+				"6": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/6",
+					"__w": 362,
+					"__h": 374
+				},
+				"7": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/7",
+					"__w": 362,
+					"__h": 374
+				},
+				"8": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/0",
+					"__w": 362,
+					"__h": 374
+				},
+				"9": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/1",
+					"__w": 362,
+					"__h": 374
+				},
+				"10": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/2",
+					"__w": 362,
+					"__h": 374
+				},
+				"11": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/3",
+					"__w": 362,
+					"__h": 374
+				},
+				"12": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/4",
+					"__w": 362,
+					"__h": 374
+				},
+				"13": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/5",
+					"__w": 362,
+					"__h": 374
+				},
+				"14": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/6",
+					"__w": 362,
+					"__h": 374
+				},
+				"15": {
+					"origin": {
+						"x": 179,
+						"y": 210
+					},
+					"z": 0,
+					"": "/Map/Obj/event2/ARK/Stage/1/7",
+					"__w": 362,
+					"__h": 374
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 171,
+						"y": 280
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/0",
+					"__w": 347,
+					"__h": 354
+				},
+				"1": {
+					"origin": {
+						"x": 177,
+						"y": 266
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/1",
+					"__w": 348,
+					"__h": 338
+				},
+				"2": {
+					"origin": {
+						"x": 170,
+						"y": 284
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/2",
+					"__w": 352,
+					"__h": 357
+				},
+				"3": {
+					"origin": {
+						"x": 170,
+						"y": 280
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/3",
+					"__w": 363,
+					"__h": 348
+				},
+				"4": {
+					"origin": {
+						"x": 170,
+						"y": 254
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/4",
+					"__w": 352,
+					"__h": 320
+				},
+				"5": {
+					"origin": {
+						"x": 180,
+						"y": 265
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/5",
+					"__w": 360,
+					"__h": 334
+				},
+				"6": {
+					"origin": {
+						"x": 190,
+						"y": 269
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/6",
+					"__w": 361,
+					"__h": 336
+				},
+				"7": {
+					"origin": {
+						"x": 181,
+						"y": 275
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/7",
+					"__w": 352,
+					"__h": 351
+				},
+				"8": {
+					"origin": {
+						"x": 171,
+						"y": 288
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/8",
+					"__w": 342,
+					"__h": 368
+				},
+				"9": {
+					"origin": {
+						"x": 188,
+						"y": 276
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/9",
+					"__w": 369,
+					"__h": 376
+				},
+				"10": {
+					"origin": {
+						"x": 183,
+						"y": 280
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/10",
+					"__w": 359,
+					"__h": 378
+				},
+				"11": {
+					"origin": {
+						"x": 170,
+						"y": 267
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/11",
+					"__w": 341,
+					"__h": 345
+				},
+				"12": {
+					"origin": {
+						"x": 172,
+						"y": 277
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/12",
+					"__w": 343,
+					"__h": 359
+				},
+				"13": {
+					"origin": {
+						"x": 182,
+						"y": 285
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/13",
+					"__w": 353,
+					"__h": 367
+				},
+				"14": {
+					"origin": {
+						"x": 198,
+						"y": 276
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/14",
+					"__w": 369,
+					"__h": 328
+				},
+				"15": {
+					"origin": {
+						"x": 182,
+						"y": 274
+					},
+					"z": 0,
+					"delay": 60,
+					"": "/Map/Obj/event2/ARK/Stage/2/15",
+					"__w": 353,
+					"__h": 338
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,4056 @@
+{
+	"dryRock": {
+		"bone": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 103
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/0/0",
+					"__w": 127,
+					"__h": 207
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/1/0",
+					"__w": 80,
+					"__h": 80
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/2/0",
+					"__w": 80,
+					"__h": 80
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/3/0",
+					"__w": 115,
+					"__h": 35
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/4/0",
+					"__w": 115,
+					"__h": 35
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/5/0",
+					"__w": 80,
+					"__h": 80
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/dryRock/bone/6/0",
+					"__w": 80,
+					"__h": 80
+				}
+			}
+		}
+	},
+	"midForest": {
+		"wood": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 72
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/0/0",
+					"__w": 84,
+					"__h": 144
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/1/0",
+					"__w": 55,
+					"__h": 38
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/2/0",
+					"__w": 52,
+					"__h": 36
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 10
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/3/0",
+					"__w": 46,
+					"__h": 20
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/4/0",
+					"__w": 50,
+					"__h": 18
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/5/0",
+					"__w": 55,
+					"__h": 38
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/wood/6/0",
+					"__w": 52,
+					"__h": 36
+				}
+			}
+		},
+		"danger": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/danger/0/0",
+					"__w": 67,
+					"__h": 77
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/danger/1/0",
+					"__w": 67,
+					"__h": 80
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/danger/2/0",
+					"__w": 67,
+					"__h": 77
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 39,
+						"y": 45
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/midForest/danger/3/0",
+					"__w": 81,
+					"__h": 89
+				}
+			}
+		}
+	},
+	"common": {
+		"sign": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 60
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/common/sign/0/0",
+					"__w": 53,
+					"__h": 121
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 21,
+						"y": 55
+					},
+					"": "/Map/Obj/guide/common/sign/1/0",
+					"__w": 53,
+					"__h": 121
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 67
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/common/sign/2/0",
+					"__w": 75,
+					"__h": 135
+				}
+			}
+		},
+		"post": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 91,
+						"y": 55
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/guide/common/post/0/0",
+					"__w": 182,
+					"__h": 111
+				}
+			}
+		},
+		"tour": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 106,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/common/tour/0/0",
+					"__w": 212,
+					"__h": 194
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"": "/Map/Obj/guide/common/tour/1/0",
+					"__w": 1,
+					"__h": 1
+				}
+			}
+		}
+	},
+	"darkWood": {
+		"number": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 5,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/0/0",
+					"__w": 11,
+					"__h": 18
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/1/0",
+					"__w": 15,
+					"__h": 18
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/2/0",
+					"__w": 15,
+					"__h": 19
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/3/0",
+					"__w": 16,
+					"__h": 18
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/4/0",
+					"__w": 15,
+					"__h": 19
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 9
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/darkWood/number/5/0",
+					"__w": 15,
+					"__h": 19
+				}
+			}
+		}
+	},
+	"grassySoil": {
+		"number": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/0/0",
+					"__w": 58,
+					"__h": 45
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/1/0",
+					"__w": 58,
+					"__h": 45
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/2/0",
+					"__w": 58,
+					"__h": 45
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/3/0",
+					"__w": 58,
+					"__h": 45
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/4/0",
+					"__w": 58,
+					"__h": 45
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/grassySoil/number/5/0",
+					"__w": 58,
+					"__h": 45
+				}
+			}
+		}
+	},
+	"maple": {
+		"key": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/key/0/0",
+					"__w": 40,
+					"__h": 39
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/key/1/0",
+					"__w": 40,
+					"__h": 39
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/key/2/0",
+					"__w": 40,
+					"__h": 39
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 20,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/key/3/0",
+					"__w": 40,
+					"__h": 39
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/key/4/0",
+					"__w": 51,
+					"__h": 39
+				}
+			}
+		},
+		"suryun": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 144,
+						"y": 127
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/suryun/0/0",
+					"__w": 289,
+					"__h": 255
+				}
+			}
+		},
+		"board": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 71,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/0/0",
+					"__w": 142,
+					"__h": 164
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 38,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/0",
+					"__w": 70,
+					"__h": 43
+				},
+				"1": {
+					"origin": {
+						"x": 37,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/1",
+					"__w": 69,
+					"__h": 43
+				},
+				"2": {
+					"origin": {
+						"x": 36,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/2",
+					"__w": 69,
+					"__h": 43
+				},
+				"3": {
+					"origin": {
+						"x": 37,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/3",
+					"__w": 69,
+					"__h": 43
+				},
+				"4": {
+					"origin": {
+						"x": 38,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/4",
+					"__w": 69,
+					"__h": 43
+				},
+				"5": {
+					"origin": {
+						"x": 38,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/5",
+					"__w": 68,
+					"__h": 43
+				},
+				"6": {
+					"origin": {
+						"x": 39,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/board/1/6",
+					"__w": 68,
+					"__h": 43
+				}
+			}
+		},
+		"startPoint": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 163,
+						"y": 161
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/guide/maple/startPoint/0/0",
+					"__w": 327,
+					"__h": 323
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/0",
+					"__w": 128,
+					"__h": 92
+				},
+				"1": {
+					"origin": {
+						"x": 60,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/1",
+					"__w": 124,
+					"__h": 90
+				},
+				"2": {
+					"origin": {
+						"x": 58,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/2",
+					"__w": 121,
+					"__h": 90
+				},
+				"3": {
+					"origin": {
+						"x": 60,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/3",
+					"__w": 120,
+					"__h": 90
+				},
+				"4": {
+					"origin": {
+						"x": 71,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/4",
+					"__w": 128,
+					"__h": 90
+				},
+				"5": {
+					"origin": {
+						"x": 71,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/5",
+					"__w": 124,
+					"__h": 90
+				},
+				"6": {
+					"origin": {
+						"x": 70,
+						"y": 88
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/6",
+					"__w": 140,
+					"__h": 90
+				},
+				"7": {
+					"origin": {
+						"x": 67,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/7",
+					"__w": 137,
+					"__h": 91
+				},
+				"8": {
+					"origin": {
+						"x": 66,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/8",
+					"__w": 135,
+					"__h": 92
+				},
+				"9": {
+					"origin": {
+						"x": 62,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/9",
+					"__w": 128,
+					"__h": 93
+				},
+				"10": {
+					"origin": {
+						"x": 60,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/10",
+					"__w": 124,
+					"__h": 93
+				},
+				"11": {
+					"origin": {
+						"x": 58,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/11",
+					"__w": 121,
+					"__h": 93
+				},
+				"12": {
+					"origin": {
+						"x": 60,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/12",
+					"__w": 120,
+					"__h": 93
+				},
+				"13": {
+					"origin": {
+						"x": 71,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/13",
+					"__w": 128,
+					"__h": 93
+				},
+				"14": {
+					"origin": {
+						"x": 71,
+						"y": 91
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/14",
+					"__w": 124,
+					"__h": 93
+				},
+				"15": {
+					"origin": {
+						"x": 70,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/15",
+					"__w": 140,
+					"__h": 92
+				},
+				"16": {
+					"origin": {
+						"x": 67,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/acc11/erebTW/acc/15/16",
+					"__w": 137,
+					"__h": 92
+				},
+				"17": {
+					"origin": {
+						"x": 66,
+						"y": 90
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/maple/startPoint/1/17",
+					"__w": 135,
+					"__h": 92
+				}
+			}
+		}
+	},
+	"milepost": {
+		"common": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 14,
+						"y": 11
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/0/0",
+					"__w": 29,
+					"__h": 23
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 10,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/1/0",
+					"__w": 21,
+					"__h": 60
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 13,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/2/0",
+					"__w": 26,
+					"__h": 42
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/3/0",
+					"__w": 47,
+					"__h": 44
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/4/0",
+					"__w": 48,
+					"__h": 41
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/5/0",
+					"__w": 52,
+					"__h": 37
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/6/0",
+					"__w": 52,
+					"__h": 38
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/7/0",
+					"__w": 49,
+					"__h": 48
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/common/8/0",
+					"__w": 48,
+					"__h": 38
+				}
+			}
+		},
+		"snow": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 11
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/0/0",
+					"__w": 57,
+					"__h": 23
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 13,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/1/0",
+					"__w": 27,
+					"__h": 47
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/2/0",
+					"__w": 47,
+					"__h": 44
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/3/0",
+					"__w": 48,
+					"__h": 42
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/4/0",
+					"__w": 52,
+					"__h": 39
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/5/0",
+					"__w": 52,
+					"__h": 38
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 22
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/6/0",
+					"__w": 49,
+					"__h": 45
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/snow/7/0",
+					"__w": 48,
+					"__h": 38
+				}
+			}
+		},
+		"ludi": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/0/0",
+					"__w": 61,
+					"__h": 29
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 13,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/1/0",
+					"__w": 27,
+					"__h": 54
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 37
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/2/0",
+					"__w": 69,
+					"__h": 74
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/3/0",
+					"__w": 47,
+					"__h": 50
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/4/0",
+					"__w": 46,
+					"__h": 41
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/5/0",
+					"__w": 51,
+					"__h": 41
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/6/0",
+					"__w": 50,
+					"__h": 41
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/7/0",
+					"__w": 48,
+					"__h": 42
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 23,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ludi/8/0",
+					"__w": 46,
+					"__h": 41
+				}
+			}
+		},
+		"elnas": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 59
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/0/0",
+					"__w": 106,
+					"__h": 119
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/1/0",
+					"__w": 98,
+					"__h": 56
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/2/0",
+					"__w": 98,
+					"__h": 57
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/3/0",
+					"__w": 98,
+					"__h": 53
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/4/0",
+					"__w": 98,
+					"__h": 52
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/5/0",
+					"__w": 98,
+					"__h": 49
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elnas/6/0",
+					"__w": 98,
+					"__h": 48
+				}
+			}
+		},
+		"digital": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 24,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/0/0",
+					"__w": 48,
+					"__h": 61
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 26,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/1/0",
+					"__w": 53,
+					"__h": 30
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/2/0",
+					"__w": 69,
+					"__h": 57
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/3/0",
+					"__w": 69,
+					"__h": 57
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/4/0",
+					"__w": 69,
+					"__h": 57
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/5/0",
+					"__w": 69,
+					"__h": 57
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/6/0",
+					"__w": 69,
+					"__h": 57
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/digital/7/0",
+					"__w": 69,
+					"__h": 57
+				}
+			}
+		},
+		"orbis": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/0/0",
+					"__w": 36,
+					"__h": 26
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/1/0",
+					"__w": 14,
+					"__h": 60
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/2/0",
+					"__w": 68,
+					"__h": 69
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 27
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/3/0",
+					"__w": 66,
+					"__h": 55
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/4/0",
+					"__w": 68,
+					"__h": 46
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 36,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/5/0",
+					"__w": 72,
+					"__h": 27
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 36,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/6/0",
+					"__w": 72,
+					"__h": 28
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/7/0",
+					"__w": 67,
+					"__h": 46
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/orbis/8/0",
+					"__w": 65,
+					"__h": 53
+				}
+			}
+		},
+		"aqua": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/0/0",
+					"__w": 99,
+					"__h": 65
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/1/0",
+					"__w": 116,
+					"__h": 127
+				},
+				"1": {
+					"origin": {
+						"x": 60,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/1/1",
+					"__w": 118,
+					"__h": 127
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/2/0",
+					"__w": 127,
+					"__h": 127
+				},
+				"1": {
+					"origin": {
+						"x": 63,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/2/1",
+					"__w": 130,
+					"__h": 127
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 86
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/acc5/aquaRoad/signboard/0/0",
+					"__w": 125,
+					"__h": 198
+				},
+				"1": {
+					"origin": {
+						"x": 61,
+						"y": 86
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/acc5/aquaRoad/signboard/0/1",
+					"__w": 124,
+					"__h": 198
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 83
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/acc5/aquaRoad/signboard/1/0",
+					"__w": 129,
+					"__h": 192
+				},
+				"1": {
+					"origin": {
+						"x": 66,
+						"y": 83
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/acc5/aquaRoad/signboard/1/1",
+					"__w": 131,
+					"__h": 192
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/5/0",
+					"__w": 116,
+					"__h": 127
+				},
+				"1": {
+					"origin": {
+						"x": 60,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/5/1",
+					"__w": 118,
+					"__h": 127
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 59,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/6/0",
+					"__w": 118,
+					"__h": 127
+				},
+				"1": {
+					"origin": {
+						"x": 59,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/aqua/6/1",
+					"__w": 121,
+					"__h": 127
+				}
+			}
+		},
+		"mureung": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 121
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/0/0",
+					"__w": 129,
+					"__h": 243
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 64,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/1/0",
+					"__w": 129,
+					"__h": 178
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 9,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/2/0",
+					"__w": 18,
+					"__h": 35
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/3/0",
+					"__w": 61,
+					"__h": 30
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/4/0",
+					"__w": 62,
+					"__h": 58
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/5/0",
+					"__w": 63,
+					"__h": 60
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/6/0",
+					"__w": 59,
+					"__h": 59
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/7/0",
+					"__w": 61,
+					"__h": 59
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/8/0",
+					"__w": 61,
+					"__h": 65
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/mureung/9/0",
+					"__w": 63,
+					"__h": 64
+				}
+			}
+		},
+		"backcho": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 95
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/0/0",
+					"__w": 75,
+					"__h": 191
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/1/0",
+					"__w": 62,
+					"__h": 52
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/2/0",
+					"__w": 63,
+					"__h": 40
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/3/0",
+					"__w": 61,
+					"__h": 51
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/4/0",
+					"__w": 63,
+					"__h": 51
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/5/0",
+					"__w": 64,
+					"__h": 40
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/backcho/6/0",
+					"__w": 62,
+					"__h": 51
+				}
+			}
+		},
+		"elin": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 67,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/0/0",
+					"__w": 134,
+					"__h": 195
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/1/0",
+					"__w": 90,
+					"__h": 73
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/2/0",
+					"__w": 94,
+					"__h": 63
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 41
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/3/0",
+					"__w": 91,
+					"__h": 82
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/4/0",
+					"__w": 92,
+					"__h": 71
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/5/0",
+					"__w": 95,
+					"__h": 63
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 41
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/elin/6/0",
+					"__w": 91,
+					"__h": 82
+				}
+			}
+		},
+		"poisonforest": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 69,
+						"y": 97
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/0/0",
+					"__w": 139,
+					"__h": 195
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/1/0",
+					"__w": 90,
+					"__h": 73
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/2/0",
+					"__w": 94,
+					"__h": 63
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 41
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/3/0",
+					"__w": 91,
+					"__h": 82
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/4/0",
+					"__w": 92,
+					"__h": 71
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/5/0",
+					"__w": 95,
+					"__h": 63
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 41
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/poisonforest/6/0",
+					"__w": 91,
+					"__h": 82
+				}
+			}
+		},
+		"timetemple": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/0/0",
+					"__w": 32,
+					"__h": 76
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/1/0",
+					"__w": 113,
+					"__h": 104
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/2/0",
+					"__w": 85,
+					"__h": 104
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/3/0",
+					"__w": 85,
+					"__h": 104
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/4/0",
+					"__w": 84,
+					"__h": 104
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 41,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/5/0",
+					"__w": 83,
+					"__h": 104
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 57,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/timetemple/6/0",
+					"__w": 114,
+					"__h": 104
+				}
+			}
+		},
+		"ereb": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 61,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/0/0",
+					"__w": 123,
+					"__h": 81
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 4,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/1/0",
+					"__w": 9,
+					"__h": 37
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/2/0",
+					"__w": 57,
+					"__h": 47
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/3/0",
+					"__w": 94,
+					"__h": 64
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 50,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/4/0",
+					"__w": 101,
+					"__h": 62
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/5/0",
+					"__w": 92,
+					"__h": 63
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 49,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/6/0",
+					"__w": 99,
+					"__h": 62
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/7/0",
+					"__w": 91,
+					"__h": 64
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/ereb/8/0",
+					"__w": 90,
+					"__h": 64
+				}
+			}
+		},
+		"rien": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 39
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/0/0",
+					"__w": 63,
+					"__h": 78
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/1/0",
+					"__w": 14,
+					"__h": 38
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 37,
+						"y": 39
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/2/0",
+					"__w": 74,
+					"__h": 78
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/3/0",
+					"__w": 91,
+					"__h": 70
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 45,
+						"y": 35
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/4/0",
+					"__w": 91,
+					"__h": 70
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/5/0",
+					"__w": 95,
+					"__h": 56
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/6/0",
+					"__w": 92,
+					"__h": 69
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/7/0",
+					"__w": 93,
+					"__h": 72
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 47,
+						"y": 28
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/rien/8/0",
+					"__w": 95,
+					"__h": 56
+				}
+			}
+		},
+		"farm": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 125
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/0/0",
+					"__w": 65,
+					"__h": 250
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 8,
+						"y": 12
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/1/0",
+					"__w": 17,
+					"__h": 25
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/2/0",
+					"__w": 84,
+					"__h": 77
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/3/0",
+					"__w": 87,
+					"__h": 68
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/4/0",
+					"__w": 86,
+					"__h": 69
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 41,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/5/0",
+					"__w": 83,
+					"__h": 66
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/6/0",
+					"__w": 87,
+					"__h": 69
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 43,
+						"y": 39
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/7/0",
+					"__w": 86,
+					"__h": 78
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 7,
+						"y": 12
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/farm/8/0",
+					"__w": 15,
+					"__h": 24
+				}
+			}
+		},
+		"edelrock": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 58,
+						"y": 47
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/0/0",
+					"__w": 117,
+					"__h": 95
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/1/0",
+					"__w": 56,
+					"__h": 62
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/2/0",
+					"__w": 59,
+					"__h": 63
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/3/0",
+					"__w": 59,
+					"__h": 63
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/4/0",
+					"__w": 59,
+					"__h": 63
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/5/0",
+					"__w": 59,
+					"__h": 63
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/6/0",
+					"__w": 59,
+					"__h": 63
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelrock/7/0",
+					"__w": 59,
+					"__h": 63
+				}
+			}
+		},
+		"edelpark": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelpark/0/0",
+					"__w": 50,
+					"__h": 48
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 6,
+						"y": 15
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelpark/1/0",
+					"__w": 12,
+					"__h": 31
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelpark/2/0",
+					"__w": 68,
+					"__h": 68
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelpark/3/0",
+					"__w": 67,
+					"__h": 62
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/edelpark/4/0",
+					"__w": 69,
+					"__h": 62
+				}
+			}
+		},
+		"lioncastle": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 54,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/0/0",
+					"__w": 108,
+					"__h": 61
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 11,
+						"y": 36
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/1/0",
+					"__w": 23,
+					"__h": 73
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/2/0",
+					"__w": 69,
+					"__h": 76
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/3/0",
+					"__w": 69,
+					"__h": 76
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/4/0",
+					"__w": 69,
+					"__h": 76
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/5/0",
+					"__w": 69,
+					"__h": 76
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/6/0",
+					"__w": 69,
+					"__h": 76
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 38
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/lioncastle/7/0",
+					"__w": 69,
+					"__h": 76
+				}
+			}
+		},
+		"krease": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 70,
+						"y": 56
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/0/0",
+					"__w": 140,
+					"__h": 112
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 12,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/1/0",
+					"__w": 25,
+					"__h": 60
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 37
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/2/0",
+					"__w": 84,
+					"__h": 75
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 69,
+						"y": 42
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/3/0",
+					"__w": 138,
+					"__h": 85
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 75,
+						"y": 37
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/4/0",
+					"__w": 150,
+					"__h": 75
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 69,
+						"y": 43
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/5/0",
+					"__w": 138,
+					"__h": 87
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 70,
+						"y": 43
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/6/0",
+					"__w": 140,
+					"__h": 87
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 75,
+						"y": 37
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/7/0",
+					"__w": 150,
+					"__h": 75
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 70,
+						"y": 44
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/krease/8/0",
+					"__w": 140,
+					"__h": 89
+				}
+			}
+		},
+		"eurel": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 42,
+						"y": 69
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/0/0",
+					"__w": 84,
+					"__h": 139
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 34,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/1/0",
+					"__w": 68,
+					"__h": 66
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 67,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/2/0",
+					"__w": 134,
+					"__h": 59
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/3/0",
+					"__w": 127,
+					"__h": 67
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 67,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/4/0",
+					"__w": 134,
+					"__h": 59
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/5/0",
+					"__w": 126,
+					"__h": 65
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/6/0",
+					"__w": 126,
+					"__h": 64
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/7/0",
+					"__w": 126,
+					"__h": 65
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 66,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/eurel/8/0",
+					"__w": 133,
+					"__h": 59
+				}
+			}
+		},
+		"henesis": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/0/0",
+					"__w": 63,
+					"__h": 37
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 5,
+						"y": 1
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/1/0",
+					"__w": 11,
+					"__h": 3
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 26
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/2/0",
+					"__w": 59,
+					"__h": 53
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/3/0",
+					"__w": 58,
+					"__h": 46
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/4/0",
+					"__w": 56,
+					"__h": 46
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/5/0",
+					"__w": 61,
+					"__h": 46
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/6/0",
+					"__w": 62,
+					"__h": 46
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/7/0",
+					"__w": 60,
+					"__h": 46
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 28,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/milepost/henesis/8/0",
+					"__w": 57,
+					"__h": 46
+				}
+			}
+		}
+	},
+	"miniD": {
+		"portalEff": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 63,
+						"y": 95
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/0",
+					"__w": 131,
+					"__h": 166
+				},
+				"1": {
+					"origin": {
+						"x": 63,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/1",
+					"__w": 130,
+					"__h": 164
+				},
+				"2": {
+					"origin": {
+						"x": 62,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/2",
+					"__w": 128,
+					"__h": 163
+				},
+				"3": {
+					"origin": {
+						"x": 58,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/3",
+					"__w": 128,
+					"__h": 164
+				},
+				"4": {
+					"origin": {
+						"x": 57,
+						"y": 90
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/4",
+					"__w": 128,
+					"__h": 161
+				},
+				"5": {
+					"origin": {
+						"x": 62,
+						"y": 92
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/5",
+					"__w": 131,
+					"__h": 164
+				},
+				"6": {
+					"origin": {
+						"x": 62,
+						"y": 94
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/6",
+					"__w": 130,
+					"__h": 165
+				},
+				"7": {
+					"origin": {
+						"x": 63,
+						"y": 95
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/7",
+					"__w": 131,
+					"__h": 166
+				},
+				"8": {
+					"origin": {
+						"x": 63,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/8",
+					"__w": 130,
+					"__h": 164
+				},
+				"9": {
+					"origin": {
+						"x": 62,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/9",
+					"__w": 128,
+					"__h": 163
+				},
+				"10": {
+					"origin": {
+						"x": 58,
+						"y": 93
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/10",
+					"__w": 128,
+					"__h": 164
+				},
+				"11": {
+					"origin": {
+						"x": 57,
+						"y": 90
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/11",
+					"__w": 128,
+					"__h": 161
+				},
+				"12": {
+					"origin": {
+						"x": 62,
+						"y": 92
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/12",
+					"__w": 131,
+					"__h": 163
+				},
+				"13": {
+					"origin": {
+						"x": 62,
+						"y": 94
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/0/13",
+					"__w": 130,
+					"__h": 165
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 55,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/0",
+					"__w": 111,
+					"__h": 140
+				},
+				"1": {
+					"origin": {
+						"x": 55,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/1",
+					"__w": 110,
+					"__h": 138
+				},
+				"2": {
+					"origin": {
+						"x": 54,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/2",
+					"__w": 108,
+					"__h": 137
+				},
+				"3": {
+					"origin": {
+						"x": 51,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/3",
+					"__w": 109,
+					"__h": 138
+				},
+				"4": {
+					"origin": {
+						"x": 50,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/4",
+					"__w": 109,
+					"__h": 136
+				},
+				"5": {
+					"origin": {
+						"x": 54,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/5",
+					"__w": 111,
+					"__h": 138
+				},
+				"6": {
+					"origin": {
+						"x": 54,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/6",
+					"__w": 110,
+					"__h": 139
+				},
+				"7": {
+					"origin": {
+						"x": 55,
+						"y": 82
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/7",
+					"__w": 111,
+					"__h": 140
+				},
+				"8": {
+					"origin": {
+						"x": 55,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/8",
+					"__w": 110,
+					"__h": 138
+				},
+				"9": {
+					"origin": {
+						"x": 54,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/9",
+					"__w": 108,
+					"__h": 137
+				},
+				"10": {
+					"origin": {
+						"x": 51,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/10",
+					"__w": 109,
+					"__h": 138
+				},
+				"11": {
+					"origin": {
+						"x": 50,
+						"y": 78
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/11",
+					"__w": 109,
+					"__h": 136
+				},
+				"12": {
+					"origin": {
+						"x": 54,
+						"y": 79
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/12",
+					"__w": 111,
+					"__h": 138
+				},
+				"13": {
+					"origin": {
+						"x": 54,
+						"y": 80
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/miniD/portalEff/1/13",
+					"__w": 110,
+					"__h": 139
+				}
+			}
+		}
+	},
+	"tutorial": {
+		"key": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/0",
+					"__w": 54,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 24,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/1",
+					"__w": 52,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 23,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/2",
+					"__w": 50,
+					"__h": 50
+				},
+				"3": {
+					"origin": {
+						"x": 26,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/3",
+					"__w": 56,
+					"__h": 55
+				},
+				"4": {
+					"origin": {
+						"x": 25,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/4",
+					"__w": 54,
+					"__h": 54
+				},
+				"5": {
+					"origin": {
+						"x": 26,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/0/5",
+					"__w": 56,
+					"__h": 55
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 33,
+						"y": 31
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/0",
+					"__w": 66,
+					"__h": 63
+				},
+				"1": {
+					"origin": {
+						"x": 32,
+						"y": 30
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/1",
+					"__w": 64,
+					"__h": 61
+				},
+				"2": {
+					"origin": {
+						"x": 31,
+						"y": 29
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/2",
+					"__w": 62,
+					"__h": 59
+				},
+				"3": {
+					"origin": {
+						"x": 33,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/3",
+					"__w": 67,
+					"__h": 65
+				},
+				"4": {
+					"origin": {
+						"x": 33,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/4",
+					"__w": 67,
+					"__h": 65
+				},
+				"5": {
+					"origin": {
+						"x": 34,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/1/5",
+					"__w": 68,
+					"__h": 65
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 55,
+						"y": 64
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/0",
+					"__w": 141,
+					"__h": 65
+				},
+				"1": {
+					"origin": {
+						"x": 54,
+						"y": 63
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/1",
+					"__w": 139,
+					"__h": 63
+				},
+				"2": {
+					"origin": {
+						"x": 53,
+						"y": 62
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/2",
+					"__w": 137,
+					"__h": 61
+				},
+				"3": {
+					"origin": {
+						"x": 55,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/3",
+					"__w": 142,
+					"__h": 67
+				},
+				"4": {
+					"origin": {
+						"x": 55,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/4",
+					"__w": 142,
+					"__h": 67
+				},
+				"5": {
+					"origin": {
+						"x": 56,
+						"y": 65
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/2/5",
+					"__w": 143,
+					"__h": 67
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/0",
+					"__w": 54,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 24,
+						"y": 53
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/1",
+					"__w": 52,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 23,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/2",
+					"__w": 50,
+					"__h": 50
+				},
+				"3": {
+					"origin": {
+						"x": 26,
+						"y": 53
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/3",
+					"__w": 56,
+					"__h": 55
+				},
+				"4": {
+					"origin": {
+						"x": 25,
+						"y": 52
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/4",
+					"__w": 54,
+					"__h": 54
+				},
+				"5": {
+					"origin": {
+						"x": 26,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/3/5",
+					"__w": 56,
+					"__h": 55
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/0",
+					"__w": 81,
+					"__h": 81
+				},
+				"1": {
+					"origin": {
+						"x": 40,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/1",
+					"__w": 80,
+					"__h": 81
+				},
+				"2": {
+					"origin": {
+						"x": 39,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/2",
+					"__w": 79,
+					"__h": 81
+				},
+				"3": {
+					"origin": {
+						"x": 43,
+						"y": 40
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/3",
+					"__w": 86,
+					"__h": 84
+				},
+				"4": {
+					"origin": {
+						"x": 42,
+						"y": 39
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/4",
+					"__w": 85,
+					"__h": 82
+				},
+				"5": {
+					"origin": {
+						"x": 40,
+						"y": 39
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/4/5",
+					"__w": 81,
+					"__h": 80
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 31,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/0",
+					"__w": 62,
+					"__h": 37
+				},
+				"1": {
+					"origin": {
+						"x": 31,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/1",
+					"__w": 62,
+					"__h": 36
+				},
+				"2": {
+					"origin": {
+						"x": 31,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/2",
+					"__w": 62,
+					"__h": 35
+				},
+				"3": {
+					"origin": {
+						"x": 34,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/3",
+					"__w": 68,
+					"__h": 41
+				},
+				"4": {
+					"origin": {
+						"x": 33,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/4",
+					"__w": 66,
+					"__h": 41
+				},
+				"5": {
+					"origin": {
+						"x": 31,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/5/5",
+					"__w": 62,
+					"__h": 37
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 18,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/0",
+					"__w": 54,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 17,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/1",
+					"__w": 52,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 16,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/2",
+					"__w": 50,
+					"__h": 50
+				},
+				"3": {
+					"origin": {
+						"x": 19,
+						"y": 33
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/3",
+					"__w": 56,
+					"__h": 55
+				},
+				"4": {
+					"origin": {
+						"x": 18,
+						"y": 32
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/4",
+					"__w": 54,
+					"__h": 54
+				},
+				"5": {
+					"origin": {
+						"x": 19,
+						"y": 34
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/6/5",
+					"__w": 56,
+					"__h": 55
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 29,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/0",
+					"__w": 80,
+					"__h": 51
+				},
+				"1": {
+					"origin": {
+						"x": 28,
+						"y": 18
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/1",
+					"__w": 78,
+					"__h": 49
+				},
+				"2": {
+					"origin": {
+						"x": 27,
+						"y": 16
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/2",
+					"__w": 75,
+					"__h": 45
+				},
+				"3": {
+					"origin": {
+						"x": 31,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/3",
+					"__w": 84,
+					"__h": 54
+				},
+				"4": {
+					"origin": {
+						"x": 30,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/4",
+					"__w": 82,
+					"__h": 52
+				},
+				"5": {
+					"origin": {
+						"x": 30,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/7/4",
+					"__w": 82,
+					"__h": 52
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 46,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/0",
+					"__w": 79,
+					"__h": 50
+				},
+				"1": {
+					"origin": {
+						"x": 45,
+						"y": 19
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/1",
+					"__w": 77,
+					"__h": 48
+				},
+				"2": {
+					"origin": {
+						"x": 43,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/2",
+					"__w": 73,
+					"__h": 44
+				},
+				"3": {
+					"origin": {
+						"x": 48,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/3",
+					"__w": 82,
+					"__h": 53
+				},
+				"4": {
+					"origin": {
+						"x": 47,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/4",
+					"__w": 80,
+					"__h": 51
+				},
+				"5": {
+					"origin": {
+						"x": 47,
+						"y": 20
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/key/8/4",
+					"__w": 80,
+					"__h": 51
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 27,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/0",
+					"__w": 54,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 26,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/1",
+					"__w": 52,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 25,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/2",
+					"__w": 50,
+					"__h": 50
+				},
+				"3": {
+					"origin": {
+						"x": 28,
+						"y": 24
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/3",
+					"__w": 56,
+					"__h": 55
+				},
+				"4": {
+					"origin": {
+						"x": 27,
+						"y": 23
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/4",
+					"__w": 54,
+					"__h": 54
+				},
+				"5": {
+					"origin": {
+						"x": 28,
+						"y": 25
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/9/5",
+					"__w": 56,
+					"__h": 55
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 25,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/0",
+					"__w": 54,
+					"__h": 54
+				},
+				"1": {
+					"origin": {
+						"x": 24,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/1",
+					"__w": 52,
+					"__h": 52
+				},
+				"2": {
+					"origin": {
+						"x": 23,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/2",
+					"__w": 50,
+					"__h": 50
+				},
+				"3": {
+					"origin": {
+						"x": 26,
+						"y": 49
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/3",
+					"__w": 56,
+					"__h": 55
+				},
+				"4": {
+					"origin": {
+						"x": 25,
+						"y": 48
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/4",
+					"__w": 54,
+					"__h": 54
+				},
+				"5": {
+					"origin": {
+						"x": 26,
+						"y": 50
+					},
+					"z": 0,
+					"": "/Map/Obj/effect/quest/key/10/5",
+					"__w": 56,
+					"__h": 55
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 92,
+						"y": 19
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/tutorial/key/11/0",
+					"__w": 191,
+					"__h": 45
+				},
+				"1": {
+					"origin": {
+						"x": 94,
+						"y": 18
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/Map/Obj/guide/tutorial/key/11/1",
+					"__w": 195,
+					"__h": 46
+				}
+			}
+		},
+		"suryun": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 105,
+						"y": 98
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/suryun/0/0",
+					"__w": 211,
+					"__h": 197
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 108,
+						"y": 93
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/suryun/1/0",
+					"__w": 216,
+					"__h": 186
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 120,
+						"y": 110
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/suryun/2/0",
+					"__w": 241,
+					"__h": 222
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 105,
+						"y": 105
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/suryun/3/0",
+					"__w": 210,
+					"__h": 210
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 158,
+						"y": 102
+					},
+					"z": 0,
+					"": "/Map/Obj/guide/tutorial/suryun/4/0",
+					"__w": 316,
+					"__h": 205
+				}
+			}
+		}
+	}
+}
