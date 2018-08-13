@@ -1,0 +1,926 @@
+{
+	"house0": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 300
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house0/basic/0/0",
+					"__w": 800,
+					"__h": 600
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 241
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house0/basic/1/0",
+					"__w": 800,
+					"__h": 483
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 13
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house0/basic/2/0",
+					"__w": 800,
+					"__h": 27
+				}
+			}
+		}
+	},
+	"house1": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 307,
+						"y": 266
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house1/basic/0/0",
+					"__w": 615,
+					"__h": 533
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 222,
+						"y": 132
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house1/basic/1/0",
+					"__w": 445,
+					"__h": 264
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 203,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house1/basic/2/0",
+					"__w": 406,
+					"__h": 10
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 175,
+						"y": 11
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house1/basic/3/0",
+					"__w": 350,
+					"__h": 22
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 235,
+						"y": 99
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house1/basic/4/0",
+					"__w": 470,
+					"__h": 199
+				}
+			}
+		}
+	},
+	"house2": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 309,
+						"y": 266
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house2/basic/0/0",
+					"__w": 619,
+					"__h": 533
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 276,
+						"y": 156
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house2/basic/1/0",
+					"__w": 552,
+					"__h": 312
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 241,
+						"y": 111
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house2/basic/2/0",
+					"__w": 482,
+					"__h": 223
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 185,
+						"y": 21
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house2/basic/3/0",
+					"__w": 371,
+					"__h": 42
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 215,
+						"y": 5
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house2/basic/4/0",
+					"__w": 431,
+					"__h": 10
+				}
+			}
+		}
+	},
+	"house3": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 300
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house3/basic/0/0",
+					"__w": 800,
+					"__h": 721
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 241
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house3/basic/1/0",
+					"__w": 800,
+					"__h": 608
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 13
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house0/basic/2/0",
+					"__w": 800,
+					"__h": 27
+				}
+			}
+		}
+	},
+	"house4": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 400,
+						"y": 300
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house4/basic/0/0",
+					"__w": 800,
+					"__h": 600
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 401,
+						"y": 55
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house4/basic/1/0",
+					"__w": 802,
+					"__h": 110
+				}
+			}
+		}
+	},
+	"house_info": {
+		"basic": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 385,
+						"y": 240
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/basic/0/0",
+					"__w": 770,
+					"__h": 480
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 96,
+						"y": 117
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/basic/1/0",
+					"__w": 192,
+					"__h": 235
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 121
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/basic/2/0",
+					"__w": 60,
+					"__h": 243
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 398,
+						"y": 58
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/house_info/basic/3/0",
+					"__w": 797,
+					"__h": 117
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 30,
+						"y": 122
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/basic/4/0",
+					"__w": 60,
+					"__h": 244
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 137,
+						"y": 116
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/basic/5/0",
+					"__w": 275,
+					"__h": 233
+				}
+			}
+		},
+		"acc": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 81,
+						"y": 216
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/0/0",
+					"__w": 163,
+					"__h": 433
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 99,
+						"y": 82
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/1/0",
+					"__w": 198,
+					"__h": 164
+				}
+			},
+			"2": {
+				"0": {
+					"origin": {
+						"x": 53,
+						"y": 89
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/2/0",
+					"__w": 107,
+					"__h": 178
+				}
+			},
+			"3": {
+				"0": {
+					"origin": {
+						"x": 70,
+						"y": 45
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/3/0",
+					"__w": 140,
+					"__h": 90
+				}
+			},
+			"4": {
+				"0": {
+					"origin": {
+						"x": 71,
+						"y": 55
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/4/0",
+					"__w": 142,
+					"__h": 111
+				}
+			},
+			"5": {
+				"0": {
+					"origin": {
+						"x": 62,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/5/0",
+					"__w": 124,
+					"__h": 103
+				}
+			},
+			"6": {
+				"0": {
+					"origin": {
+						"x": 52,
+						"y": 51
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/6/0",
+					"__w": 104,
+					"__h": 102
+				}
+			},
+			"7": {
+				"0": {
+					"origin": {
+						"x": 16,
+						"y": 14
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/7/0",
+					"__w": 33,
+					"__h": 28
+				}
+			},
+			"8": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/8/0",
+					"__w": 45,
+					"__h": 108
+				}
+			},
+			"9": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 32
+					},
+					"z": 0,
+					"a0": 50,
+					"a1": 255,
+					"delay": 3000,
+					"": "/Map/Obj/insideGS/house_info/acc/9/0",
+					"__w": 64,
+					"__h": 64
+				},
+				"1": {
+					"origin": {
+						"x": 32,
+						"y": 32
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 50,
+					"delay": 3000,
+					"": "/Map/Obj/insideGS/house_info/acc/9/0",
+					"__w": 64,
+					"__h": 64
+				}
+			},
+			"10": {
+				"0": {
+					"origin": {
+						"x": 22,
+						"y": 54
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/house_info/acc/8/0",
+					"__w": 45,
+					"__h": 108
+				}
+			},
+			"11": {
+				"0": {
+					"origin": {
+						"x": 32,
+						"y": 32
+					},
+					"z": 0,
+					"a0": 50,
+					"a1": 255,
+					"delay": 3000,
+					"": "/Map/Obj/insideGS/house_info/acc/9/0",
+					"__w": 64,
+					"__h": 64
+				},
+				"1": {
+					"origin": {
+						"x": 32,
+						"y": 32
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 50,
+					"delay": 3000,
+					"": "/Map/Obj/insideGS/house_info/acc/9/0",
+					"__w": 64,
+					"__h": 64
+				}
+			}
+		}
+	},
+	"newHouseTile": {
+		"tile": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 683,
+						"y": 80
+					},
+					"z": 0,
+					"foothold": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/newHouseTile/tile/0/0",
+					"__w": 1366,
+					"__h": 161
+				}
+			}
+		}
+	},
+	"acherCenter": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 304
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/acherCenter/inside/0/0",
+					"__w": 857,
+					"__h": 609
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/acherCenter/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"lina_House": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/lina_House/inside/0/0",
+					"__w": 857,
+					"__h": 609
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 166,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 220,
+					"": "/Map/Obj/insideGS/lina_House/inside/1/0",
+					"__w": 332,
+					"__h": 69
+				},
+				"1": {
+					"origin": {
+						"x": 166,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 220,
+					"a1": 255,
+					"": "/Map/Obj/insideGS/lina_House/inside/1/0",
+					"__w": 332,
+					"__h": 69
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/lina_House/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"maya_house": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 304
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/maya_house/inside/0/0",
+					"__w": 857,
+					"__h": 609
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/maya_house/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"stan_House": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 427,
+						"y": 304
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/stan_House/inside/0/0",
+					"__w": 854,
+					"__h": 608
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/stan_House/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"skinCareShop": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 303
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/skinCareShop/inside/0/0",
+					"__w": 857,
+					"__h": 607
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/skinCareShop/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"potionShop": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 303
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/potionShop/inside/0/0",
+					"__w": 856,
+					"__h": 607
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 166,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 255,
+					"a1": 220,
+					"": "/Map/Obj/insideGS/lina_House/inside/1/0",
+					"__w": 332,
+					"__h": 69
+				},
+				"1": {
+					"origin": {
+						"x": 166,
+						"y": 34
+					},
+					"z": 0,
+					"a0": 220,
+					"a1": 255,
+					"": "/Map/Obj/insideGS/lina_House/inside/1/0",
+					"__w": 332,
+					"__h": 69
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/potionShop/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"weaponShop": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 427,
+						"y": 303
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}"
+					},
+					"ladder": "{Shape2D#Convex2D}",
+					"": "/Map/Obj/insideGS/weaponShop/inside/0/0",
+					"__w": 854,
+					"__h": 607
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/weaponShop/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"hairShop": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 303
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/hairShop/inside/0/0",
+					"__w": 857,
+					"__h": 607
+				}
+			},
+			"1": {
+				"0": {
+					"origin": {
+						"x": 56,
+						"y": 17
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/hairShop/inside/1/0",
+					"__w": 112,
+					"__h": 35
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/hairShop/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	},
+	"cosmeticSurgery": {
+		"inside": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 428,
+						"y": 303
+					},
+					"z": 0,
+					"foothold": {
+						"0": "{Shape2D#Convex2D}",
+						"1": "{Shape2D#Convex2D}",
+						"2": "{Shape2D#Convex2D}",
+						"3": "{Shape2D#Convex2D}",
+						"4": "{Shape2D#Convex2D}",
+						"5": "{Shape2D#Convex2D}",
+						"6": "{Shape2D#Convex2D}",
+						"7": "{Shape2D#Convex2D}",
+						"8": "{Shape2D#Convex2D}",
+						"9": "{Shape2D#Convex2D}",
+						"10": "{Shape2D#Convex2D}",
+						"11": "{Shape2D#Convex2D}"
+					},
+					"": "/Map/Obj/insideGS/cosmeticSurgery/inside/0/0",
+					"__w": 857,
+					"__h": 607
+				}
+			}
+		},
+		"exteriorWall": {
+			"0": {
+				"0": {
+					"origin": {
+						"x": 648,
+						"y": 304
+					},
+					"z": 0,
+					"": "/Map/Obj/insideGS/cosmeticSurgery/exteriorWall/0/0",
+					"__w": 1297,
+					"__h": 609
+				}
+			}
+		}
+	}
+}

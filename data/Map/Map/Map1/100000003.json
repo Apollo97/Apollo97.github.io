@@ -1,0 +1,378 @@
+{
+	"0": {
+		"info": {},
+		"tile": {},
+		"obj": {
+			"0": {
+				"oS": "insideGS",
+				"l0": "lina_House",
+				"l1": "exteriorWall",
+				"l2": "0",
+				"x": 33,
+				"y": -165,
+				"z": 9,
+				"f": 0,
+				"zM": 1,
+				"r": 0,
+				"move": 0,
+				"dynamic": 0,
+				"piece": 0
+			},
+			"1": {
+				"oS": "insideGS",
+				"l0": "lina_House",
+				"l1": "inside",
+				"l2": "0",
+				"x": 35,
+				"y": -164,
+				"z": 7,
+				"f": 0,
+				"zM": 1,
+				"r": 0,
+				"move": 0,
+				"dynamic": 0,
+				"piece": 1
+			},
+			"2": {
+				"oS": "insideGS",
+				"l0": "lina_House",
+				"l1": "inside",
+				"l2": "1",
+				"x": 35,
+				"y": -102,
+				"z": 9,
+				"f": 0,
+				"zM": 0,
+				"r": 0,
+				"move": 0,
+				"dynamic": 0,
+				"piece": 2
+			}
+		}
+	},
+	"1": {
+		"info": {},
+		"tile": {},
+		"obj": {
+			"0": {
+				"oS": "insideGS",
+				"l0": "newHouseTile",
+				"l1": "tile",
+				"l2": "0",
+				"x": 0,
+				"y": 220,
+				"z": 9,
+				"f": 0,
+				"zM": 0,
+				"r": 0,
+				"move": 0,
+				"dynamic": 0,
+				"piece": 0
+			}
+		}
+	},
+	"2": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"3": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"4": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"5": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"6": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"7": {
+		"info": {},
+		"tile": {},
+		"obj": {}
+	},
+	"info": {
+		"version": 10,
+		"cloud": 0,
+		"town": 1,
+		"swim": 0,
+		"returnMap": 100000000,
+		"forcedReturn": 999999999,
+		"mobRate": 1,
+		"bgm": "Bgm00/FloralLife",
+		"mapMark": "Henesys",
+		"fly": 0,
+		"noMapCmd": 0,
+		"hideMinimap": 0,
+		"fieldLimit": 0,
+		"VRTop": -465,
+		"VRLeft": -681,
+		"VRBottom": 296,
+		"VRRight": 681,
+		"onFirstUserEnter": "",
+		"onUserEnter": "",
+		"standAlone": 0,
+		"partyStandAlone": 0,
+		"fieldScript": ""
+	},
+	"back": {
+		"0": {
+			"no": 0,
+			"x": -48,
+			"y": -109,
+			"rx": 0,
+			"ry": 0,
+			"type": 1,
+			"cx": 0,
+			"cy": 0,
+			"bS": "grassySoil_new",
+			"a": 255,
+			"front": 0,
+			"ani": 0,
+			"f": 0
+		},
+		"1": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 3,
+			"f": 0,
+			"x": -257,
+			"y": -200,
+			"rx": -1,
+			"ry": -2,
+			"type": 4,
+			"cx": 0,
+			"cy": 0,
+			"a": 255
+		},
+		"2": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 5,
+			"f": 0,
+			"x": -15,
+			"y": -108,
+			"rx": -2,
+			"ry": -5,
+			"type": 1,
+			"cx": 0,
+			"cy": 0,
+			"a": 255
+		},
+		"3": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 6,
+			"f": 0,
+			"x": -57,
+			"y": -55,
+			"rx": -3,
+			"ry": -10,
+			"type": 1,
+			"cx": 0,
+			"cy": 0,
+			"a": 255
+		},
+		"4": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 8,
+			"f": 0,
+			"x": -65,
+			"y": -78,
+			"rx": -2,
+			"ry": -10,
+			"type": 4,
+			"cx": 0,
+			"cy": 0,
+			"a": 255
+		},
+		"5": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 9,
+			"f": 0,
+			"x": -1177,
+			"y": -10,
+			"rx": -6,
+			"ry": -15,
+			"type": 1,
+			"cx": 1200,
+			"cy": 0,
+			"a": 255
+		},
+		"6": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 10,
+			"f": 0,
+			"x": -656,
+			"y": -76,
+			"rx": -6,
+			"ry": -15,
+			"type": 1,
+			"cx": 1200,
+			"cy": 0,
+			"a": 255
+		},
+		"7": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 12,
+			"f": 0,
+			"x": -21,
+			"y": 238,
+			"rx": -12,
+			"ry": -45,
+			"type": 1,
+			"cx": 0,
+			"cy": 0,
+			"a": 255
+		},
+		"8": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 17,
+			"f": 0,
+			"x": 15,
+			"y": 76,
+			"rx": -12,
+			"ry": -50,
+			"type": 1,
+			"cx": 2000,
+			"cy": 0,
+			"a": 255
+		},
+		"9": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 18,
+			"f": 0,
+			"x": 515,
+			"y": 102,
+			"rx": -12,
+			"ry": -50,
+			"type": 1,
+			"cx": 2000,
+			"cy": 0,
+			"a": 255
+		},
+		"10": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 15,
+			"f": 0,
+			"x": 847,
+			"y": 181,
+			"rx": -12,
+			"ry": -50,
+			"type": 1,
+			"cx": 2000,
+			"cy": 0,
+			"a": 255
+		},
+		"11": {
+			"bS": "grassySoil_new",
+			"front": 0,
+			"ani": 0,
+			"no": 16,
+			"f": 0,
+			"x": 1515,
+			"y": 113,
+			"rx": -12,
+			"ry": -50,
+			"type": 1,
+			"cx": 2000,
+			"cy": 0,
+			"a": 255
+		}
+	},
+	"life": {
+		"0": {
+			"type": "n",
+			"id": "1010100",
+			"x": -177,
+			"y": 131,
+			"mobTime": 0,
+			"f": 1,
+			"hide": 0,
+			"fh": 1,
+			"cy": 142,
+			"rx0": -227,
+			"rx1": -127
+		}
+	},
+	"reactor": {},
+	"foothold": {
+		"1": {
+			"0": {
+				"1": {
+					"x1": -683,
+					"y1": 142,
+					"x2": 684,
+					"y2": 142,
+					"prev": 0,
+					"next": 0,
+					"piece": 0
+				}
+			}
+		}
+	},
+	"ladderRope": {},
+	"miniMap": {
+		"canvas": {
+			"": "/Map/Map/Map1/100000003/miniMap/canvas",
+			"__w": 91,
+			"__h": 60
+		},
+		"width": 1462,
+		"height": 968,
+		"centerX": 731,
+		"centerY": 619,
+		"mag": 4
+	},
+	"portal": {
+		"0": {
+			"pn": "sp",
+			"pt": 0,
+			"x": 130,
+			"y": 133,
+			"tm": 999999999,
+			"tn": "",
+			"horizontalImpact": 0
+		},
+		"1": {
+			"pn": "out00",
+			"pt": 2,
+			"x": 286,
+			"y": 139,
+			"tm": 100000000,
+			"tn": "in05",
+			"horizontalImpact": 0,
+			"script": "",
+			"hideTooltip": 0,
+			"onlyOnce": 0,
+			"delay": 0
+		}
+	}
+}

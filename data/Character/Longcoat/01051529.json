@@ -1,0 +1,3263 @@
+{
+	"info": {
+		"icon": {
+			"origin": {
+				"x": -4,
+				"y": 28
+			},
+			"": "/Character/Longcoat/01051529/info/icon",
+			"__w": 26,
+			"__h": 23
+		},
+		"iconRaw": {
+			"origin": {
+				"x": -2,
+				"y": 28
+			},
+			"": "/Character/Longcoat/01051529/info/iconRaw",
+			"__w": 30,
+			"__h": 28
+		},
+		"islot": "MaPn",
+		"vslot": "MaPn",
+		"reqJob": 0,
+		"reqLevel": 0,
+		"reqSTR": 0,
+		"reqDEX": 0,
+		"reqINT": 0,
+		"reqLUK": 0,
+		"cash": 1
+	},
+	"walk1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk1/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk1/0/mailArm",
+				"__w": 12,
+				"__h": 10
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk1/1/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk1/1/mailArm",
+				"__w": 7,
+				"__h": 15
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk1/2/mail",
+				"__w": 20,
+				"__h": 17
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk1/2/mailArm",
+				"__w": 11,
+				"__h": 9
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk1/3/mail",
+				"__w": 24,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk1/3/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		}
+	},
+	"walk2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk2/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -7,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk2/0/mailArm",
+				"__w": 6,
+				"__h": 13
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk2/1/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk2/1/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk2/2/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk2/2/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/walk2/3/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -8,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/walk2/3/mailArm",
+				"__w": 6,
+				"__h": 13
+			}
+		}
+	},
+	"stand1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand1/0/mail",
+				"__w": 19,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -9,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand1/0/mailArm",
+				"__w": 7,
+				"__h": 11
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand1/1/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -8,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand1/1/mailArm",
+				"__w": 8,
+				"__h": 11
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand1/2/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -7,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand1/2/mailArm",
+				"__w": 9,
+				"__h": 11
+			}
+		}
+	},
+	"stand2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand2/0/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand2/0/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand2/1/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand2/1/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stand2/2/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stand2/2/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		}
+	},
+	"alert": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/alert/0/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/alert/0/mailArm",
+				"__w": 8,
+				"__h": 13
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/alert/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/alert/1/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/alert/2/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/alert/2/mailArm",
+				"__w": 7,
+				"__h": 15
+			}
+		}
+	},
+	"swingO1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO1/0/mail",
+				"__w": 19,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 12,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO1/0/mailArm",
+				"__w": 9,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 3,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO1/1/mail",
+				"__w": 18,
+				"__h": 23
+			},
+			"mailArm": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingO1/1/mailArm",
+				"__w": 11,
+				"__h": 7
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO1/2/mail",
+				"__w": 27,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -2,
+					"y": 20
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingO1/2/mailArm",
+				"__w": 13,
+				"__h": 14
+			}
+		}
+	},
+	"swingO2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO2/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 16,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/swingO2/0/mailArm",
+				"__w": 17,
+				"__h": 8
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 9,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO2/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 17,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO2/1/mailArm",
+				"__w": 16,
+				"__h": 6
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 12,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO2/2/mail",
+				"__w": 25,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -4,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO2/2/mailArm",
+				"__w": 12,
+				"__h": 12
+			}
+		}
+	},
+	"swingO3": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 18,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO3/0/mail",
+				"__w": 30,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -3,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO3/0/mailArm",
+				"__w": 12,
+				"__h": 6
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 4,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO3/1/mail",
+				"__w": 18,
+				"__h": 20
+			},
+			"mailArm": {
+				"origin": {
+					"x": 14,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO3/1/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 3,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO3/2/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 8,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO3/2/mailArm",
+				"__w": 8,
+				"__h": 8
+			}
+		}
+	},
+	"swingOF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 14,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingOF/0/mail",
+				"__w": 30,
+				"__h": 23
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 13,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backMailChest",
+				"": "/Character/Longcoat/01051529/swingOF/1/mail",
+				"__w": 31,
+				"__h": 27
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 17,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingOF/2/mail",
+				"__w": 31,
+				"__h": 21
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 13,
+					"y": 18
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingOF/3/mail",
+				"__w": 27,
+				"__h": 25
+			},
+			"mailArm": {
+				"origin": {
+					"x": 15,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingOF/3/mailArm",
+				"__w": 6,
+				"__h": 16
+			}
+		}
+	},
+	"swingT1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT1/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 2,
+					"y": 19
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHairBelowWeapon",
+				"": "/Character/Longcoat/01051529/swingT1/0/mailArm",
+				"__w": 7,
+				"__h": 12
+			},
+			"mailArmOverHair": {
+				"origin": {
+					"x": -6,
+					"y": 22
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingT1/0/mailArmOverHair",
+				"__w": 12,
+				"__h": 17
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT1/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 18,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHairBelowWeapon",
+				"": "/Character/Longcoat/01051529/swingT1/1/mailArm",
+				"__w": 13,
+				"__h": 7
+			},
+			"mailArmOverHair": {
+				"origin": {
+					"x": 12,
+					"y": 17
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingT1/1/mailArmOverHair",
+				"__w": 13,
+				"__h": 11
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT1/2/mail",
+				"__w": 27,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 14,
+					"y": 6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingT1/2/mailArm",
+				"__w": 11,
+				"__h": 14
+			}
+		}
+	},
+	"swingT2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT2/0/mail",
+				"__w": 26,
+				"__h": 23
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 14,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT2/1/mail",
+				"__w": 25,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 10,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingT2/1/mailArm",
+				"__w": 15,
+				"__h": 7
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT2/2/mail",
+				"__w": 24,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 9,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHeadOverMailChest",
+				"": "/Character/Longcoat/01051529/swingT2/2/mailArm",
+				"__w": 21,
+				"__h": 16
+			}
+		}
+	},
+	"swingT3": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT3/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 5,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingT3/0/mailArm",
+				"__w": 10,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT3/1/mail",
+				"__w": 21,
+				"__h": 15
+			},
+			"mailArm": {
+				"origin": {
+					"x": 8,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHeadOverMailChest",
+				"": "/Character/Longcoat/01051529/swingT3/1/mailArm",
+				"__w": 19,
+				"__h": 13
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 9,
+					"y": 15
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingT3/2/mail",
+				"__w": 24,
+				"__h": 23
+			},
+			"mailArm": {
+				"origin": {
+					"x": 19,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/swingT3/2/mailArm",
+				"__w": 14,
+				"__h": 11
+			}
+		}
+	},
+	"swingTF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 18
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backMailChestOverPants",
+				"": "/Character/Longcoat/01051529/swingTF/0/mail",
+				"__w": 20,
+				"__h": 26
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 13,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingTF/1/mail",
+				"__w": 22,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -1,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHeadOverMailChest",
+				"": "/Character/Longcoat/01051529/swingTF/1/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 9,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingTF/2/mail",
+				"__w": 28,
+				"__h": 29
+			},
+			"mailArm": {
+				"origin": {
+					"x": 12,
+					"y": 23
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingTF/2/mailArm",
+				"__w": 17,
+				"__h": 18
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 12,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingTF/3/mail",
+				"__w": 27,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 16,
+					"y": 8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingTF/3/mailArm",
+				"__w": 11,
+				"__h": 14
+			}
+		}
+	},
+	"swingP1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP1/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArmOverHair": {
+				"origin": {
+					"x": -5,
+					"y": 23
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingP1/0/mailArmOverHair",
+				"__w": 12,
+				"__h": 17
+			},
+			"mailArm": {
+				"origin": {
+					"x": 8,
+					"y": 21
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingP1/0/mailArm",
+				"__w": 10,
+				"__h": 14
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP1/1/mail",
+				"__w": 28,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 12,
+					"y": 18
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingP1/1/mailArm",
+				"__w": 13,
+				"__h": 11
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP1/2/mail",
+				"__w": 27,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 14,
+					"y": 7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingT1/2/mailArm",
+				"__w": 11,
+				"__h": 14
+			}
+		}
+	},
+	"swingP2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 9,
+					"y": 20
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP2/0/mail",
+				"__w": 21,
+				"__h": 28
+			},
+			"mailArm": {
+				"origin": {
+					"x": 16,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingP2/0/mailArm",
+				"__w": 17,
+				"__h": 7
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP2/1/mail",
+				"__w": 28,
+				"__h": 23
+			},
+			"mailArm": {
+				"origin": {
+					"x": 13,
+					"y": 7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingP2/1/mailArm",
+				"__w": 15,
+				"__h": 9
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingP2/2/mail",
+				"__w": 22,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 9,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/swingP2/2/mailArm",
+				"__w": 22,
+				"__h": 16
+			}
+		}
+	},
+	"swingPF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/0/mail",
+				"__w": 29,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 17
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingPF/0/mailArm",
+				"__w": 19,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 14,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/1/mail",
+				"__w": 27,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -7,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingPF/1/mailArm",
+				"__w": 18,
+				"__h": 7
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/2/mail",
+				"__w": 19,
+				"__h": 22
+			},
+			"mailArm": {
+				"origin": {
+					"x": 14,
+					"y": 21
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingP1/0/mailArm",
+				"__w": 10,
+				"__h": 14
+			},
+			"mailArmOverHair": {
+				"origin": {
+					"x": -1,
+					"y": 24
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingPF/2/mailArmOverHair",
+				"__w": 13,
+				"__h": 18
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 12,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/3/mail",
+				"__w": 22,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 16,
+					"y": 7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/swingPF/3/mailArm",
+				"__w": 11,
+				"__h": 16
+			}
+		}
+	},
+	"stabO1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 17,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabO1/0/mail",
+				"__w": 28,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/stabO1/0/mailArm",
+				"__w": 12,
+				"__h": 10
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabO1/1/mail",
+				"__w": 23,
+				"__h": 17
+			},
+			"mailArm": {
+				"origin": {
+					"x": 21,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabO1/1/mailArm",
+				"__w": 18,
+				"__h": 6
+			}
+		}
+	},
+	"stabO2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabO2/0/mail",
+				"__w": 26,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabO2/0/mailArm",
+				"__w": 12,
+				"__h": 6
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 6,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabO2/1/mail",
+				"__w": 23,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 19,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabO2/1/mailArm",
+				"__w": 17,
+				"__h": 5
+			}
+		}
+	},
+	"stabOF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 12,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabOF/0/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 3,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabOF/0/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 25,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabOF/1/mail",
+				"__w": 34,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 2,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabOF/1/mailArm",
+				"__w": 17,
+				"__h": 8
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabOF/2/mail",
+				"__w": 31,
+				"__h": 17
+			},
+			"mailArm": {
+				"origin": {
+					"x": 22,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabOF/2/mailArm",
+				"__w": 18,
+				"__h": 5
+			}
+		}
+	},
+	"stabT1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT1/0/mail",
+				"__w": 21,
+				"__h": 20
+			},
+			"mailArm": {
+				"origin": {
+					"x": -1,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT1/0/mailArm",
+				"__w": 21,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT1/1/mail",
+				"__w": 27,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -2,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT1/1/mailArm",
+				"__w": 19,
+				"__h": 9
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT1/2/mail",
+				"__w": 38,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -1,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT1/2/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		}
+	},
+	"stabT2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 13,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT2/0/mail",
+				"__w": 26,
+				"__h": 20
+			},
+			"mailArm": {
+				"origin": {
+					"x": -3,
+					"y": 15
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT2/0/mailArm",
+				"__w": 15,
+				"__h": 10
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 13,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT2/1/mail",
+				"__w": 27,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 4,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT2/1/mailArm",
+				"__w": 20,
+				"__h": 10
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT2/2/mail",
+				"__w": 37,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -1,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT2/2/mailArm",
+				"__w": 13,
+				"__h": 13
+			}
+		}
+	},
+	"stabTF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 16,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/0/mail",
+				"__w": 29,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 17
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingPF/0/mailArm",
+				"__w": 19,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 14,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingPF/1/mail",
+				"__w": 27,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -7,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingPF/1/mailArm",
+				"__w": 18,
+				"__h": 7
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 12,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabTF/2/mail",
+				"__w": 20,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -3,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabTF/2/mailArm",
+				"__w": 16,
+				"__h": 6
+			},
+			"mailArmOverHair": {
+				"origin": {
+					"x": 6,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/stabTF/2/mailArmOverHair",
+				"__w": 13,
+				"__h": 9
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/stabT1/2/mail",
+				"__w": 38,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -1,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/stabT1/2/mailArm",
+				"__w": 13,
+				"__h": 8
+			}
+		}
+	},
+	"shoot1": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 18,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot1/0/mail",
+				"__w": 29,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 4,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot1/0/mailArm",
+				"__w": 14,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 18,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot1/0/mail",
+				"__w": 29,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot1/1/mailArm",
+				"__w": 11,
+				"__h": 8
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 18,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot1/0/mail",
+				"__w": 29,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot1/1/mailArm",
+				"__w": 11,
+				"__h": 8
+			}
+		}
+	},
+	"shoot2": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot2/0/mail",
+				"__w": 23,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot2/0/mailArm",
+				"__w": 10,
+				"__h": 9
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot2/1/mail",
+				"__w": 23,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 6,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot2/1/mailArm",
+				"__w": 14,
+				"__h": 6
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot2/2/mail",
+				"__w": 22,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot2/2/mailArm",
+				"__w": 8,
+				"__h": 4
+			}
+		},
+		"3": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot2/3/mail",
+				"__w": 23,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -4,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot2/3/mailArm",
+				"__w": 11,
+				"__h": 9
+			}
+		},
+		"4": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shoot2/4/mail",
+				"__w": 21,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shoot2/4/mailArm",
+				"__w": 11,
+				"__h": 10
+			}
+		}
+	},
+	"shootF": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shootF/0/mail",
+				"__w": 29,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": 3,
+					"y": 17
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shootF/0/mailArm",
+				"__w": 12,
+				"__h": 11
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shootF/1/mail",
+				"__w": 29,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -8,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shootF/1/mailArm",
+				"__w": 9,
+				"__h": 11
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 21,
+					"y": 14
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/shootF/1/mail",
+				"__w": 29,
+				"__h": 21
+			},
+			"mailArm": {
+				"origin": {
+					"x": -8,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/shootF/1/mailArm",
+				"__w": 9,
+				"__h": 11
+			}
+		}
+	},
+	"proneStab": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 33,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/proneStab/0/mail",
+				"__w": 45,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 5,
+					"y": 5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/proneStab/0/mailArm",
+				"__w": 11,
+				"__h": 8
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 33,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/proneStab/1/mail",
+				"__w": 45,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 19,
+					"y": 5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/proneStab/1/mailArm",
+				"__w": 19,
+				"__h": 7
+			}
+		}
+	},
+	"prone": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 33,
+					"y": 16
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/proneStab/0/mail",
+				"__w": 45,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 5,
+					"y": 5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/proneStab/0/mailArm",
+				"__w": 11,
+				"__h": 8
+			}
+		}
+	},
+	"heal": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/alert/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/alert/1/mailArm",
+				"__w": 7,
+				"__h": 13
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 9,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO2/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": 17,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArm",
+				"": "/Character/Longcoat/01051529/swingO2/1/mailArm",
+				"__w": 16,
+				"__h": 6
+			}
+		},
+		"2": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/swingO2/0/mail",
+				"__w": 20,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": 16,
+					"y": 13
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmBelowHead",
+				"": "/Character/Longcoat/01051529/swingO2/0/mailArm",
+				"__w": 17,
+				"__h": 8
+			}
+		}
+	},
+	"fly": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/fly/0/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/fly/0/mailArm",
+				"__w": 6,
+				"__h": 8
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 8,
+					"y": 12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/fly/1/mail",
+				"__w": 20,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -6,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/fly/0/mailArm",
+				"__w": 6,
+				"__h": 8
+			}
+		}
+	},
+	"jump": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/jump/0/mail",
+				"__w": 21,
+				"__h": 19
+			},
+			"mailArm": {
+				"origin": {
+					"x": -7,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/jump/0/mailArm",
+				"__w": 6,
+				"__h": 8
+			}
+		}
+	},
+	"sit": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 7,
+					"y": 10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "pantsOverShoesBelowMailChest",
+				"": "/Character/Longcoat/01051529/sit/0/mail",
+				"__w": 19,
+				"__h": 18
+			},
+			"mailArm": {
+				"origin": {
+					"x": -5,
+					"y": 9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "mailArmOverHair",
+				"": "/Character/Longcoat/01051529/sit/0/mailArm",
+				"__w": 5,
+				"__h": 12
+			}
+		}
+	},
+	"ladder": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 15
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backPants",
+				"": "/Character/Longcoat/01051529/ladder/0/mail",
+				"__w": 22,
+				"__h": 26
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 15
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backPants",
+				"": "/Character/Longcoat/01051529/ladder/1/mail",
+				"__w": 22,
+				"__h": 26
+			}
+		}
+	},
+	"rope": {
+		"0": {
+			"mail": {
+				"origin": {
+					"x": 11,
+					"y": 17
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backPants",
+				"": "/Character/Longcoat/01051529/rope/0/mail",
+				"__w": 20,
+				"__h": 27
+			}
+		},
+		"1": {
+			"mail": {
+				"origin": {
+					"x": 10,
+					"y": 11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backPants",
+				"": "/Character/Longcoat/01051529/rope/1/mail",
+				"__w": 20,
+				"__h": 20
+			}
+		}
+	}
+}

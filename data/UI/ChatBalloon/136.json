@@ -1,0 +1,93 @@
+{
+	"nw": {
+		"origin": {
+			"x": 34,
+			"y": 33
+		},
+		"": "/UI/ChatBalloon/136/nw",
+		"__w": 34,
+		"__h": 33
+	},
+	"ne": {
+		"origin": {
+			"x": 0,
+			"y": 13
+		},
+		"": "/UI/ChatBalloon/136/ne",
+		"__w": 17,
+		"__h": 13
+	},
+	"sw": {
+		"origin": {
+			"x": 19,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/sw",
+		"__w": 19,
+		"__h": 17
+	},
+	"se": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/se",
+		"__w": 17,
+		"__h": 15
+	},
+	"n": {
+		"origin": {
+			"x": 0,
+			"y": 13
+		},
+		"": "/UI/ChatBalloon/136/n",
+		"__w": 13,
+		"__h": 13
+	},
+	"s": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/s",
+		"__w": 13,
+		"__h": 15
+	},
+	"w": {
+		"origin": {
+			"x": 19,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/w",
+		"__w": 19,
+		"__h": 13
+	},
+	"e": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/e",
+		"__w": 17,
+		"__h": 13
+	},
+	"c": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/c",
+		"__w": 13,
+		"__h": 13
+	},
+	"arrow": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/ChatBalloon/136/arrow",
+		"__w": 13,
+		"__h": 20
+	},
+	"clr": -1
+}
