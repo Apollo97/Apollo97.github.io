@@ -1,0 +1,40 @@
+{
+	"info": {
+		"icon": {
+			"origin": {
+				"x": 1,
+				"y": 30
+			},
+			"": "/Item/Install/0301/03010000/info/icon",
+			"__w": 33,
+			"__h": 28
+		},
+		"iconRaw": {
+			"origin": {
+				"x": 1,
+				"y": 30
+			},
+			"": "/Item/Install/0301/03010000/info/iconRaw",
+			"__w": 33,
+			"__h": 26
+		},
+		"price": 100,
+		"slotMax": 1,
+		"recoveryHP": 50,
+		"tradeBlock": 1,
+		"notSale": 1
+	},
+	"effect": {
+		"0": {
+			"origin": {
+				"x": 21,
+				"y": -16
+			},
+			"": "/Item/Install/0301/03010000/effect/0",
+			"__w": 58,
+			"__h": 36
+		},
+		"z": -1,
+		"pos": 1
+	}
+}

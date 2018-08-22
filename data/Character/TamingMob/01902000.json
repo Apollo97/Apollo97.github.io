@@ -1,0 +1,834 @@
+{
+	"info": {
+		"icon": {
+			"origin": {
+				"x": 0,
+				"y": 32
+			},
+			"": "/Character/TamingMob/01932102/info/icon",
+			"__w": 32,
+			"__h": 32
+		},
+		"iconRaw": {
+			"origin": {
+				"x": 0,
+				"y": 32
+			},
+			"": "/Character/TamingMob/01932102/info/icon",
+			"__w": 32,
+			"__h": 32
+		},
+		"islot": "Tm",
+		"vslot": "Tm",
+		"reqJob": 0,
+		"reqLevel": 60,
+		"tuc": 0,
+		"tamingMob": 1,
+		"tradeBlock": 1,
+		"notSale": 1,
+		"only": 1
+	},
+	"walk1": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -61
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/0/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 120
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -23,
+					"y": -62
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/1/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 120
+		},
+		"2": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -17,
+					"y": -59
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/2/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 120
+		},
+		"3": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -17,
+					"y": -59
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/3/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 120
+		}
+	},
+	"walk2": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -61
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/0/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 120
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -23,
+					"y": -62
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/1/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 120
+		},
+		"2": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -17,
+					"y": -59
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/2/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 120
+		},
+		"3": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -17,
+					"y": -59
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/walk1/3/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 120
+		}
+	},
+	"stand1": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 50
+				},
+				"lt": {
+					"x": -24,
+					"y": -58
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -51
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/0/0",
+				"__w": 68,
+				"__h": 50
+			},
+			"delay": 180
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -24,
+					"y": -59
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/1/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 180
+		},
+		"2": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -59
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/2/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 180
+		},
+		"3": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 53
+				},
+				"lt": {
+					"x": -24,
+					"y": -58
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -54
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/3/0",
+				"__w": 68,
+				"__h": 53
+			},
+			"delay": 180
+		},
+		"4": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -57
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/4/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 180
+		},
+		"5": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": 4,
+					"y": -49
+				},
+				"rb": {
+					"x": 34,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/5/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 180
+		}
+	},
+	"stand2": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 50
+				},
+				"lt": {
+					"x": -24,
+					"y": -58
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -51
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/0/0",
+				"__w": 68,
+				"__h": 50
+			},
+			"delay": 180
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": -24,
+					"y": -59
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/1/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 180
+		},
+		"2": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -59
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/2/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 180
+		},
+		"3": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 53
+				},
+				"lt": {
+					"x": -24,
+					"y": -58
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -54
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/3/0",
+				"__w": 68,
+				"__h": 53
+			},
+			"delay": 180
+		},
+		"4": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -57
+				},
+				"rb": {
+					"x": 39,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/4/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 180
+		},
+		"5": {
+			"0": {
+				"origin": {
+					"x": 34,
+					"y": 51
+				},
+				"lt": {
+					"x": 4,
+					"y": -49
+				},
+				"rb": {
+					"x": 34,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -52
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/stand1/5/0",
+				"__w": 68,
+				"__h": 51
+			},
+			"delay": 180
+		}
+	},
+	"tired": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 33,
+					"y": 49
+				},
+				"lt": {
+					"x": -24,
+					"y": -50
+				},
+				"rb": {
+					"x": 36,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 4,
+						"y": -51
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/tired/0/0",
+				"__w": 71,
+				"__h": 49
+			},
+			"delay": 120
+		}
+	},
+	"jump": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 31,
+					"y": 52
+				},
+				"lt": {
+					"x": -24,
+					"y": -64
+				},
+				"rb": {
+					"x": 43,
+					"y": -14
+				},
+				"map": {
+					"navel": {
+						"x": 6,
+						"y": -53
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/jump/0/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 120
+		}
+	},
+	"prone": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 35,
+					"y": 46
+				},
+				"lt": {
+					"x": -21,
+					"y": -45
+				},
+				"rb": {
+					"x": 36,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 3,
+						"y": -47
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/prone/0/0",
+				"__w": 70,
+				"__h": 46
+			},
+			"delay": 120
+		}
+	},
+	"ladder": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 22,
+					"y": 74
+				},
+				"lt": {
+					"x": -25,
+					"y": -77
+				},
+				"rb": {
+					"x": 28,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 2,
+						"y": -23
+					}
+				},
+				"z": "backTamingMobMid",
+				"": "/Character/TamingMob/01902000/ladder/0/0",
+				"__w": 49,
+				"__h": 73
+			},
+			"delay": 250
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 24,
+					"y": 74
+				},
+				"lt": {
+					"x": -25,
+					"y": -77
+				},
+				"rb": {
+					"x": 28,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 2,
+						"y": -23
+					}
+				},
+				"z": "backTamingMobMid",
+				"": "/Character/TamingMob/01902000/ladder/1/0",
+				"__w": 49,
+				"__h": 73
+			},
+			"delay": 250
+		}
+	},
+	"rope": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 22,
+					"y": 74
+				},
+				"lt": {
+					"x": -25,
+					"y": -77
+				},
+				"rb": {
+					"x": 28,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 2,
+						"y": -23
+					}
+				},
+				"z": "backTamingMobMid",
+				"": "/Character/TamingMob/01902000/rope/0/0",
+				"__w": 47,
+				"__h": 78
+			},
+			"delay": 250
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 22,
+					"y": 72
+				},
+				"lt": {
+					"x": -25,
+					"y": -77
+				},
+				"rb": {
+					"x": 28,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 2,
+						"y": -21
+					}
+				},
+				"z": "backTamingMobMid",
+				"": "/Character/TamingMob/01902000/rope/1/0",
+				"__w": 47,
+				"__h": 73
+			},
+			"delay": 250
+		}
+	},
+	"fly": {
+		"0": {
+			"0": {
+				"origin": {
+					"x": 31,
+					"y": 60
+				},
+				"lt": {
+					"x": -24,
+					"y": -56
+				},
+				"rb": {
+					"x": 43,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 6,
+						"y": -61
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/fly/0/0",
+				"__w": 68,
+				"__h": 52
+			},
+			"delay": 180
+		},
+		"1": {
+			"0": {
+				"origin": {
+					"x": 32,
+					"y": 60
+				},
+				"lt": {
+					"x": -23,
+					"y": -62
+				},
+				"rb": {
+					"x": 40,
+					"y": 0
+				},
+				"map": {
+					"navel": {
+						"x": 5,
+						"y": -61
+					}
+				},
+				"z": "tamingMobMid",
+				"": "/Character/TamingMob/01902000/fly/1/0",
+				"__w": 67,
+				"__h": 53
+			},
+			"delay": 180
+		}
+	}
+}
