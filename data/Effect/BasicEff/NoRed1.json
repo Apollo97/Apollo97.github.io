@@ -1,0 +1,92 @@
+{
+	"0": {
+		"origin": {
+			"x": 18,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/0",
+		"__w": 37,
+		"__h": 38
+	},
+	"1": {
+		"origin": {
+			"x": 12,
+			"y": 36
+		},
+		"": "/Effect/BasicEff/NoRed1/1",
+		"__w": 25,
+		"__h": 37
+	},
+	"2": {
+		"origin": {
+			"x": 17,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/2",
+		"__w": 34,
+		"__h": 38
+	},
+	"3": {
+		"origin": {
+			"x": 16,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/3",
+		"__w": 33,
+		"__h": 38
+	},
+	"4": {
+		"origin": {
+			"x": 18,
+			"y": 36
+		},
+		"": "/Effect/BasicEff/NoRed1/4",
+		"__w": 36,
+		"__h": 37
+	},
+	"5": {
+		"origin": {
+			"x": 17,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/5",
+		"__w": 34,
+		"__h": 38
+	},
+	"6": {
+		"origin": {
+			"x": 18,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/6",
+		"__w": 36,
+		"__h": 38
+	},
+	"7": {
+		"origin": {
+			"x": 16,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/7",
+		"__w": 33,
+		"__h": 38
+	},
+	"8": {
+		"origin": {
+			"x": 18,
+			"y": 38
+		},
+		"": "/Effect/BasicEff/NoRed1/8",
+		"__w": 36,
+		"__h": 39
+	},
+	"9": {
+		"origin": {
+			"x": 18,
+			"y": 37
+		},
+		"": "/Effect/BasicEff/NoRed1/9",
+		"__w": 36,
+		"__h": 38
+	}
+}

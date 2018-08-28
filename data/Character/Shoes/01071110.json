@@ -1,0 +1,1809 @@
+{
+	"info": {
+		"icon": {
+			"origin": {
+				"x": -2,
+				"y": 31
+			},
+			"": "/Character/Shoes/01071110/info/icon",
+			"__w": 30,
+			"__h": 31
+		},
+		"iconRaw": {
+			"origin": {
+				"x": -5,
+				"y": 31
+			},
+			"": "/Character/Shoes/01071110/info/iconRaw",
+			"__w": 24,
+			"__h": 29
+		},
+		"islot": "So",
+		"vslot": "So",
+		"reqJob": 0,
+		"reqLevel": 0,
+		"reqSTR": 0,
+		"reqDEX": 0,
+		"reqINT": 0,
+		"reqLUK": 0,
+		"cash": 1,
+		"setItemID": 687,
+		"royalSpecial": 1
+	},
+	"walk1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": -4,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/0/shoes",
+				"__w": 11,
+				"__h": 13
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/1/shoes",
+				"__w": 27,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 2,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/2/shoes",
+				"__w": 15,
+				"__h": 10
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 9,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/3/shoes",
+				"__w": 23,
+				"__h": 12
+			}
+		}
+	},
+	"walk2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": -4,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/0/shoes",
+				"__w": 11,
+				"__h": 13
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/1/shoes",
+				"__w": 27,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 2,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/2/shoes",
+				"__w": 15,
+				"__h": 10
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 9,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/walk1/3/shoes",
+				"__w": 23,
+				"__h": 12
+			}
+		}
+	},
+	"stand1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 7,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/0/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/1/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 9,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/2/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		}
+	},
+	"stand2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 7,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/0/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/1/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 9,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stand1/2/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		}
+	},
+	"alert": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/alert/0/shoes",
+				"__w": 24,
+				"__h": 9
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/alert/1/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/alert/2/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		}
+	},
+	"swingO1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO1/0/shoes",
+				"__w": 29,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 3,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO1/1/shoes",
+				"__w": 17,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingO2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO2/1/shoes",
+				"__w": 28,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO2/2/shoes",
+				"__w": 29,
+				"__h": 11
+			}
+		}
+	},
+	"swingO3": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO3/0/shoes",
+				"__w": 28,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 2,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO3/1/shoes",
+				"__w": 20,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 6,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO1/0/shoes",
+				"__w": 29,
+				"__h": 11
+			}
+		}
+	},
+	"swingOF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 15,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingOF/0/shoes",
+				"__w": 30,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/swingOF/1/shoes",
+				"__w": 27,
+				"__h": 15
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": -2,
+					"y": -3
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingOF/2/shoes",
+				"__w": 10,
+				"__h": 18
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 16,
+					"y": -3
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingOF/3/shoes",
+				"__w": 38,
+				"__h": 10
+			}
+		}
+	},
+	"swingT1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/0/shoes",
+				"__w": 23,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/1/shoes",
+				"__w": 28,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingT2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 15,
+					"y": -4
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT2/0/shoes",
+				"__w": 29,
+				"__h": 15
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT2/1/shoes",
+				"__w": 29,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingT3": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT3/0/shoes",
+				"__w": 29,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 4,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT3/1/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingTF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 3,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/swingTF/0/shoes",
+				"__w": 11,
+				"__h": 13
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 9,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingTF/1/shoes",
+				"__w": 21,
+				"__h": 16
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingTF/2/shoes",
+				"__w": 28,
+				"__h": 12
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingP1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingP1/0/shoes",
+				"__w": 23,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/1/shoes",
+				"__w": 28,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingP2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingP2/0/shoes",
+				"__w": 26,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/1/shoes",
+				"__w": 28,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingT1/2/shoes",
+				"__w": 37,
+				"__h": 11
+			}
+		}
+	},
+	"swingPF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/0/shoes",
+				"__w": 40,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/1/shoes",
+				"__w": 36,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/2/shoes",
+				"__w": 22,
+				"__h": 24
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/3/shoes",
+				"__w": 19,
+				"__h": 10
+			}
+		}
+	},
+	"stabO1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 20,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabO1/0/shoes",
+				"__w": 34,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabO1/1/shoes",
+				"__w": 36,
+				"__h": 11
+			}
+		}
+	},
+	"stabO2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabO2/0/shoes",
+				"__w": 27,
+				"__h": 12
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabO2/1/shoes",
+				"__w": 36,
+				"__h": 10
+			}
+		}
+	},
+	"stabOF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabOF/0/shoes",
+				"__w": 18,
+				"__h": 9
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 20,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabOF/1/shoes",
+				"__w": 38,
+				"__h": 12
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabOF/2/shoes",
+				"__w": 37,
+				"__h": 10
+			}
+		}
+	},
+	"stabT1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 16,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT1/0/shoes",
+				"__w": 27,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 7,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT1/1/shoes",
+				"__w": 34,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -4
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT1/2/shoes",
+				"__w": 41,
+				"__h": 11
+			}
+		}
+	},
+	"stabT2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -7
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT2/0/shoes",
+				"__w": 23,
+				"__h": 12
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 10,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT2/1/shoes",
+				"__w": 33,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 15,
+					"y": -4
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT2/2/shoes",
+				"__w": 43,
+				"__h": 11
+			}
+		}
+	},
+	"stabTF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/0/shoes",
+				"__w": 40,
+				"__h": 11
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingPF/1/shoes",
+				"__w": 36,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 12,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01073254/stabTF/2/shoes",
+				"__w": 22,
+				"__h": 24
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -4
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/stabT1/2/shoes",
+				"__w": 41,
+				"__h": 11
+			}
+		}
+	},
+	"shoot1": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot1/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot1/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot1/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		}
+	},
+	"shoot2": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"3": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"4": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shoot2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		}
+	},
+	"shootF": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 15,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shootF/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 16,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shootF/1/shoes",
+				"__w": 28,
+				"__h": 10
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 16,
+					"y": -9
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/shootF/1/shoes",
+				"__w": 28,
+				"__h": 10
+			}
+		}
+	},
+	"proneStab": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": -9,
+					"y": 6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/proneStab/0/shoes",
+				"__w": 15,
+				"__h": 9
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": -9,
+					"y": 6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/proneStab/0/shoes",
+				"__w": 15,
+				"__h": 9
+			}
+		}
+	},
+	"prone": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": -9,
+					"y": 6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/proneStab/0/shoes",
+				"__w": 15,
+				"__h": 9
+			}
+		}
+	},
+	"heal": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/alert/1/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 13,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO2/1/shoes",
+				"__w": 28,
+				"__h": 11
+			}
+		},
+		"2": {
+			"shoes": {
+				"origin": {
+					"x": 11,
+					"y": -11
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/swingO2/0/shoes",
+				"__w": 24,
+				"__h": 10
+			}
+		}
+	},
+	"fly": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": -1,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/fly/0/shoes",
+				"__w": 16,
+				"__h": 19
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": -3,
+					"y": -10
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/fly/1/shoes",
+				"__w": 10,
+				"__h": 14
+			}
+		}
+	},
+	"jump": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 17,
+					"y": -6
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/jump/0/shoes",
+				"__w": 36,
+				"__h": 12
+			}
+		}
+	},
+	"sit": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 17,
+					"y": -5
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "shoesTop",
+				"": "/Character/Shoes/01070093/sit/0/shoes",
+				"__w": 20,
+				"__h": 10
+			}
+		}
+	},
+	"ladder": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/ladder/0/shoes",
+				"__w": 16,
+				"__h": 13
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/ladder/1/shoes",
+				"__w": 16,
+				"__h": 13
+			}
+		}
+	},
+	"rope": {
+		"0": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -12
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/rope/0/shoes",
+				"__w": 15,
+				"__h": 12
+			}
+		},
+		"1": {
+			"shoes": {
+				"origin": {
+					"x": 8,
+					"y": -8
+				},
+				"map": {
+					"navel": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "backShoes",
+				"": "/Character/Shoes/01070093/rope/1/shoes",
+				"__w": 17,
+				"__h": 10
+			}
+		}
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"backgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": -2,
+		"": "/UI/CashShop/CSLockerNew/Normal/backgrnd",
+		"__w": 80,
+		"__h": 48
+	},
+	"BtRebate": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRebate/normal/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRebate/pressed/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRebate/disabled/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRebate/mouseOver/0",
+				"__w": 61,
+				"__h": 16
+			}
+		}
+	},
+	"BtRefund": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRefund/normal/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRefund/pressed/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRefund/disabled/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -8
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtRefund/mouseOver/0",
+				"__w": 61,
+				"__h": 16
+			}
+		}
+	},
+	"BtDelete": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -24
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtDelete/normal/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -24
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtDelete/pressed/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -24
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtDelete/disabled/0",
+				"__w": 61,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -24
+				},
+				"z": -1,
+				"": "/UI/CashShop/CSLockerNew/Normal/BtDelete/mouseOver/0",
+				"__w": 61,
+				"__h": 16
+			}
+		}
+	}
+}

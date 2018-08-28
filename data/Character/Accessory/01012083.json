@@ -1,0 +1,725 @@
+{
+	"info": {
+		"icon": {
+			"origin": {
+				"x": -4,
+				"y": 31
+			},
+			"": "/Character/Accessory/01012083/info/icon",
+			"__w": 26,
+			"__h": 31
+		},
+		"iconRaw": {
+			"origin": {
+				"x": -5,
+				"y": 31
+			},
+			"": "/Character/Accessory/01012083/info/iconRaw",
+			"__w": 23,
+			"__h": 29
+		},
+		"islot": "Af",
+		"vslot": "Af",
+		"reqJob": 0,
+		"reqLevel": 0,
+		"reqSTR": 0,
+		"reqDEX": 0,
+		"reqINT": 0,
+		"reqLUK": 0,
+		"cash": 1
+	},
+	"default": {
+		"default": {
+			"origin": {
+				"x": 10,
+				"y": -13
+			},
+			"map": {
+				"brow": {
+					"x": 0,
+					"y": 0
+				}
+			},
+			"z": "accessoryFaceBelowFace",
+			"": "/Character/Accessory/01012083/default/default",
+			"__w": 23,
+			"__h": 8
+		}
+	},
+	"blink": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"2": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"hit": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"smile": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"troubled": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"cry": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"angry": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"bewildered": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"stunned": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"vomit": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"oops": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"cheers": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"chu": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"wink": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"pain": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"glitter": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"despair": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"love": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"shine": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"blaze": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"hum": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"bowing": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"hot": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	},
+	"dam": {
+		"0": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		},
+		"1": {
+			"default": {
+				"origin": {
+					"x": 10,
+					"y": -13
+				},
+				"map": {
+					"brow": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"z": "accessoryFaceBelowFace",
+				"": "/Character/Accessory/01012083/default/default",
+				"__w": 23,
+				"__h": 8
+			}
+		}
+	}
+}
