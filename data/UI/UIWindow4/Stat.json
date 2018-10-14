@@ -1,0 +1,2692 @@
+{
+	"main": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -5,
+			"": "/UI/UIWindow4/Stat/main/backgrnd",
+			"__w": 212,
+			"__h": 318
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/backgrnd2",
+			"__w": 200,
+			"__h": 289
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -7,
+				"y": -156
+			},
+			"z": -3,
+			"": "/UI/UIWindow4/Stat/main/backgrnd3",
+			"__w": 198,
+			"__h": 46
+		},
+		"cover0": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/cover0",
+			"__w": 200,
+			"__h": 289
+		},
+		"cover1": {
+			"origin": {
+				"x": -10,
+				"y": -159
+			},
+			"z": -3,
+			"": "/UI/UIWindow4/Stat/main/cover1",
+			"__w": 192,
+			"__h": 119
+		},
+		"Disabled": {
+			"STR": {
+				"origin": {
+					"x": -11,
+					"y": -206
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/STR",
+				"__w": 190,
+				"__h": 16
+			},
+			"DEX": {
+				"origin": {
+					"x": -11,
+					"y": -224
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/DEX",
+				"__w": 190,
+				"__h": 16
+			},
+			"INT": {
+				"origin": {
+					"x": -11,
+					"y": -242
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/INT",
+				"__w": 190,
+				"__h": 16
+			},
+			"LUK": {
+				"origin": {
+					"x": -11,
+					"y": -260
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/LUK",
+				"__w": 190,
+				"__h": 16
+			}
+		},
+		"BtDetailOpen": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtDetailClose": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -132,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtHpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtMpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtStrUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -208
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -208
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -208
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -208
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtDexUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtIntUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtLukUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtAuto": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/0",
+					"__w": 68,
+					"__h": 34
+				},
+				"1": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/1",
+					"__w": 68,
+					"__h": 34
+				},
+				"2": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/2",
+					"__w": 67,
+					"__h": 34
+				},
+				"3": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/3",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/pressed/0",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/disabled/0",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/mouseOver/0",
+					"__w": 67,
+					"__h": 34
+				}
+			}
+		},
+		"BtAuto1": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/normal/0",
+					"__w": 68,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/normal/1",
+					"__w": 68,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/normal/2",
+					"__w": 68,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/normal/3",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -162
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto1/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtAuto2": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/normal/0",
+					"__w": 68,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/normal/1",
+					"__w": 68,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/normal/2",
+					"__w": 68,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/normal/3",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -127,
+						"y": -180
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto2/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtAuto_AB": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/0",
+					"__w": 68,
+					"__h": 34
+				},
+				"1": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/1",
+					"__w": 68,
+					"__h": 34
+				},
+				"2": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/2",
+					"__w": 67,
+					"__h": 34
+				},
+				"3": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"z": 0,
+					"delay": 150,
+					"": "/UI/UIWindow4/Stat/main/BtAuto/normal/3",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/pressed/0",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/disabled/0",
+					"__w": 67,
+					"__h": 34
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -128,
+						"y": -152
+					},
+					"": "/UI/UIWindow4/Stat/main/BtAuto/mouseOver/0",
+					"__w": 67,
+					"__h": 34
+				}
+			}
+		},
+		"backgrnd2_Demon": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/backgrnd2_Demon",
+			"__w": 200,
+			"__h": 289
+		},
+		"cover0_Demon": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/cover0_Demon",
+			"__w": 200,
+			"__h": 289
+		},
+		"backgrnd2_AB": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/backgrnd2_AB",
+			"__w": 200,
+			"__h": 289
+		},
+		"backgrnd3_AB": {
+			"origin": {
+				"x": -7,
+				"y": -138
+			},
+			"z": -3,
+			"": "/UI/UIWindow4/Stat/main/backgrnd3_AB",
+			"__w": 198,
+			"__h": 64
+		},
+		"cover0_AB": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/cover0_AB",
+			"__w": 200,
+			"__h": 289
+		},
+		"backgrnd2_Zero": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/backgrnd2_Zero",
+			"__w": 200,
+			"__h": 289
+		},
+		"cover0_Zero": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main/cover0_Zero",
+			"__w": 200,
+			"__h": 289
+		},
+		"BtHyperStatClose": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtHyperStatOpen": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -288
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		}
+	},
+	"main_xenon": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -5,
+			"": "/UI/UIWindow4/Stat/main_xenon/backgrnd",
+			"__w": 212,
+			"__h": 337
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow4/Stat/main_xenon/backgrnd2",
+			"__w": 200,
+			"__h": 308
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -7,
+				"y": -156
+			},
+			"z": -3,
+			"": "/UI/UIWindow4/Stat/main_xenon/backgrnd3",
+			"__w": 198,
+			"__h": 64
+		},
+		"Disabled": {
+			"STR": {
+				"origin": {
+					"x": -11,
+					"y": -224
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/STR",
+				"__w": 190,
+				"__h": 16
+			},
+			"DEX": {
+				"origin": {
+					"x": -11,
+					"y": -242
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/DEX",
+				"__w": 190,
+				"__h": 16
+			},
+			"INT": {
+				"origin": {
+					"x": -11,
+					"y": -260
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/INT",
+				"__w": 190,
+				"__h": 16
+			},
+			"LUK": {
+				"origin": {
+					"x": -11,
+					"y": -278
+				},
+				"": "/UI/UIWindow4/Stat/main/Disabled/LUK",
+				"__w": 190,
+				"__h": 16
+			}
+		},
+		"BtDetailOpen": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailOpen/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtDetailClose": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -131,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtDetailClose/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtHpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -121
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtMpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -139
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtStrUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -226
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtDexUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -244
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtIntUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -262
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtLukUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -280
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/normal/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -280
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/pressed/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -280
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/disabled/0",
+					"__w": 12,
+					"__h": 12
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -187,
+						"y": -280
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtHpUp/mouseOver/0",
+					"__w": 12,
+					"__h": 12
+				}
+			}
+		},
+		"BtAuto": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -161
+					},
+					"delay": 150,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto1/normal/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -161
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto1/pressed/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -161
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto1/disabled/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -161
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto1/mouseOver/0",
+					"__w": 97,
+					"__h": 16
+				}
+			}
+		},
+		"BtAuto1": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -180
+					},
+					"delay": 150,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto2/normal/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -180
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto2/pressed/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -180
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto2/disabled/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -180
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto2/mouseOver/0",
+					"__w": 97,
+					"__h": 16
+				}
+			}
+		},
+		"BtAuto2": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -199
+					},
+					"delay": 150,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto3/normal/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -199
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto3/pressed/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -199
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto3/disabled/0",
+					"__w": 97,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -103,
+						"y": -199
+					},
+					"": "/UI/UIWindowBT/CharacterUI/Stat/main/BtAuto3/mouseOver/0",
+					"__w": 97,
+					"__h": 16
+				}
+			}
+		},
+		"BtHyperStatClose": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatClose/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		},
+		"BtHyperStatOpen": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/normal/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/pressed/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/disabled/0",
+					"__w": 68,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -307
+					},
+					"": "/UI/UIWindow4/Stat/main/BtHyperStatOpen/mouseOver/0",
+					"__w": 68,
+					"__h": 16
+				}
+			}
+		}
+	},
+	"detail": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": -1
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail/backgrnd",
+			"__w": 213,
+			"__h": 340
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -7,
+				"y": -8
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail/backgrnd2",
+			"__w": 200,
+			"__h": 326
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -12,
+				"y": -13
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail/backgrnd3",
+			"__w": 190,
+			"__h": 289
+		},
+		"backgrnd4": {
+			"origin": {
+				"x": -12,
+				"y": -222
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail/backgrnd4",
+			"__w": 190,
+			"__h": 62
+		},
+		"BtHpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -312
+					},
+					"": "/UI/StarCityUI/UserList/Popup/FriendInfo/button:Close/normal/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -312
+					},
+					"": "/UI/StarCityUI/UserList/Popup/FriendInfo/button:Close/pressed/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -312
+					},
+					"": "/UI/StarCityUI/UserList/Popup/FriendInfo/button:Close/disabled/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -312
+					},
+					"": "/UI/StarCityUI/UserList/Popup/FriendInfo/button:Close/mouseOver/0",
+					"__w": 17,
+					"__h": 16
+				}
+			}
+		},
+		"abilityTitle": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -195
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/abilityTitle/normal/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"rare": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -195
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/abilityTitle/rare/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"epic": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -195
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/abilityTitle/epic/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"unique": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -195
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/abilityTitle/unique/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"legendary": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -195
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/abilityTitle/legendary/0",
+					"__w": 190,
+					"__h": 25
+				}
+			}
+		},
+		"metierLine": {
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -225
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -244
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -263
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 18
+				}
+			},
+			"activated": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -225
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -244
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -263
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				}
+			},
+			"lockIcon": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/5",
+					"__w": 19,
+					"__h": 19
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/7",
+					"__w": 19,
+					"__h": 19
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/8",
+					"__w": 17,
+					"__h": 17
+				}
+			}
+		},
+		"BtAbility": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -286
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/BtAbility/normal/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -286
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/BtAbility/pressed/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -286
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/BtAbility/disabled/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -286
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/BtAbility/mouseOver/0",
+					"__w": 50,
+					"__h": 16
+				}
+			}
+		},
+		"info": "摩理斯9 12pt"
+	},
+	"detail2": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": -1
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd",
+			"__w": 213,
+			"__h": 358
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -7,
+				"y": -8
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd2",
+			"__w": 200,
+			"__h": 344
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -12,
+				"y": -13
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd3",
+			"__w": 190,
+			"__h": 307
+		},
+		"backgrnd4": {
+			"origin": {
+				"x": -12,
+				"y": -240
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd4",
+			"__w": 190,
+			"__h": 62
+		},
+		"BtHpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/normal/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/pressed/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/disabled/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/mouseOver/0",
+					"__w": 17,
+					"__h": 16
+				}
+			}
+		},
+		"abilityTitle": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/normal/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"rare": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/rare/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"epic": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/epic/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"unique": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/unique/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"legendary": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/legendary/0",
+					"__w": 190,
+					"__h": 25
+				}
+			}
+		},
+		"metierLine": {
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -243
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -281
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				}
+			},
+			"activated": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -243
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -281
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				}
+			},
+			"lockIcon": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/5",
+					"__w": 19,
+					"__h": 19
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/7",
+					"__w": 19,
+					"__h": 19
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": -18
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/8",
+					"__w": 17,
+					"__h": 17
+				}
+			}
+		},
+		"BtAbility": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/normal/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/pressed/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/disabled/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/mouseOver/0",
+					"__w": 50,
+					"__h": 16
+				}
+			}
+		},
+		"info": "摩理斯9 12pt"
+	},
+	"detail3": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": -1
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd",
+			"__w": 213,
+			"__h": 358
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -7,
+				"y": -8
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail3/backgrnd2",
+			"__w": 200,
+			"__h": 344
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -12,
+				"y": -13
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail3/backgrnd3",
+			"__w": 190,
+			"__h": 307
+		},
+		"backgrnd4": {
+			"origin": {
+				"x": -12,
+				"y": -240
+			},
+			"z": 0,
+			"": "/UI/UIWindow4/Stat/detail2/backgrnd4",
+			"__w": 190,
+			"__h": 62
+		},
+		"BtHpUp": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/normal/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/pressed/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/disabled/0",
+					"__w": 17,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -185,
+						"y": -330
+					},
+					"": "/UI/UIWindowBT/CharacterUI/CharacterInfo/BtClose/mouseOver/0",
+					"__w": 17,
+					"__h": 16
+				}
+			}
+		},
+		"abilityTitle": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/normal/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"rare": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/rare/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"epic": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/epic/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"unique": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/unique/0",
+					"__w": 190,
+					"__h": 25
+				}
+			},
+			"legendary": {
+				"0": {
+					"origin": {
+						"x": -12,
+						"y": -213
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/abilityTitle/legendary/0",
+					"__w": 190,
+					"__h": 25
+				}
+			}
+		},
+		"metierLine": {
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -243
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -281
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/metierLine/disabled/0",
+					"__w": 184,
+					"__h": 19
+				}
+			},
+			"activated": {
+				"0": {
+					"origin": {
+						"x": -15,
+						"y": -243
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"1": {
+					"origin": {
+						"x": -15,
+						"y": -262
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				},
+				"2": {
+					"origin": {
+						"x": -15,
+						"y": -281
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail/metierLine/activated/0",
+					"__w": 184,
+					"__h": 18
+				}
+			},
+			"lockIcon": {
+				"0": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"1": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"2": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"3": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"4": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/1",
+					"__w": 19,
+					"__h": 19
+				},
+				"5": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/5",
+					"__w": 19,
+					"__h": 19
+				},
+				"6": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/0",
+					"__w": 19,
+					"__h": 19
+				},
+				"7": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/7",
+					"__w": 19,
+					"__h": 19
+				},
+				"8": {
+					"origin": {
+						"x": 0,
+						"y": 0
+					},
+					"z": 0,
+					"": "/UI/UIWindowBT/CharacterUI/Stat/metierLine/lockIcon/8",
+					"__w": 17,
+					"__h": 17
+				}
+			}
+		},
+		"BtAbility": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/normal/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/pressed/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/disabled/0",
+					"__w": 50,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -152,
+						"y": -304
+					},
+					"z": 0,
+					"": "/UI/UIWindow4/Stat/detail2/BtAbility/mouseOver/0",
+					"__w": 50,
+					"__h": 16
+				}
+			}
+		},
+		"info": "摩理斯9 12pt"
+	}
+}

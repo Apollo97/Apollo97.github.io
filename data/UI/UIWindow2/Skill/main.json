@@ -1,0 +1,1435 @@
+{
+	"backgrnd": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"z": -5,
+		"": "/UI/UIWindow2/Skill/main/backgrnd",
+		"__w": 174,
+		"__h": 299
+	},
+	"backgrnd2": {
+		"origin": {
+			"x": -6,
+			"y": -22
+		},
+		"z": -4,
+		"": "/UI/UIWindow2/Skill/main/backgrnd2",
+		"__w": 162,
+		"__h": 271
+	},
+	"backgrnd3": {
+		"origin": {
+			"x": -7,
+			"y": -47
+		},
+		"z": -3,
+		"": "/UI/UIWindow2/Skill/main/backgrnd3",
+		"__w": 160,
+		"__h": 224
+	},
+	"bg_dual": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -5,
+			"": "/UI/UIWindow2/Skill/main/backgrnd",
+			"__w": 174,
+			"__h": 299
+		},
+		"backgrnd2": {
+			"origin": {
+				"x": -6,
+				"y": -22
+			},
+			"z": -4,
+			"": "/UI/UIWindow2/Skill/main/backgrnd2",
+			"__w": 162,
+			"__h": 271
+		},
+		"backgrnd3": {
+			"origin": {
+				"x": -7,
+				"y": -61
+			},
+			"z": -3,
+			"": "/UI/UIWindow2/Skill/main/bg_dual/backgrnd3",
+			"__w": 160,
+			"__h": 210
+		}
+	},
+	"skill0": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIWindow2/Skill/main/skill0",
+		"__w": 140,
+		"__h": 35
+	},
+	"skill1": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIWindow2/Skill/main/skill1",
+		"__w": 140,
+		"__h": 35
+	},
+	"recommend": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindow2/Skill/main/recommend/0",
+			"__w": 103,
+			"__h": 35
+		}
+	},
+	"line": {
+		"origin": {
+			"x": 0,
+			"y": 0
+		},
+		"": "/UI/UIWindowJP/SkillRP/main/line",
+		"__w": 140,
+		"__h": 1
+	},
+	"tip0": {
+		"origin": {
+			"x": 195,
+			"y": -25
+		},
+		"": "/UI/UIWindow/Skill/tip0",
+		"__w": 193,
+		"__h": 102
+	},
+	"tip1": {
+		"origin": {
+			"x": -178,
+			"y": -22
+		},
+		"": "/UI/UIWindow/Skill/tip1",
+		"__w": 193,
+		"__h": 102
+	},
+	"tip2": {
+		"origin": {
+			"x": 103,
+			"y": -282
+		},
+		"": "/UI/UIWindow/Skill/tip2",
+		"__w": 193,
+		"__h": 102
+	},
+	"Tab": {
+		"enabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/0",
+				"__w": 25,
+				"__h": 20
+			},
+			"1": {
+				"origin": {
+					"x": -37,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/1",
+				"__w": 25,
+				"__h": 20
+			},
+			"2": {
+				"origin": {
+					"x": -63,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/2",
+				"__w": 25,
+				"__h": 20
+			},
+			"3": {
+				"origin": {
+					"x": -89,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/3",
+				"__w": 25,
+				"__h": 20
+			},
+			"4": {
+				"origin": {
+					"x": -115,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/4",
+				"__w": 25,
+				"__h": 20
+			},
+			"5": {
+				"origin": {
+					"x": -141,
+					"y": -27
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/enabled/5",
+				"__w": 25,
+				"__h": 20
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -29
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/0",
+				"__w": 25,
+				"__h": 18
+			},
+			"1": {
+				"origin": {
+					"x": -37,
+					"y": -29
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/1",
+				"__w": 25,
+				"__h": 18
+			},
+			"2": {
+				"origin": {
+					"x": -63,
+					"y": -29
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/2",
+				"__w": 25,
+				"__h": 18
+			},
+			"3": {
+				"origin": {
+					"x": -89,
+					"y": -29
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/3",
+				"__w": 25,
+				"__h": 18
+			},
+			"4": {
+				"origin": {
+					"x": -115,
+					"y": -29
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/4",
+				"__w": 25,
+				"__h": 18
+			},
+			"5": {
+				"origin": {
+					"x": -141,
+					"y": -29
+				},
+				"": "/UI/UIWindow2/Skill/main/Tab/disabled/5",
+				"__w": 25,
+				"__h": 18
+			}
+		},
+		"AranButton": {
+			"Bt1": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -41,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt1/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -41,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt1/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -41,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt1/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -41,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt1/mouseOver/0",
+						"__w": 30,
+						"__h": 18
+					}
+				}
+			},
+			"Bt2": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -72,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt2/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -72,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt2/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -72,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt2/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -72,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt2/mouseOver/0",
+						"__w": 30,
+						"__h": 18
+					}
+				}
+			},
+			"Bt3": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -103,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt3/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -103,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt3/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -103,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt3/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -103,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt3/mouseOver/0",
+						"__w": 30,
+						"__h": 18
+					}
+				}
+			},
+			"Bt4": {
+				"normal": {
+					"0": {
+						"origin": {
+							"x": -134,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt4/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"pressed": {
+					"0": {
+						"origin": {
+							"x": -134,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt4/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"disabled": {
+					"0": {
+						"origin": {
+							"x": -134,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt4/normal/0",
+						"__w": 30,
+						"__h": 18
+					}
+				},
+				"mouseOver": {
+					"0": {
+						"origin": {
+							"x": -134,
+							"y": -29
+						},
+						"": "/UI/UIWindow2/Skill/main/Tab/AranButton/Bt4/mouseOver/0",
+						"__w": 30,
+						"__h": 18
+					}
+				}
+			}
+		},
+		"DualTab": {
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/0",
+					"__w": 38,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -49,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/1",
+					"__w": 38,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -88,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/2",
+					"__w": 38,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -127,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/3",
+					"__w": 38,
+					"__h": 16
+				},
+				"4": {
+					"origin": {
+						"x": -10,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/4",
+					"__w": 38,
+					"__h": 16
+				},
+				"5": {
+					"origin": {
+						"x": -49,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/5",
+					"__w": 38,
+					"__h": 16
+				},
+				"6": {
+					"origin": {
+						"x": -88,
+						"y": -44
+					},
+					"z": 0,
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/6",
+					"__w": 38,
+					"__h": 16
+				},
+				"7": {
+					"origin": {
+						"x": -127,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/disabled/7",
+					"__w": 38,
+					"__h": 16
+				}
+			},
+			"enabled": {
+				"0": {
+					"origin": {
+						"x": -10,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/0",
+					"__w": 38,
+					"__h": 16
+				},
+				"1": {
+					"origin": {
+						"x": -49,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/1",
+					"__w": 38,
+					"__h": 16
+				},
+				"2": {
+					"origin": {
+						"x": -88,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/2",
+					"__w": 38,
+					"__h": 16
+				},
+				"3": {
+					"origin": {
+						"x": -127,
+						"y": -27
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/3",
+					"__w": 38,
+					"__h": 16
+				},
+				"4": {
+					"origin": {
+						"x": -10,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/4",
+					"__w": 38,
+					"__h": 16
+				},
+				"5": {
+					"origin": {
+						"x": -49,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/5",
+					"__w": 38,
+					"__h": 16
+				},
+				"6": {
+					"origin": {
+						"x": -88,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/6",
+					"__w": 38,
+					"__h": 16
+				},
+				"7": {
+					"origin": {
+						"x": -127,
+						"y": -44
+					},
+					"": "/UI/UIWindow2/Skill/main/Tab/DualTab/enabled/7",
+					"__w": 38,
+					"__h": 16
+				}
+			}
+		}
+	},
+	"BtSpUp": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtSpUp/normal/0",
+				"__w": 14,
+				"__h": 12
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtSpUp/pressed/0",
+				"__w": 14,
+				"__h": 12
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtSpUp/disabled/0",
+				"__w": 14,
+				"__h": 12
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtSpUp/mouseOver/0",
+				"__w": 14,
+				"__h": 12
+			}
+		}
+	},
+	"BtModeChange": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtModeChange/normal/0",
+				"__w": 36,
+				"__h": 14
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtModeChange/pressed/0",
+				"__w": 36,
+				"__h": 14
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtModeChange/disabled/0",
+				"__w": 36,
+				"__h": 14
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtModeChange/mouseOver/0",
+				"__w": 36,
+				"__h": 14
+			}
+		}
+	},
+	"CoolTime": {
+		"0": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/0",
+			"__w": 32,
+			"__h": 32
+		},
+		"1": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/1",
+			"__w": 32,
+			"__h": 32
+		},
+		"2": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/2",
+			"__w": 32,
+			"__h": 32
+		},
+		"3": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/3",
+			"__w": 32,
+			"__h": 32
+		},
+		"4": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/4",
+			"__w": 32,
+			"__h": 32
+		},
+		"5": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/5",
+			"__w": 32,
+			"__h": 32
+		},
+		"6": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/6",
+			"__w": 32,
+			"__h": 32
+		},
+		"7": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/7",
+			"__w": 32,
+			"__h": 32
+		},
+		"8": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/8",
+			"__w": 32,
+			"__h": 32
+		},
+		"9": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/9",
+			"__w": 32,
+			"__h": 32
+		},
+		"10": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/10",
+			"__w": 32,
+			"__h": 32
+		},
+		"11": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/11",
+			"__w": 32,
+			"__h": 32
+		},
+		"12": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/12",
+			"__w": 32,
+			"__h": 32
+		},
+		"13": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/13",
+			"__w": 32,
+			"__h": 32
+		},
+		"14": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/14",
+			"__w": 32,
+			"__h": 32
+		},
+		"15": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindow/Skill/CoolTime/15",
+			"__w": 32,
+			"__h": 32
+		},
+		"16": {
+			"origin": {
+				"x": 16,
+				"y": 16
+			},
+			"z": 0,
+			"": "/UI/UIWindowJP/SkillRP/main/CoolTime/16",
+			"__w": 32,
+			"__h": 32
+		}
+	},
+	"BtMacro": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -114,
+					"y": -273
+				},
+				"": "/UI/UIWindowBT/Skill/main/BtMacro/normal/0",
+				"__w": 49,
+				"__h": 18
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -114,
+					"y": -273
+				},
+				"": "/UI/UIWindowBT/Skill/main/BtMacro/pressed/0",
+				"__w": 49,
+				"__h": 18
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -114,
+					"y": -273
+				},
+				"": "/UI/UIWindowBT/Skill/main/BtMacro/disabled/0",
+				"__w": 49,
+				"__h": 18
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -114,
+					"y": -273
+				},
+				"": "/UI/UIWindowBT/Skill/main/BtMacro/mouseOver/0",
+				"__w": 49,
+				"__h": 18
+			}
+		}
+	},
+	"BtRide": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtRide/normal/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtRide/pressed/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtRide/disabled/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtRide/mouseOver/0",
+				"__w": 50,
+				"__h": 16
+			}
+		}
+	},
+	"BtGuildSkill": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtGuildSkill/normal/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtGuildSkill/pressed/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtGuildSkill/disabled/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -273
+				},
+				"z": 0,
+				"": "/UI/UIWindowBT/Skill/main/BtGuildSkill/mouseOver/0",
+				"__w": 50,
+				"__h": 16
+			}
+		}
+	},
+	"BtLinkSkill": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtLinkSkill/normal/0",
+				"__w": 72,
+				"__h": 14
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtLinkSkill/pressed/0",
+				"__w": 72,
+				"__h": 14
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtLinkSkill/disabled/0",
+				"__w": 72,
+				"__h": 14
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": 0,
+					"y": 0
+				},
+				"": "/UI/UIWindow2/Skill/main/BtLinkSkill/mouseOver/0",
+				"__w": 72,
+				"__h": 14
+			}
+		}
+	},
+	"Force": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindowBT/Skill/main/Force/0",
+			"__w": 32,
+			"__h": 32
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindowBT/Skill/main/Force/1",
+			"__w": 32,
+			"__h": 32
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindowBT/Skill/main/Force/2",
+			"__w": 32,
+			"__h": 32
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindowBT/Skill/main/Force/3",
+			"__w": 32,
+			"__h": 32
+		}
+	},
+	"BtHyper": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyper/normal/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyper/pressed/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyper/disabled/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyper/mouseOver/0",
+				"__w": 50,
+				"__h": 16
+			}
+		}
+	},
+	"SkillPointPopup": {
+		"backgrnd": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/UI/UIWindow2/Skill/main/SkillPointPopup/backgrnd",
+			"__w": 238,
+			"__h": 120
+		},
+		"title1": {
+			"origin": {
+				"x": -78,
+				"y": -9
+			},
+			"z": 1,
+			"": "/UI/UIWindow2/Skill/main/SkillPointPopup/title1",
+			"__w": 87,
+			"__h": 17
+		},
+		"title2": {
+			"origin": {
+				"x": -80,
+				"y": -9
+			},
+			"z": 1,
+			"": "/UI/UIWindow2/Skill/main/SkillPointPopup/title2",
+			"__w": 74,
+			"__h": 17
+		},
+		"title3": {
+			"origin": {
+				"x": -67,
+				"y": -9
+			},
+			"z": 1,
+			"": "/UI/UIWindow2/Skill/main/SkillPointPopup/title3",
+			"__w": 93,
+			"__h": 17
+		},
+		"BtOk": {
+			"normal": {
+				"0": {
+					"origin": {
+						"x": -99,
+						"y": -90
+					},
+					"": "/UI/UIWindow2/Skill/main/SkillPointPopup/BtOk/normal/0",
+					"__w": 40,
+					"__h": 16
+				}
+			},
+			"pressed": {
+				"0": {
+					"origin": {
+						"x": -99,
+						"y": -90
+					},
+					"": "/UI/UIWindow2/Skill/main/SkillPointPopup/BtOk/pressed/0",
+					"__w": 40,
+					"__h": 16
+				}
+			},
+			"disabled": {
+				"0": {
+					"origin": {
+						"x": -99,
+						"y": -90
+					},
+					"": "/UI/UIWindow2/Skill/main/SkillPointPopup/BtOk/disabled/0",
+					"__w": 40,
+					"__h": 16
+				}
+			},
+			"mouseOver": {
+				"0": {
+					"origin": {
+						"x": -99,
+						"y": -90
+					},
+					"": "/UI/UIWindow2/Skill/main/SkillPointPopup/BtOk/mouseOver/0",
+					"__w": 40,
+					"__h": 16
+				}
+			}
+		}
+	},
+	"BtHyperAni": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"delay": 150,
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/normal/0",
+				"__w": 50,
+				"__h": 16
+			},
+			"1": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"delay": 150,
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/normal/1",
+				"__w": 50,
+				"__h": 16
+			},
+			"2": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"delay": 150,
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/normal/2",
+				"__w": 50,
+				"__h": 16
+			},
+			"3": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"delay": 150,
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/normal/3",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/pressed/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/disabled/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -255
+				},
+				"": "/UI/UIWindow2/Skill/main/BtHyperAni/mouseOver/0",
+				"__w": 50,
+				"__h": 16
+			}
+		}
+	},
+	"BtVMatrix": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -52
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix/normal/0",
+				"__w": 154,
+				"__h": 35
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -52
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix/pressed/0",
+				"__w": 154,
+				"__h": 35
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -52
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix/disabled/0",
+				"__w": 154,
+				"__h": 35
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -11,
+					"y": -52
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix/mouseOver/0",
+				"__w": 154,
+				"__h": 35
+			}
+		}
+	},
+	"BtVMatrix_Dual": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -65
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix_Dual/normal/0",
+				"__w": 154,
+				"__h": 24
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -65
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix_Dual/pressed/0",
+				"__w": 154,
+				"__h": 24
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -65
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix_Dual/disabled/0",
+				"__w": 154,
+				"__h": 24
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -10,
+					"y": -64
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtVMatrix_Dual/mouseOver/0",
+				"__w": 154,
+				"__h": 25
+			}
+		}
+	},
+	"BtSkillSkin": {
+		"normal": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -255
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtSkillSkin/normal/0",
+				"__w": 50,
+				"__h": 16
+			}
+		},
+		"pressed": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -255
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtSkillSkin/pressed/0",
+				"__w": 51,
+				"__h": 16
+			}
+		},
+		"disabled": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -255
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtSkillSkin/disabled/0",
+				"__w": 51,
+				"__h": 16
+			}
+		},
+		"mouseOver": {
+			"0": {
+				"origin": {
+					"x": -62,
+					"y": -255
+				},
+				"z": 0,
+				"": "/UI/UIWindow2/Skill/main/BtSkillSkin/mouseOver/0",
+				"__w": 50,
+				"__h": 17
+			}
+		}
+	}
+}

@@ -1,0 +1,361 @@
+{
+	"info": {},
+	"bsc": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/JPZipang_Kinoko/bsc/0",
+			"__w": 90,
+			"__h": 60
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/JPZipang_Kinoko/bsc/1",
+			"__w": 90,
+			"__h": 60
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/grassySoil/bsc/2",
+			"__w": 90,
+			"__h": 60
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/grassySoil/bsc/3",
+			"__w": 90,
+			"__h": 60
+		},
+		"4": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/grassySoil/bsc/4",
+			"__w": 90,
+			"__h": 60
+		},
+		"5": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": 0,
+			"": "/Map/Tile/JPZipang_Kinoko/bsc/5",
+			"__w": 90,
+			"__h": 60
+		}
+	},
+	"enH0": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 39
+			},
+			"map": {},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enH0/0",
+			"__w": 90,
+			"__h": 39
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 40
+			},
+			"map": {},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enH0/1",
+			"__w": 90,
+			"__h": 40
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 40
+			},
+			"z": -3,
+			"map": {},
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enH0/2",
+			"__w": 90,
+			"__h": 40
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 40
+			},
+			"z": -3,
+			"map": {},
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enH0/3",
+			"__w": 90,
+			"__h": 40
+		}
+	},
+	"enH1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/grassySoil/enH1/0",
+			"__w": 90,
+			"__h": 26
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/JPZipang_Kinoko/enH1/1",
+			"__w": 90,
+			"__h": 27
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"map": {},
+			"": "/Map/Tile/grassySoil/enH1/2",
+			"__w": 90,
+			"__h": 26
+		},
+		"3": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -3,
+			"map": {},
+			"": "/Map/Tile/JPZipang_Kinoko/enH1/3",
+			"__w": 90,
+			"__h": 27
+		}
+	},
+	"enV0": {
+		"0": {
+			"origin": {
+				"x": 30,
+				"y": 0
+			},
+			"map": {},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV0/0",
+			"__w": 30,
+			"__h": 60
+		},
+		"1": {
+			"origin": {
+				"x": 30,
+				"y": 0
+			},
+			"map": {},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV0/1",
+			"__w": 30,
+			"__h": 60
+		},
+		"2": {
+			"origin": {
+				"x": 33,
+				"y": 0
+			},
+			"z": -2,
+			"map": {},
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV0/2",
+			"__w": 33,
+			"__h": 60
+		}
+	},
+	"enV1": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV1/0",
+			"__w": 30,
+			"__h": 60
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -2,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV1/1",
+			"__w": 30,
+			"__h": 60
+		},
+		"2": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"z": -2,
+			"map": {},
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/enV1/2",
+			"__w": 30,
+			"__h": 60
+		}
+	},
+	"edU": {
+		"0": {
+			"origin": {
+				"x": 32,
+				"y": 38
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/edU/0",
+			"__w": 61,
+			"__h": 38
+		},
+		"1": {
+			"origin": {
+				"x": 29,
+				"y": 40
+			},
+			"z": -4,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/edU/1",
+			"__w": 58,
+			"__h": 40
+		}
+	},
+	"edD": {
+		"0": {
+			"origin": {
+				"x": 27,
+				"y": 0
+			},
+			"z": -4,
+			"map": {},
+			"": "/Map/Tile/JPZipang_Kinoko/edD/0",
+			"__w": 53,
+			"__h": 19
+		},
+		"1": {
+			"origin": {
+				"x": 27,
+				"y": 0
+			},
+			"z": -4,
+			"map": {},
+			"": "/Map/Tile/JPZipang_Kinoko/edD/1",
+			"__w": 53,
+			"__h": 19
+		}
+	},
+	"slLU": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 96
+			},
+			"z": -3,
+			"map": {},
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/slLU/0",
+			"__w": 90,
+			"__h": 96
+		}
+	},
+	"slRU": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 96
+			},
+			"map": {},
+			"z": -3,
+			"foothold": "{Shape2D#Convex2D}",
+			"": "/Map/Tile/grassySoil/slRU/0",
+			"__w": 90,
+			"__h": 96
+		}
+	},
+	"slLD": {
+		"0": {
+			"origin": {
+				"x": 90,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/JPZipang_Kinoko/slLD/0",
+			"__w": 90,
+			"__h": 79
+		},
+		"1": {
+			"origin": {
+				"x": 90,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/JPZipang_Kinoko/slLD/1",
+			"__w": 90,
+			"__h": 79
+		}
+	},
+	"slRD": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/JPZipang_Kinoko/slRD/0",
+			"__w": 90,
+			"__h": 79
+		},
+		"1": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"map": {},
+			"z": -3,
+			"": "/Map/Tile/JPZipang_Kinoko/slRD/1",
+			"__w": 90,
+			"__h": 79
+		}
+	}
+}
