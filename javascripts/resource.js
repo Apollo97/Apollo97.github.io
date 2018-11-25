@@ -1,11 +1,19 @@
 ﻿
-import { ItemCategoryInfo } from "../../src/Common/ItemCategoryInfo.js";
+//import { ItemCategoryInfo } from "../../src/Common/ItemCategoryInfo.js";
+
+if (window.$ROOT_PATH == null) {
+	window.$ROOT_PATH = "";
+	console.error("window.$ROOT_PATH");
+}
 
 window.$noimage = location.search.indexOf("noimage") >= 0;
 
 const $failed_urls = [];
 
 const $archive = {};
+
+const $symbol_partial = Symbol("partial");
+const $symbol_loading = Symbol("loading");
 
 
 window.character_emotion_list = ["blink", "hit", "smile", "troubled", "cry", "angry", "bewildered", "stunned",
@@ -34,11 +42,16 @@ export class ResourceManager {
 	
 	/**
 	 * @param {string} url
+	 * @param {""|"arraybuffer"|"blob"|"document"|"json"|"text"} responseType
 	 */
-	static get(url) {
+	static get(url, responseType) {
 		return new Promise(function (resolve, reject) {
 			let xhr = new XMLHttpRequest();
 			xhr.open("GET", url, true);
+
+			if (responseType) {
+				xhr.responseType = responseType;;
+			}
 
 			xhr.timeout = 10 * 60 * 1000;//20000;
 
@@ -50,7 +63,7 @@ export class ResourceManager {
 					reject(this.status + ": " + url);
 				}
 				else if (this.status == 200) {
-					resolve(this.responseText);
+					resolve(this.response);
 				}
 				else if (this.status == 304) {
 					debugger
@@ -78,6 +91,8 @@ export class ResourceManager {
 	 * @returns {{info:{icon:{[""]:string},iconRaw:{[""]:string}},name:string,desc:string,[prop:string]:any}}
 	 */
 	static async getItem(itemId) {
+		const { ItemCategoryInfo } = await import("../../src/Common/ItemCategoryInfo.js");
+
 		/** @type {ItemCategoryInfo} */
 		let info = ItemCategoryInfo.get(itemId);
 		if (!info) {
@@ -162,7 +177,10 @@ function $setValue(obj, path, value) {
 	for (i = 0; i < lastIndex; ++i) {
 		let key = ps[i];
 		if (target[key] == null) {
-			target[key] = {};
+			target[key] = {
+				[$symbol_partial]: true,
+			};
+			console.info("partial object: ", path);
 		}
 		target = target[key];
 	}
@@ -170,19 +188,43 @@ function $setValue(obj, path, value) {
 	if (origin_value instanceof Promise) {
 		delete target[ps[lastIndex]];
 		target[ps[lastIndex]] = value;
+		if (target[ps[lastIndex]][$symbol_partial]) {
+			delete target[key][$symbol_partial];
+			console.info("completed object (promise): ", path);
+		}
 	}
 	else if (origin_value && typeof origin_value == "object") {
-		//if (value instanceof Promise) {
-		//	debugger;
-		//}
-		//else {
-			for (let key in value) {
-				origin_value[key] = value[key] || origin_value[key];
+		if (value instanceof Promise) {
+			debugger;
+			origin_value[$symbol_loading] = value.then(function (data) {
+				//for (let key in value) {
+				//	origin_value[key] = value[key] || origin_value[key];
+				//}
+				objectAssignDeep(origin_value, data);
+				if (origin_value[$symbol_partial]) {
+					delete origin_value[$symbol_partial];
+					console.info("completed object (await promise): ", path);
+				}
+				delete origin_value[$symbol_loading];
+			});
+		}
+		else {
+			//for (let key in value) {
+			//	origin_value[key] = value[key] || origin_value[key];
+			//}
+			objectAssignDeep(origin_value, value);
+			if (origin_value[$symbol_partial]) {
+				delete origin_value[$symbol_partial];
+				console.info("completed object (value): ", path);
 			}
-		//}
+		}
 	}
 	else if (typeof value != "undefined") {
 		target[ps[lastIndex]] = value;
+		if (target[ps[lastIndex]][$symbol_partial]) {
+			delete target[ps[lastIndex]][$symbol_partial];
+			console.info("C: completed object: ", path);
+		}
 	}
 }
 function $getValue(obj, path) {
@@ -233,6 +275,9 @@ function _getDataPathByUrl(path) {
 		if (window.$ROOT_PATH != "" && path.startsWith(window.$ROOT_PATH)) {
 			return path.slice(window.$ROOT_PATH.length);
 		}
+		else {
+			return path;
+		}
 	}
 	return undefined;
 }
@@ -253,8 +298,15 @@ function $getValueAsync(obj, path) {
 		if (value instanceof Promise) {
 			// ??
 			return new Promise(async function (resolve, reject) {
-				await value;
-				resolve(await $getValueAsync(obj, path));
+				try {
+					let t = await value;
+					resolve(t);
+					//resolve(await $getValueAsync(obj, path));
+				}
+				catch (ex) {
+					debugger;
+					reject(ex);
+				}
 			});
 		}
 		else {
@@ -268,8 +320,15 @@ function $getValueAsync(obj, path) {
 			let key = ps[i];
 			if (target[key] instanceof Promise) {
 				return new Promise(async function (resolve, reject) {
-					await target[key];
-					resolve(await $getValueAsync(obj, path));
+					try {
+						let t = await target[key];
+						resolve(t);
+						//resolve(await $getValueAsync(obj, path));
+					}
+					catch (ex) {
+						debugger;
+						reject(ex);
+					}
 				});
 			}
 			if (target[key]) {
@@ -282,8 +341,15 @@ function $getValueAsync(obj, path) {
 		let result = target[ps[lastIndex]];
 		if (result instanceof Promise) {
 			return new Promise(async function (resolve, reject) {
-				await result;
-				resolve(await $getValueAsync(obj, path));
+				try {
+					let t = await result;
+					resolve(t);
+					//resolve(await $getValueAsync(obj, path));
+				}
+				catch (ex) {
+					debugger;
+					reject(ex);
+				}
 			});
 		}
 		else {
@@ -318,21 +384,26 @@ $get.pack = async function $get_pack(path) {
 		return obj;
 	}
 	else {
-		if (process.env.NODE_ENV !== "production") {
-			if (obj && !obj[symbol_isPack]) {
-				throw new TypeError("data: " + path);
-			}
-		}
+		//if (process.env.NODE_ENV !== "production") {
+		//	if (obj && !obj[symbol_isPack]) {
+		//		throw new TypeError("data: " + path);
+		//	}
+		//}
 		const url = $get.packUrl(path);
 
 		let task = (async function () {
-			let jsonText = await ResourceManager.get(url);
+			try {
+				let jsonText = await ResourceManager.get(url);
 
-			obj = JSON.parse(jsonText);
+				obj = JSON.parse(jsonText);
 
-			_setValueByPath(path, obj, true);
+				_setValueByPath(path, obj, true);
 
-			return obj;
+				return obj;
+			}
+			catch (ex) {
+				return undefined;
+			}
 		})();
 		_setValueByPath(path, task, true);
 
@@ -365,20 +436,28 @@ $get.data = async function $get_data(path) {
 	if (obj instanceof Promise) {
 		return await obj;
 	}
-	else if (obj) {
+	else if (obj && !obj[$symbol_partial]) {
 		return obj;
 	}
 	else {
+		if (obj && obj[$symbol_partial]) {
+			console.info("complet object: ", path);
+		}
 		const url = $get.dataUrl(path);
 
 		let task = (async function () {
-			let jsonText = await ResourceManager.get(url);
+			try {
+				let jsonText = await ResourceManager.get(url);
 
-			obj = JSON.parse(jsonText);
+				obj = JSON.parse(jsonText);
 
-			_setValueByPath(path, obj, false);
+				_setValueByPath(path, obj, false);
 
-			return obj;
+				return obj;
+			}
+			catch (ex) {
+				return undefined;
+			}
 		})();
 		_setValueByPath(path, task, false);
 
@@ -409,22 +488,34 @@ $get.list = async function $get_list(path) {
 	}
 
 	if (obj instanceof Promise) {
+		console.warn("$get.list 未完成");
 		return await obj;
 	}
-	else if (obj) {
+	else if (obj && !obj[$symbol_partial]) {
+		console.warn("$get.list 未完成");
 		return obj;
 	}
 	else {
+		if (obj && obj[$symbol_partial]) {
+			console.info("complet object: ", path);
+		}
+		console.warn("$get.list 未完成");
+
 		const url = $get.listUrl(path);
 
 		let task = (async function () {
-			let jsonText = await ResourceManager.get(url);
+			try {
+				let jsonText = await ResourceManager.get(url);
 
-			obj = JSON.parse(jsonText);
+				obj = JSON.parse(jsonText);
 
-			_setValueByPath(path, obj, false);
+				_setValueByPath(path, obj, false);
 
-			return obj;
+				return obj;
+			}
+			catch (ex) {
+				return undefined;
+			}
 		})();
 		_setValueByPath(path, task, false);
 
@@ -439,6 +530,58 @@ $get.listSync = function $get_listSync(path) {
 	let obj = _getValueFromArchiveByPath(path);
 	if (obj) {
 		return Object.keys(obj);
+	}
+	return undefined;
+}
+/**
+ * @param {string} path
+ * @returns {Promise<any>}
+ */
+$get.binary = async function $get_data(path) {
+	let _path = _getDataPathByUrl(path);
+	let obj;
+
+	if (_path) {
+		obj = $getValueAsync($archive, _path);
+	}
+
+	if (obj instanceof Promise) {
+		return await obj;
+	}
+	else if (obj && !obj[$symbol_partial]) {
+		return obj;
+	}
+	else {
+		if (obj && obj[$symbol_partial]) {
+			console.info("complet object: ", path);
+		}
+		const url = $get.binaryUrl(path);
+
+		let task = (async function () {
+			try {
+				let buf = await ResourceManager.get(url, "arrayBuffer");
+
+				_setValueByPath(path, buf, false);
+
+				return buf;
+			}
+			catch (ex) {
+				return undefined;
+			}
+		})();
+		_setValueByPath(path, task, false);
+
+		return await task;
+	}
+}
+/**
+ * @param {string} path
+ * @returns {any}
+ */
+$get.binarySync = function get_dataSync(path) {
+	let obj = _getValueFromArchiveByPath(path);
+	if (obj) {
+		return obj;
 	}
 	return undefined;
 }
@@ -477,6 +620,19 @@ $get.listUrl = function $get_listUrl(path) {
 		return `${window.$ROOT_PATH}ls${path}.json`;
 	}
 	throw new Error(path);
+}
+/**
+ * @param {string} path
+ * @returns {string}
+ */
+$get.binaryUrl = function $get_dataUrl(path) {
+	if (url_startsWith_protocol(path)) {
+		return path;
+	}
+	else if (!path.startsWith("binary")) {
+		return `${window.$ROOT_PATH}binary${path}`;
+	}
+	throw new Error("Not game binary data: " + path);
 }
 /**
  * @param {string} path
@@ -929,4 +1085,34 @@ window.load_extern_item_data = async function (id) {
 	};
 
 	return raw;
+}
+
+function _objectAssignDeep(target, object) {
+	if (target != null && object != null) {
+		if (Object.prototype.valueOf.call(object) instanceof String) {
+			target = object;
+		}
+		else if (Object.prototype.valueOf.call(object) instanceof Number) {
+			target = object;
+		}
+		else if (Object.prototype.valueOf.call(object) instanceof Boolean) {
+			target = object;
+		}
+		else {
+			for (let key in object) {
+				let value = object[key];
+				if (value != null) {
+					target[key] = _objectAssignDeep(target[key], value);
+				}
+			}
+		}
+	}
+	return target;
+}
+
+function objectAssignDeep(target, ...objects) {
+	for (let object of objects) {
+		_objectAssignDeep(target, object);
+	}
+	return target;
 }

@@ -1,0 +1,41 @@
+{
+	"info": {
+		"imitate": 1,
+		"hideName": 1,
+		"dcLeft": -30,
+		"dcRight": 30,
+		"dcTop": -60,
+		"dcBottom": 0,
+		"script": {
+			"0": {
+				"script": "dream_Ranker1"
+			}
+		}
+	},
+	"stand": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"delay": 1800,
+			"": "/Npc/9010101/stand/0",
+			"__w": 1,
+			"__h": 1
+		}
+	},
+	"say": {
+		"0": {
+			"origin": {
+				"x": 0,
+				"y": 0
+			},
+			"": "/Npc/9010101/say/0",
+			"__w": 1,
+			"__h": 1
+		},
+		"speak": {
+			"0": "n0"
+		}
+	}
+}

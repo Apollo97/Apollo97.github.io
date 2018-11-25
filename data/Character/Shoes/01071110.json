@@ -26,9 +26,7 @@
 		"reqDEX": 0,
 		"reqINT": 0,
 		"reqLUK": 0,
-		"cash": 1,
-		"setItemID": 687,
-		"royalSpecial": 1
+		"cash": 1
 	},
 	"walk1": {
 		"0": {
@@ -1310,7 +1308,7 @@
 					}
 				},
 				"z": "shoesTop",
-				"": "/Character/Shoes/01073254/stabTF/2/shoes",
+				"": "/Character/Shoes/01070093/stabTF/2/shoes",
 				"__w": 22,
 				"__h": 24
 			}
